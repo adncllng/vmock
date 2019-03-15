@@ -4,11 +4,10 @@ import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 
-const BlogPost = ({ data }) => {
+const BlogPost = ({ data, location }) => {
   const { markdownRemark: post } = data
-
   return (
-    <Layout>
+    <Layout location= {location} >
           <Helmet titleTemplate="%s | Blog">
             <title>{`${post.frontmatter.title}`}</title>
             <meta name="description" content={`${post.frontmatter.description}`} />
