@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
 import ReactDOM from "react-dom";
-import "./menu.css";
 const style = {
   position: 'sticky;',
   top: '0;',
