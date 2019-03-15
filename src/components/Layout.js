@@ -54,7 +54,7 @@ const TemplateWrapper = ({ children, location, inView }) => (
           <meta property="og:url" content="/" />
           <meta property="og:image" content="/img/og-image.jpg" />
         </Helmet>
-        {!location.state && <div style={{ height: "100vw" }} />}
+        {location && !location.state && <div style={{ height: "100vw" }} />}
         <Menu inView={inView} />
         <div
           className="mockler"
