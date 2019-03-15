@@ -6000,15 +6000,6 @@ gatsby-plugin-page-creator@^2.0.4:
     parse-filepath "^1.0.1"
     slash "^1.0.0"
 
-gatsby-plugin-page-transitions@^1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-page-transitions/-/gatsby-plugin-page-transitions-1.0.7.tgz#e6c5a858d3c59fbccfefb19d0bd0834c36535d48"
-  integrity sha512-JyswnEWjyU7bikxndLYurMdu6nkPww2ncWMU22N9zhSnCf9G8ypqqbcK/XaTUeyvM1QlDYFRrsJLjeV2YWnqjA==
-  dependencies:
-    history "^4.7.2"
-    prop-types "^15.6.2"
-    react-transition-group "^2.4.0"
-
 gatsby-plugin-purgecss@^2.4.0:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-purgecss/-/gatsby-plugin-purgecss-2.4.0.tgz#2cfe4c3ad4727fcaa3191ba53867fc5d21a14601"
@@ -12229,16 +12220,6 @@ react-transition-group@^2.2.1:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/react-transition-group/-/react-transition-group-2.5.0.tgz#70bca0e3546102c4dc5cf3f5f57f73447cce6874"
   integrity sha512-qYB3JBF+9Y4sE4/Mg/9O6WFpdoYjeeYqx0AFb64PTazVy8RPMiE3A47CG9QmM4WJ/mzDiZYslV+Uly6O1Erlgw==
-  dependencies:
-    dom-helpers "^3.3.1"
-    loose-envify "^1.4.0"
-    prop-types "^15.6.2"
-    react-lifecycles-compat "^3.0.4"
-
-react-transition-group@^2.4.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/react-transition-group/-/react-transition-group-2.6.0.tgz#3c41cbdd9c044c5f8604d4e8d319e860919c9fae"
-  integrity sha512-VzZ+6k/adL3pJHo4PU/MHEPjW59/TGQtRsXC+wnxsx2mxjQKNHnDdJL/GpYuPJIsyHGjYbBQfIJ2JNOAdPc8GQ==
   dependencies:
     dom-helpers "^3.3.1"
     loose-envify "^1.4.0"
