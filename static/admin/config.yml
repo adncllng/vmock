@@ -10,8 +10,9 @@ collections:
     label: "Blog - EN"
     folder: "src/pages/blog/en"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
+      - {label: Image, name: image, widget: image}
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Locale", name: "locale", widget: "hidden", default: "en"}
       - {label: "Page Key", name: "pageKey", widget: "hidden", default: "page_blogpost"}
@@ -19,14 +20,15 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "blog-de"
-    label: "Blog - DE"
-    folder: "src/pages/blog/de"
+  - name: "blog-fr"
+    label: "Blog - FR"
+    folder: "src/pages/blog/fr"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
+      - {label: Image, name: image, widget: image}
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
-      - {label: "Locale", name: "locale", widget: "hidden", default: "de"}
+      - {label: "Locale", name: "locale", widget: "hidden", default: "fr"}
       - {label: "Page Key", name: "pageKey", widget: "hidden", default: "page_blogpost"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
@@ -45,12 +47,12 @@ collections:
           - {label: "SEO Description", name: "seo_desc", widget: "string"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Text", name: "text", widget: "text"}
-      - label: "Home - DE"
+      - label: "Home - FR"
         name: "home"
-        file: "src/pages/home/index.de.md"
+        file: "src/pages/home/index.fr.md"
         fields:
           - {label: "Page Key", name: "pageKey", widget: "hidden", default: "page_home"}
-          - {label: "Locale", name: "locale", widget: "hidden", default: "de"}
+          - {label: "Locale", name: "locale", widget: "hidden", default: "fr"}
           - {label: "SEO Title", name: "seo_title", widget: "string"}
           - {label: "SEO Description", name: "seo_desc", widget: "string"}
           - {label: "Title", name: "title", widget: "string"}

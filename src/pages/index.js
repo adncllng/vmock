@@ -38,7 +38,7 @@ class IndexPage extends React.Component {
         <h1>title: {data.frontmatter.title}</h1>
         <p>Content: {data.frontmatter.text}</p>
         <p>Locale: {locale}</p>
-        <Link to={locale === "en" ? "/de" : "/"} state={{ fromHome: true }}>
+        <Link to={locale === "en" ? "/fr" : "/"} state={{ fromHome: true }}>
           <p>Change language</p>
         </Link>
         <h2 style={{ position: "sticky", top: "0" }}>BlogPosts:</h2>
