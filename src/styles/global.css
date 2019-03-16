@@ -1,8 +1,26 @@
 body {
   margin: 0;
-
+  background-color: #f9feff;
+  font-family: 'Lato', Helvetica;
 }
 html {
-    overflow-y: scroll;
-    scroll-behavior: smooth;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
+
+#veronica {
+  max-width: 45vw;
+  font-size: 7vw;
+  font-family: "Lato", Helvetica;
+  color: rgb(255, 255, 255);
+  text-shadow: 0px 20px 15.52px rgba(7, 26, 1, 0.05);
+  line-height: 7.5vw;
+  z-index: 2;
+  color: #ff9600;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke-width: 0.03em;
+  -webkit-text-stroke-color: c;
+  padding-left: 0.5em;
+  margin:0;
+  text-transform: uppercase;
 }

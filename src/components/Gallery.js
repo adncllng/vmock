@@ -19,50 +19,6 @@ const unGallery = ({ posts, inViewport, innerRef, handleInView }) => {
       }}
     >
       {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
     </div>
   );
 };

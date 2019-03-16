@@ -42,22 +42,6 @@ class IndexPage extends React.Component {
           <p>Change language</p>
         </Link>
         <h2 style={{ position: "sticky", top: "0" }}>BlogPosts:</h2>
-        {posts.map(({ node: post }) => (
-          <div>
-            <h3 style={{ position: "sticky", top: "0" }}>
-              Blog Post Title: {post.frontmatter.title}
-            </h3>
-            <p>Blog Post Description: {post.frontmatter.description}</p>
-            <p>Blog Post Date: {post.frontmatter.date}</p>
-            <Link
-              to={post.fields.slug}
-              state={{ fromHome: true }}
-              title="link to blog post"
-            >
-              Link to blog post
-            </Link>
-          </div>
-        ))}
         <ViewportGallery
           onEnterViewport={() => this.handleInView("GALLERY")}
           onLeaveViewport={() => this.handleOutView()}
@@ -122,6 +106,13 @@ export const pageQuery = graphql`
             title
             description
             date
+            image {
+              childImageSharp {
+                fluid(maxWidth: 2000, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }

@@ -11,28 +11,29 @@ const imageBoxStyle = {
   margin: MARGIN + "px"
 };
 const Box = posed.div({
-  hidden: {
-    opacity: 0.2, // temp
-    border: "solid 1px black"
-  },
   visible: {
     delay: 250,
-    opacity: 0.8,
+    opacity: 1,
     border: "solid 5px black"
+  },
+  hidden: {
+    opacity: 0, // temp
+    border: "solid 1px black"
   }
 });
 const ToLeft = posed.div({
   enter: {
     x: 0,
-    visibilty: "visible",
+    opacity: 1,
+    color:'red',
     transition: {
-      x: { type: "spring", stiffness: 1000, damping: 150 },
-      default: { duration: 300 }
+      x: { type: "spring", stiffness: 1000, damping: 150, delay:500 },
+      default: { duration: 300, delay:500  }
     }
   },
   exit: {
-    x: 100,
-    visibilty: "hidden",
+    opacity: 0,
+    x: 500,
     transition: { duration: 200 }
   }
 });
@@ -40,14 +41,15 @@ const ToRight = posed.div({
   enter: {
     x: 0,
     opacity: 1,
+    color:'red',
     transition: {
-      x: { type: "spring", stiffness: 1000, damping: 150 },
-      default: { duration: 300 }
+      x: { type: "spring", stiffness: 1000, damping: 150, delay:500 },
+      default: { duration: 300, delay:500  }
     }
   },
   exit: {
-    x: -100,
     opacity: 0,
+    x: -500,
     transition: { duration: 200 }
   }
 });
@@ -77,27 +79,35 @@ class GalleryImage extends React.Component {
           position: "relative",
           overflow: "hidden",
           margin: MARGIN + "px",
+          width: WIDTH + "px",
+          height: WIDTH / (3 / 2) + "px",
+           boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',
         }}
       >
         <Box
           style={{
+            position: "absolute",
+            overflow: "hidden",
             zIndex: "100",
-            height: WIDTH / (3/2) + "px",
+            width: WIDTH + "px",
+            height: WIDTH / (3 / 2) + "px",
             justifyContent: "space-between",
-            backgroundColor: "grey",
+            backgroundColor: 'rgb(249,254,255,0.9)',
             boxSizing: "border-box"
           }}
           pose={showDescription ? "visible" : "hidden"}
         >
           <ToLeft
             style={{
+              position: "absolute",
               margin: "10px",
-              height: "50px",
+              height: "150px",
               width: WIDTH - 30 + "px",
-              fontSize: "25px",
+              fontSize: "50px",
               overflow: "hidden",
               left: "0",
-              padding: "0"
+              padding: "0",
+              color:'black'
             }}
             pose={showDescription ? "enter" : "exit"}
           >
@@ -108,20 +118,21 @@ class GalleryImage extends React.Component {
               margin: "10px",
               position: "absolute",
               bottom: "0",
-              right: "0"
+              fontSize: "20px",
+              height:'60px',
+              right: "0",
+              color:'black'
             }}
             pose={showDescription ? "enter" : "exit"}
           >
             {this.props.post.frontmatter.description}
           </ToRight>
         </Box>
-        <div style={imageBoxStyle}>
-          {this.props.post.frontmatter.image && (
-            <Img
-              fluid={this.props.post.frontmatter.image.childImageSharp.fluid}
-            />
-          )}
-        </div>
+        {this.props.post.frontmatter.image && (
+          <Img
+            fluid={this.props.post.frontmatter.image.childImageSharp.fluid}
+          />
+        )}
       </Link>
     );
   }
