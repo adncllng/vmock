@@ -24,7 +24,7 @@ const Box = posed.div({
 const ToLeft = posed.div({
   enter: {
     x: 0,
-    visibilty:'visible',
+    visibilty: "visible",
     transition: {
       x: { type: "spring", stiffness: 1000, damping: 150 },
       default: { duration: 300 }
@@ -32,7 +32,7 @@ const ToLeft = posed.div({
   },
   exit: {
     x: 100,
-    visibilty:'hidden',
+    visibilty: "hidden",
     transition: { duration: 200 }
   }
 });
@@ -76,7 +76,7 @@ class GalleryImage extends React.Component {
       >
         <Box
           style={{
-            position:'relative',
+            position: "relative",
             zIndex: "100",
             justifyContent: "space-between",
             overflow: "hidden",
@@ -92,18 +92,23 @@ class GalleryImage extends React.Component {
             style={{
               margin: "10px",
               height: "50px",
-              width: WIDTH - 30+'px',
+              width: WIDTH - 30 + "px",
               fontSize: "25px",
-               overflow:'hidden',
-              left:'0',
-              padding:'0'
+              overflow: "hidden",
+              left: "0",
+              padding: "0"
             }}
             pose={showDescription ? "enter" : "exit"}
           >
             {this.props.post.frontmatter.title}
           </ToLeft>
           <ToRight
-            style={{ margin: "10px", position:'absolute',bottom:'0', right:'0' }}
+            style={{
+              margin: "10px",
+              position: "absolute",
+              bottom: "0",
+              right: "0"
+            }}
             pose={showDescription ? "enter" : "exit"}
           >
             {this.props.post.frontmatter.description}

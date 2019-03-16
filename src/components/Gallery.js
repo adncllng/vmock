@@ -6,10 +6,10 @@ import handleViewport from "react-in-viewport";
 
 const style = mobile => {};
 
-const unGallery = ({ posts, inViewport, innerRef, handleInView}) => {
+const unGallery = ({ posts, inViewport, innerRef, handleInView }) => {
   return (
     <div
-    ref={innerRef}
+      ref={innerRef}
       style={{
         display: "flex",
         flexWrap: "wrap",
@@ -67,5 +67,7 @@ const unGallery = ({ posts, inViewport, innerRef, handleInView}) => {
   );
 };
 
-const ViewportGallery = handleViewport(unGallery /** options: {}, config: {} **/);
+const ViewportGallery = handleViewport(
+  unGallery /** options: {}, config: {} **/
+);
 export default ViewportGallery;

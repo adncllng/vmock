@@ -12,16 +12,16 @@ class IndexPage extends React.Component {
       inView: ""
     };
   }
-  handleInView =  (element) => {
+  handleInView = element => {
     this.setState({
       inView: element
-    })
-  }
-  handleOutView =  () => {
+    });
+  };
+  handleOutView = () => {
     this.setState({
-      inView: ''
-    })
-  }
+      inView: ""
+    });
+  };
   render() {
     const {
       pageContext: { locale },
@@ -59,7 +59,7 @@ class IndexPage extends React.Component {
           </div>
         ))}
         <ViewportGallery
-          onEnterViewport={() => this.handleInView('GALLERY')}
+          onEnterViewport={() => this.handleInView("GALLERY")}
           onLeaveViewport={() => this.handleOutView()}
           posts={posts}
         />
