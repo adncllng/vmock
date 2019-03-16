@@ -5,6 +5,7 @@ import Helmet from "react-helmet";
 import PropTypes from "prop-types";
 import ViewportGallery from "../components/Gallery";
 
+
 class IndexPage extends React.Component {
   constructor(props) {
     super(props);
