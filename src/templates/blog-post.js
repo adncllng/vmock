@@ -12,10 +12,12 @@ const BlogPost = ({ data, location }) => {
         <title>{`${post.frontmatter.title}`}</title>
         <meta name="description" content={`${post.frontmatter.description}`} />
       </Helmet>
-      <h1>title: {post.frontmatter.title}</h1>
-      <p>description: {post.frontmatter.description}</p>
-      <p>date: {post.frontmatter.date}</p>
-      <div dangerouslySetInnerHTML={{ __html: post.html }} />
+      <div className="CHIDREN_OF_BLOGPOST">
+        <h1>title: {post.frontmatter.title}</h1>
+        <p>description: {post.frontmatter.description}</p>
+        <p>date: {post.frontmatter.date}</p>
+        <div dangerouslySetInnerHTML={{ __html: post.html }} />
+      </div>
     </Layout>
   );
 };
