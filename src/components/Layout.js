@@ -70,7 +70,7 @@ const TemplateWrapper = ({ children, location, inView }) => (
           <h1 style={{ margin: "0", fontSize: "7vw" }}>VERONICA MOCKLER;</h1>
         </div>
 
-        <div className="main-container" style={{ marginLeft: "6vw" }}>
+        <div className="main-container" style={{ marginLeft: "20vw"}}>
           {children}
         </div>
         <div

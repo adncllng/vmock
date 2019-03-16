@@ -3,7 +3,7 @@ import { Link } from "gatsby";
 import Img from "gatsby-image";
 import posed, { PoseGroup } from "react-pose";
 
-const WIDTH = "250";
+const WIDTH = "320";
 const HEIGHT = "187.5";
 const MARGIN = "5";
 const imageBoxStyle = {
@@ -73,17 +73,18 @@ class GalleryImage extends React.Component {
         onMouseOut={this.onMouseOut}
         to={this.props.post.fields.slug}
         title="link to blog post"
+        style={{
+          position: "relative",
+          overflow: "hidden",
+          margin: MARGIN + "px",
+        }}
       >
         <Box
           style={{
-            position: "relative",
             zIndex: "100",
+            height: WIDTH / (3/2) + "px",
             justifyContent: "space-between",
-            overflow: "hidden",
             backgroundColor: "grey",
-            width: WIDTH + "px",
-            height: HEIGHT + "px",
-            margin: MARGIN + "px",
             boxSizing: "border-box"
           }}
           pose={showDescription ? "visible" : "hidden"}
