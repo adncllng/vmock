@@ -1,4 +1,5 @@
 ---
+image: /img/20160521_224045_hdr.jpg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
