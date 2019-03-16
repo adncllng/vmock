@@ -1,57 +1,15 @@
 import React from "react";
-import { Link, graphql } from "gatsby";
-import Layout from "../components/Layout";
-import Helmet from "react-helmet";
+import {graphql } from "gatsby";
 import PropTypes from "prop-types";
-import ViewportGallery from "../components/Gallery";
+import OtherIndex from '../components/OtherIndex';
 
-
-class IndexPage extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      inView: ""
-    };
-  }
-  handleInView = element => {
-    this.setState({
-      inView: element
-    });
-  };
-  handleOutView = () => {
-    this.setState({
-      inView: ""
-    });
-  };
-  render() {
-    const {
-      pageContext: { locale },
-      location
-    } = this.props;
-    const { node: data } = this.props.data.homePageData.edges[0];
-    const { edges: posts } = this.props.data.blogPosts;
-    return (
-      <Layout location={location} inView={this.state.inView}>
-        <Helmet titleTemplate="%s | Blog">
-          <title>{`${data.frontmatter.seo_title}`}</title>
-          <meta name="description" content={`${data.frontmatter.seo_desc}`} />
-        </Helmet>
-        <h1>title: {data.frontmatter.title}</h1>
-        <p>Content: {data.frontmatter.text}</p>
-        <p>Locale: {locale}</p>
-        <Link to={locale === "en" ? "/fr" : "/"} state={{ fromHome: true }}>
-          <p>Change language</p>
-        </Link>
-        <h2 style={{ position: "sticky", top: "0" }}>BlogPosts:</h2>
-        <ViewportGallery
-          onEnterViewport={() => this.handleInView("GALLERY")}
-          onLeaveViewport={() => this.handleOutView()}
-          posts={posts}
-        />
-      </Layout>
-    );
-  }
-}
+const IndexPage = ({ pageContext: { locale }, ...props }) => {
+  const { node: data } = props.data.homePageData.edges[0];
+  const { edges: posts } = props.data.blogPosts;
+  return (
+    <OtherIndex location={props.location} data={data} locale={locale} posts={posts}/>
+  );
+};
 
 export default IndexPage;
 

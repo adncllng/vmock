@@ -25,7 +25,6 @@ const ToLeft = posed.div({
   enter: {
     x: 0,
     opacity: 1,
-    color:'red',
     transition: {
       x: { type: "spring", stiffness: 1000, damping: 150, delay:500 },
       default: { duration: 300, delay:500  }
@@ -41,7 +40,6 @@ const ToRight = posed.div({
   enter: {
     x: 0,
     opacity: 1,
-    color:'red',
     transition: {
       x: { type: "spring", stiffness: 1000, damping: 150, delay:500 },
       default: { duration: 300, delay:500  }

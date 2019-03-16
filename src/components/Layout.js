@@ -2,7 +2,7 @@ import React from "react";
 import Helmet from "react-helmet";
 import { StaticQuery, graphql } from "gatsby";
 import Menu from "./Menu";
-const TemplateWrapper = ({ children, location, inView }) => (
+const TemplateWrapper = ({ children, location, inView, locale }) => (
   <StaticQuery
     query={graphql`
       query HeadingQuery {
@@ -54,7 +54,7 @@ const TemplateWrapper = ({ children, location, inView }) => (
           <meta property="og:url" content="/" />
           <meta property="og:image" content="/img/og-image.jpg" />
         </Helmet>
-        <Menu inView={inView} />
+        <Menu inView={inView} locale={locale}/>
 
         <div
           className="mockler"

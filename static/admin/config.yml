@@ -10,7 +10,7 @@ collections:
     label: "Blog - EN"
     folder: "src/pages/blog/en"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: Image, name: image, widget: image}
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
@@ -24,7 +24,7 @@ collections:
     label: "Blog - FR"
     folder: "src/pages/blog/fr"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: Image, name: image, widget: image}
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}

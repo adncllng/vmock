@@ -35,6 +35,9 @@ const Menu = ({ locale, mobile, location, inView }) => {
       >
         <p>{locale === "en" ? "PROJECTS" : "PROJECTS"}</p>
       </Link>
+      <Link to={locale === "en" ? "/fr" : "/"}>
+        <p>{locale === "en" ? "en" : "fr"}</p>
+      </Link>
     </div>
   );
 };
