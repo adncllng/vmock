@@ -30,6 +30,8 @@
     "react-helmet": "^5.2.0",
     "react-in-viewport": "^0.0.37",
     "react-pose": "^4.0.8",
+    "react-scroll": "^1.7.11",
+    "react-scrollable-anchor": "^0.6.1",
     "uuid": "^3.2.1"
   },
   "keywords": [
