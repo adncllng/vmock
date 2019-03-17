@@ -2,15 +2,27 @@ body {
   margin: 0;
   margin-right: 10px;
   background-color: #f9feff;
-  font-family: 'Lato', Helvetica;
+  font-family: "Lato", Helvetica;
 }
 html {
   overflow-y: scroll;
 }
-.menu{
-    scroll-behavior: smooth !important;
+.menu {
+  margin: 15px;
+  font-size: 20px;
+  text-transform: capitalize;
+  position: sticky;
+  top: 0px;
+  transform-origin: left top;
+  transform: rotate(-90deg) translateX(-100%);
+  width: 100vh;
+  display: flex;
+  justify-content: space-around;
 }
-
+a {
+  text-decoration: none;
+  color: black;
+}
 
 #veronica {
   max-width: 45vw;
@@ -21,10 +33,10 @@ html {
   line-height: 7.5vw;
   z-index: 2;
   color: #ff9600;
-  -webkit-text-fill-color: white;
+  -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 0.03em;
   -webkit-text-stroke-color: c;
   padding-left: 0.5em;
-  margin:0;
+  margin: 0;
   text-transform: uppercase;
 }

@@ -30,14 +30,14 @@ class OtherIndex extends React.Component {
     };
   }
   handleInView = element => {
-    this.setState({
+    return this.setState({
       inView: element
     });
   };
 
   handleOutView = () => {
-    this.setState({
-      inView: ""
+    return this.setState({
+      inView: {}
     });
   };
   scrolll = ()=>{
@@ -50,9 +50,9 @@ class OtherIndex extends React.Component {
 })
   }
   render() {
-    const { location, data, posts, locale } = this.props;
+    const { data, posts, locale } = this.props;
     return (
-      <Layout location={location}  scrolll = {this.scrolll} inView={this.state.inView} locale={locale}>
+      <Layout location={"HOME"}  scrolll = {this.scrolll} inView={this.state.inView} locale={locale}>
         <Helmet titleTemplate="%s | Blog">
           <title>{`${data.frontmatter.seo_title}`}</title>
           <meta name="description" content={`${data.frontmatter.seo_desc}`} />
@@ -60,9 +60,10 @@ class OtherIndex extends React.Component {
    <section style={{paddingTop:'330px'}} id='projects'>
    <ViewportGallery
      onEnterViewport={() => this.handleInView("projects")}
-     onLeaveViewport={() => this.handleOutView()}
+     onLeaveViewport={this.handleOutView}
      posts={posts}
    />
+   <div style={{height:'200vw'}}></div>
    </section>
       </Layout>
     );

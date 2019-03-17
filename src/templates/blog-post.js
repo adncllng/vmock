@@ -1,7 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
 import Helmet from "react-helmet";
-import { graphql } from "gatsby";
+import {graphql } from "gatsby";
+import Img from "gatsby-image";
 import Layout from "../components/Layout";
 
 const BlogPost = ({ data, location,  pageContext: { locale } }) => {
@@ -13,6 +14,11 @@ const BlogPost = ({ data, location,  pageContext: { locale } }) => {
         <meta name="description" content={`${post.frontmatter.description}`} />
       </Helmet>
       <div className="CHIDREN_OF_BLOGPOST">
+      {post.frontmatter.image && (
+        <Img
+          fluid={post.frontmatter.image.childImageSharp.fluid}
+        />
+      )}
         <h1>title: {post.frontmatter.title}</h1>
         <p>description: {post.frontmatter.description}</p>
         <p>date: {post.frontmatter.date}</p>
@@ -21,6 +27,8 @@ const BlogPost = ({ data, location,  pageContext: { locale } }) => {
     </Layout>
   );
 };
+
+
 
 BlogPost.propTypes = {
   description: PropTypes.string,
@@ -42,6 +50,13 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         description
+        image {
+          childImageSharp {
+            fluid(maxWidth: 1000, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }

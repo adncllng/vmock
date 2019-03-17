@@ -54,11 +54,13 @@ const TemplateWrapper = ({ children, location, inView, locale,}) => (
           <meta property="og:url" content="/" />
           <meta property="og:image" content="/img/og-image.jpg" />
         </Helmet>
-        <Menu inView={inView} locale={locale} location={{location}}/>
+        {location === 'HOME' && <div style={{height:'100vh'}}></div>}
+        <Menu inView={inView} locale={locale} location={location}/>
 
         <div
           className="mockler"
           style={{
+            zIndex:'1',
             position: "fixed",
             right: "0",
             width: "50vw",
@@ -67,7 +69,7 @@ const TemplateWrapper = ({ children, location, inView, locale,}) => (
             margin: "0"
           }}
         >
-          <h1 id="veronica" style={{ margin: "0", fontSize: "7vw" }}>VERONICA MOCKLER</h1>
+          <h1 id="veronica" style={{ margin: "0", fontSize: "7vw"}}>VERONICA MOCKLER</h1>
         </div>
 
         <div className="main-container" style={{ marginLeft: "20vw"}}>

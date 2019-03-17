@@ -1,56 +1,80 @@
 import React from "react";
 import { Link } from "gatsby";
 import ReactDOM from "react-dom";
-import {
-  Link as ScrollLink,
-  DirectLink,
-  Element,
-  Events,
-  animateScroll as scroll,
-  scrollSpy,
-  scroller
-} from "react-scroll";
 
-import AnchorLink from 'react-anchor-link-smooth-scroll'
+import posed, { PoseGroup } from "react-pose";
+
+import AnchorLink from "react-anchor-link-smooth-scroll";
+
+const Item = posed.div({
+  inView: {
+    rotate: 90, //translateX(20%)",
+    originX: "10%",
+    y: 10,
+    x: 50,
+    originY: "0%",
+    transition: {
+      type: "spring",
+      stiffness: 500,
+      damping: 150,
+      restDelta: 0.5,
+      restSpeed: 10
+    }
+  },
+  outView: {
+    x: 0,
+    y: 0,
+    rotate: 0,
+    originX: "10%",
+    originY: "0%",
+    transition: {
+      type: "spring",
+      stiffness: 500,
+      damping: 150,
+      restDelta: 0.5,
+      restSpeed: 10
+    }
+  }
+});
 
 const style = {
-  position: "sticky",
-  top: "0",
-  transformOrigin: "top left",
-  transform: "rotate(-90deg) translateX(-100%)",
-  width: "100vh",
-  display: "flex",
-  justifyContent: "space-around",
-  scrollBehavior: "smooth !important"
+  // position: "sticky",
+  // top: "0",
+  // transformOrigin: "top left",
+  // transform: "rotate(-90deg) translateX(-100%)",
+  // width: "100vh",
+  // display: "flex",
+  // justifyContent: "space-around",
+  // scrollBehavior: "smooth !important"
 };
 
 const menuItemStyle = inView => {
   return inView
     ? {
-        transformOrigin: "top left",
-        transform: "rotate(90deg) translateX(20%)"
+        color: "#ff9600"
       }
     : {};
 };
 
-const translate = (word) => {
+const translate = word => {
   const translations = {
-    projects : 'projets',
-  }
+    projects: "projets"
+  };
   return translations[word];
-}
-const getLink = ({ location }, destination, locale, inView, title) => {
-  const path = location && location.pathname;
-  const localTitle = locale === 'en' ? title : translate(title)
-  return path === "/" || path === "/fr" ? (
-      <AnchorLink style={menuItemStyle(inView === 'projects')} href={`#${destination}`}>{localTitle}</AnchorLink>
-  ) : (
-    <Link
-      to={
-        locale === "en" ? "/#" + destination : "/fr/#" + destination
-      }
+};
+const getLink = (location , destination, locale, inView, title) => {
+  const localTitle = locale === "en" ? title : translate(title);
+  console.log("Location", location)
+  return location === "HOME" ? (
+    <AnchorLink
+      style={menuItemStyle(inView === "projects")}
+      href={`#${destination}`}
     >
-     {localTitle}
+      {localTitle}
+    </AnchorLink>
+  ) : (
+    <Link to={locale === "en" ? "/#" + destination : "/fr/#" + destination}>
+      {localTitle}
     </Link>
   );
 };
@@ -58,7 +82,12 @@ const getLink = ({ location }, destination, locale, inView, title) => {
 const Menu = ({ locale, mobile, location, inView, scrolll }) => {
   return (
     <div onClick={scrolll} style={style} className="menu">
-      {getLink(location, "projects", locale, inView, 'projects')}
+      <Item
+        style={{ transformOrigin: "top left" }}
+        pose={inView === "projects" ? "inView" : "outView"}
+      >
+        {getLink(location, "projects", locale, inView, "projects")}
+      </Item>
       <Link style={{}} to={locale === "en" ? "/about" : "/fr/about"}>
         {locale === "en" ? "about" : "a propos"}
       </Link>
