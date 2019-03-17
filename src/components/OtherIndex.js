@@ -14,6 +14,11 @@ import {
   scroller
 } from "react-scroll";
 import ScrollableAnchor from "react-scrollable-anchor";
+import { configureAnchors, removeHash } from 'react-scrollable-anchor'
+
+// Offset all anchors by -60 to account for a fixed header
+// and scroll more quickly than the default 400ms
+configureAnchors({offset: -230, scrollDuration: 200, keepLastAnchorHash:true})
 
 class OtherIndex extends React.Component {
   constructor(props) {
@@ -27,17 +32,6 @@ class OtherIndex extends React.Component {
       inView: element
     });
   };
-  scrollToTop = () => {
-    scroll.scrollToTop();
-  };
-
-  scrollTo() {
-    scroller.scrollTo("scroll-to-element", {
-      duration: 800,
-      delay: 0,
-      smooth: "easeInOutQuart"
-    });
-  }
 
   handleOutView = () => {
     this.setState({
@@ -46,7 +40,6 @@ class OtherIndex extends React.Component {
   };
   render() {
     const { location, data, posts, locale } = this.props;
-
     return (
       <Layout location={location} inView={this.state.inView} locale={locale}>
         <Helmet titleTemplate="%s | Blog">
@@ -54,27 +47,18 @@ class OtherIndex extends React.Component {
           <meta name="description" content={`${data.frontmatter.seo_desc}`} />
         </Helmet>
         <div style={{ height: "100vh" }} />
-        <a href="#section2"> Go to section 2 </a>
-        <li>
-          <ScrollLink
-            activeClass="active"
-            className="te1"
-            to="test1"
-            spy={true}
-            offset={-200}
-            smooth={true}
-            duration={500}
-          >
-            Test 1
-          </ScrollLink>
-        </li>
         <div style={{ height: "100vh" }} />
-        <div id="projects">SERIOUSLY</div>
+
+
+        <Element name="project" className="element">
+          <ScrollableAnchor id={"projects"}>
             <ViewportGallery
               onEnterViewport={() => this.handleInView("GALLERY")}
               onLeaveViewport={() => this.handleOutView()}
               posts={posts}
             />
+          </ScrollableAnchor>
+        </Element>
 
         <div style={{ height: "100vh" }} />
 

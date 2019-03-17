@@ -1,7 +1,15 @@
 import React from "react";
 import { Link } from "gatsby";
 import ReactDOM from "react-dom";
-import {Link as ScrollLink, DirectLink, Element, Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
+import {
+  Link as ScrollLink,
+  DirectLink,
+  Element,
+  Events,
+  animateScroll as scroll,
+  scrollSpy,
+  scroller
+} from "react-scroll";
 
 const style = {
   position: "sticky",
@@ -10,7 +18,8 @@ const style = {
   transform: "rotate(-90deg) translateX(-100%)",
   width: "100vh",
   display: "flex",
-  justifyContent: "space-around"
+  justifyContent: "space-around",
+  scrollBehavior: "smooth !important"
 };
 
 const menuItemStyle = inView => {
@@ -21,42 +30,43 @@ const menuItemStyle = inView => {
       }
     : {};
 };
-const getLink = ({location}, destination, locale, inView) => {
+const getLink = ({ location }, destination, locale, inView) => {
   const path = location && location.pathname;
-  console.log(location, path)
-  return path === '/'  || path === '/fr' ?
-  <a   style={menuItemStyle(inView === "GALLERY")} className='a' href={destination}> Go to section 2 </a> :
-  <Link    style={menuItemStyle(inView === "GALLERY")} className='L' to={'/'+destination}> Link to section 2 </Link>
-}
-
-const Menu = ({ locale, mobile, location, inView }) => {
-  console.log("location from menu ",location)
-  return (
-    <div style={style} className="menu">
-    <Link to="#SERIOUSLY">seriously</Link>
+  console.log(location,"PATH", path);
+  return (path === "/" )|| (path === "/fr" )?(
     <ScrollLink
+      style={menuItemStyle(inView === "GALLERY")}
       activeClass="active"
-      className="te1"
-      to="/test1"
-      spy={true}
-      offset={-200}
+      className="scrollLink"
+      to={destination}
+      offset={-250}
       smooth={true}
       duration={500}
     >
-      Test 1
+        {locale === "en" ? "projects" : "projets"}
     </ScrollLink>
-      {getLink(location, '#section2', locale, inView)}
+  ) : (
+    <Link
+      className="L"
+      to={locale === "en" ? "/#" + destination +'s' : "/fr/#" + destination+'s'}
+    >
+        {locale === "en" ? "projects" : "projets"}
+    </Link>
+  );
+};
+
+const Menu = ({ locale, mobile, location, inView }) => {
+  console.log("location from menu ", location);
+  console.log("LNKN/", Link);
+  console.log("LOCALE",locale)
+  return (
+    <div style={style} className="menu">
+      {getLink(location, "project", locale, inView)}
       <Link style={{}} to={locale === "en" ? "/about" : "/fr/about"}>
         <p>{locale === "en" ? "about" : "a propos"}</p>
       </Link>
       <Link to={locale === "en" ? "/" : "/fr"}>
         <p>{locale === "en" ? "home" : "chez nous"}</p>
-      </Link>
-      <Link
-        style={menuItemStyle(inView === "GALLERY")}
-        to={locale === "en" ? "/#projects" : "/fr/#projects"}
-      >
-        {locale === "en" ? "#PROJECTS" : "#PROJECTS"}
       </Link>
       <Link to={locale === "en" ? "/fr" : "/"}>
         <p>{locale === "en" ? "en" : "fr"}</p>

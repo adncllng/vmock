@@ -14,7 +14,6 @@ const unGallery = ({ posts, inViewport, innerRef, handleInView }) => {
         display: "flex",
         flexWrap: "wrap",
         justifyContent: "flex-end",
-        border: "1px solid black",
         overflow: "hidden"
       }}
     >

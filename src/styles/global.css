@@ -1,12 +1,16 @@
 body {
   margin: 0;
+  margin-right: 10px;
   background-color: #f9feff;
   font-family: 'Lato', Helvetica;
 }
 html {
   overflow-y: scroll;
-  scroll-behavior: smooth;
 }
+.menu{
+    scroll-behavior: smooth !important;
+}
+
 
 #veronica {
   max-width: 45vw;
