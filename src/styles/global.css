@@ -9,7 +9,6 @@ html {
 }
 .menu {
   margin: 15px;
-  font-size: 20px;
   text-transform: capitalize;
   position: sticky;
   top: 0px;

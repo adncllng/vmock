@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 import Img from "gatsby-image";
-import posed, { PoseGroup } from "react-pose";
+import posed from "react-pose";
 
 const WIDTH = "320";
 const HEIGHT = "187.5";

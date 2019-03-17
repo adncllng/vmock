@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
 import ReactDOM from "react-dom";
-
 import posed, { PoseGroup } from "react-pose";
 
 import AnchorLink from "react-anchor-link-smooth-scroll";
@@ -36,17 +35,28 @@ const Item = posed.div({
     }
   }
 });
+const PosedDiv = posed.div({
+  fixTop: {
+     top:-10
+  },
+  scroll: {
+    top:0
+  }
+});
 
-const style = {
-  // position: "sticky",
-  // top: "0",
-  // transformOrigin: "top left",
-  // transform: "rotate(-90deg) translateX(-100%)",
-  // width: "100vh",
-  // display: "flex",
-  // justifyContent: "space-around",
-  // scrollBehavior: "smooth !important"
+const style = fixTop => {
+  return fixTop ? { position: "fixed" } : { position: "relative" };
 };
+//{
+// position: "sticky",
+// top: "0",
+// transformOrigin: "top left",
+// transform: "rotate(-90deg) translateX(-100%)",
+// width: "100vh",
+// display: "flex",
+// justifyContent: "space-around",
+// scrollBehavior: "smooth !important"
+//};
 
 const menuItemStyle = inView => {
   return inView
@@ -62,9 +72,9 @@ const translate = word => {
   };
   return translations[word];
 };
-const getLink = (location , destination, locale, inView, title) => {
+const getLink = (location, destination, locale, inView, title) => {
   const localTitle = locale === "en" ? title : translate(title);
-  console.log("Location", location)
+  console.log("Location", location);
   return location === "HOME" ? (
     <AnchorLink
       style={menuItemStyle(inView === "projects")}
@@ -79,9 +89,13 @@ const getLink = (location , destination, locale, inView, title) => {
   );
 };
 
-const Menu = ({ locale, mobile, location, inView, scrolll }) => {
+const Menu = ({ locale, mobile, location, inView, fixTop }) => {
   return (
-    <div onClick={scrolll} style={style} className="menu">
+    <PosedDiv
+      pose={fixTop ? 'fixTop' : 'scroll'}
+      style={style(fixTop)}
+      className="menu"
+    >
       <Item
         style={{ transformOrigin: "top left" }}
         pose={inView === "projects" ? "inView" : "outView"}
@@ -97,7 +111,7 @@ const Menu = ({ locale, mobile, location, inView, scrolll }) => {
       <Link to={locale === "en" ? "/fr" : "/"}>
         {locale === "en" ? "en" : "fr"}
       </Link>
-    </div>
+    </PosedDiv>
   );
 };
 

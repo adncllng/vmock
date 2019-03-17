@@ -11139,6 +11139,13 @@ react-router@^4.2.0, react-router@^4.4.0:
     tiny-invariant "^1.0.2"
     tiny-warning "^1.0.0"
 
+react-scroll-parallax@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/react-scroll-parallax/-/react-scroll-parallax-2.0.4.tgz#13285f735b12b3cad5ee65842300e188c386eeed"
+  integrity sha512-BBpHiHLX0OD+5rPep3exRu5ZyZTLj7PFcP1PO2nPwVCOZKY+smhR8nyTsvkBHQEucS3gjRr8iITNWxiB4oTTCw==
+  dependencies:
+    prop-types "^15.5.10"
+
 react-scroll-sync@^0.6.0:
   version "0.6.0"
   resolved "https://registry.yarnpkg.com/react-scroll-sync/-/react-scroll-sync-0.6.0.tgz#c87eba2cdd55ae35874277d74b034419d73df59a"
