@@ -15,10 +15,12 @@ import {
 } from "react-scroll";
 import ScrollableAnchor from "react-scrollable-anchor";
 import { configureAnchors, removeHash } from 'react-scrollable-anchor'
+import { goToAnchor } from 'react-scrollable-anchor'
+import AnchorLink from 'react-anchor-link-smooth-scroll'
 
 // Offset all anchors by -60 to account for a fixed header
 // and scroll more quickly than the default 400ms
-configureAnchors({offset: -230, scrollDuration: 200, keepLastAnchorHash:true})
+configureAnchors({offset: -230, scrollDuration: 200, keepLastAnchorHash:false})
 
 class OtherIndex extends React.Component {
   constructor(props) {
@@ -38,75 +40,33 @@ class OtherIndex extends React.Component {
       inView: ""
     });
   };
+  scrolll = ()=>{
+    console.log("SCROLLL")
+  scroller.scrollTo('myScrollToElement', {
+  duration: 1500,
+  delay: 100,
+  smooth: true,
+  offset: 50, // Scrolls to element + 50 pixels down the page
+})
+  }
   render() {
     const { location, data, posts, locale } = this.props;
     return (
-      <Layout location={location} inView={this.state.inView} locale={locale}>
+      <Layout location={location}  scrolll = {this.scrolll} inView={this.state.inView} locale={locale}>
         <Helmet titleTemplate="%s | Blog">
           <title>{`${data.frontmatter.seo_title}`}</title>
           <meta name="description" content={`${data.frontmatter.seo_desc}`} />
         </Helmet>
-        <div style={{ height: "100vh" }} />
-        <div style={{ height: "100vh" }} />
-
-
-        <Element name="project" className="element">
-          <ScrollableAnchor id={"projects"}>
-            <ViewportGallery
-              onEnterViewport={() => this.handleInView("GALLERY")}
-              onLeaveViewport={() => this.handleOutView()}
-              posts={posts}
-            />
-          </ScrollableAnchor>
-        </Element>
-
-        <div style={{ height: "100vh" }} />
-
-        <div> How are you world? </div>
+   <section style={{paddingTop:'330px'}} id='projects'>
+   <ViewportGallery
+     onEnterViewport={() => this.handleInView("projects")}
+     onLeaveViewport={() => this.handleOutView()}
+     posts={posts}
+   />
+   </section>
       </Layout>
     );
   }
 }
 
 export default OtherIndex;
-
-// class IndexPage extends React.Component {
-//   constructor(props) {
-//     super(props);
-//     this.state = {
-//       inView: ""
-//     };
-//   }
-//   handleInView = element => {
-//     this.setState({
-//       inView: element
-//     });
-//   };
-//   handleOutView = () => {
-//     this.setState({
-//       inView: ""
-//     });
-//   };
-//   render() {
-//     const {
-//       pageContext: { locale },
-//       location
-//     } = this.props;
-//     const { node: data } = this.props.data.homePageData.edges[0];
-//     const { edges: posts } = this.props.data.blogPosts;
-//     return (
-//       <Layout location={location} inView={this.state.inView}>
-//         <Helmet titleTemplate="%s | Blog">
-//           <title>{`${data.frontmatter.seo_title}`}</title>
-//           <meta name="description" content={`${data.frontmatter.seo_desc}`} />
-//         </Helmet>
-//         <div style= {{height:'100vh'}}></div>
-//         <ViewportGallery
-//           onEnterViewport={() => this.handleInView("GALLERY")}
-//           onLeaveViewport={() => this.handleOutView()}
-//           posts={posts}
-//         />
-//       </Layout>
-//     );
-//   }
-// }

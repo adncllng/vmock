@@ -11,6 +11,8 @@ import {
   scroller
 } from "react-scroll";
 
+import AnchorLink from 'react-anchor-link-smooth-scroll'
+
 const style = {
   position: "sticky",
   top: "0",
@@ -30,46 +32,41 @@ const menuItemStyle = inView => {
       }
     : {};
 };
-const getLink = ({ location }, destination, locale, inView) => {
+
+const translate = (word) => {
+  const translations = {
+    projects : 'projets',
+  }
+  return translations[word];
+}
+const getLink = ({ location }, destination, locale, inView, title) => {
   const path = location && location.pathname;
-  console.log(location,"PATH", path);
-  return (path === "/" )|| (path === "/fr" )?(
-    <ScrollLink
-      style={menuItemStyle(inView === "GALLERY")}
-      activeClass="active"
-      className="scrollLink"
-      to={destination}
-      offset={-250}
-      smooth={true}
-      duration={500}
-    >
-        {locale === "en" ? "projects" : "projets"}
-    </ScrollLink>
+  const localTitle = locale === 'en' ? title : translate(title)
+  return path === "/" || path === "/fr" ? (
+      <AnchorLink style={menuItemStyle(inView === 'projects')} href={`#${destination}`}>{localTitle}</AnchorLink>
   ) : (
     <Link
-      className="L"
-      to={locale === "en" ? "/#" + destination +'s' : "/fr/#" + destination+'s'}
+      to={
+        locale === "en" ? "/#" + destination : "/fr/#" + destination
+      }
     >
-        {locale === "en" ? "projects" : "projets"}
+     {localTitle}
     </Link>
   );
 };
 
-const Menu = ({ locale, mobile, location, inView }) => {
-  console.log("location from menu ", location);
-  console.log("LNKN/", Link);
-  console.log("LOCALE",locale)
+const Menu = ({ locale, mobile, location, inView, scrolll }) => {
   return (
-    <div style={style} className="menu">
-      {getLink(location, "project", locale, inView)}
+    <div onClick={scrolll} style={style} className="menu">
+      {getLink(location, "projects", locale, inView, 'projects')}
       <Link style={{}} to={locale === "en" ? "/about" : "/fr/about"}>
-        <p>{locale === "en" ? "about" : "a propos"}</p>
+        {locale === "en" ? "about" : "a propos"}
       </Link>
       <Link to={locale === "en" ? "/" : "/fr"}>
-        <p>{locale === "en" ? "home" : "chez nous"}</p>
+        {locale === "en" ? "home" : "chez nous"}
       </Link>
       <Link to={locale === "en" ? "/fr" : "/"}>
-        <p>{locale === "en" ? "en" : "fr"}</p>
+        {locale === "en" ? "en" : "fr"}
       </Link>
     </div>
   );

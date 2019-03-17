@@ -2,7 +2,7 @@ import React from "react";
 import Helmet from "react-helmet";
 import { StaticQuery, graphql } from "gatsby";
 import Menu from "./Menu";
-const TemplateWrapper = ({ children, location, inView, locale }) => (
+const TemplateWrapper = ({ children, location, inView, locale,}) => (
   <StaticQuery
     query={graphql`
       query HeadingQuery {
