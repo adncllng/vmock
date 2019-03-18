@@ -37,10 +37,10 @@ const Item = posed.div({
 });
 const PosedDiv = posed.div({
   fixTop: {
-     top:-10
+    top: -10
   },
   scroll: {
-    top:0
+    top: 0
   }
 });
 
@@ -92,22 +92,22 @@ const getLink = (location, destination, locale, inView, title) => {
 const Menu = ({ locale, mobile, location, inView, fixTop }) => {
   return (
     <PosedDiv
-      pose={fixTop ? 'fixTop' : 'scroll'}
+      pose={fixTop ? "fixTop" : "scroll"}
       style={style(fixTop)}
       className="menu"
     >
-      <Item
-        style={{ transformOrigin: "top left" }}
-        pose={inView === "projects" ? "inView" : "outView"}
-      >
-        {getLink(location, "projects", locale, inView, "projects")}
-      </Item>
       <Link style={{}} to={locale === "en" ? "/about" : "/fr/about"}>
         {locale === "en" ? "about" : "a propos"}
       </Link>
       <Link to={locale === "en" ? "/" : "/fr"}>
         {locale === "en" ? "home" : "chez nous"}
       </Link>
+      <Item
+        style={{ transformOrigin: "top left" }}
+        pose={inView === "projects" ? "inView" : "outView"}
+      >
+        {getLink(location, "projects", locale, inView, "projects")}
+      </Item>
       <Link to={locale === "en" ? "/fr" : "/"}>
         {locale === "en" ? "en" : "fr"}
       </Link>

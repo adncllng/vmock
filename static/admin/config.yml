@@ -10,30 +10,98 @@ collections:
     label: "Blog - EN"
     folder: "src/pages/blog/en"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
-      - {label: Image, name: image, widget: image}
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
-      - {label: "Locale", name: "locale", widget: "hidden", default: "en"}
-      - {label: "Page Key", name: "pageKey", widget: "hidden", default: "page_blogpost"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "text"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: Image, name: image, widget: image }
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "blog-post",
+        }
+      - { label: "Locale", name: "locale", widget: "hidden", default: "en" }
+      - {
+          label: "Page Key",
+          name: "pageKey",
+          widget: "hidden",
+          default: "page_blogpost",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown" }
   - name: "blog-fr"
     label: "Blog - FR"
     folder: "src/pages/blog/fr"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
-      - {label: Image, name: image, widget: image}
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
-      - {label: "Locale", name: "locale", widget: "hidden", default: "fr"}
-      - {label: "Page Key", name: "pageKey", widget: "hidden", default: "page_blogpost"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "text"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: Image, name: image, widget: image }
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "blog-post",
+        }
+      - { label: "Locale", name: "locale", widget: "hidden", default: "fr" }
+      - {
+          label: "Page Key",
+          name: "pageKey",
+          widget: "hidden",
+          default: "page_blogpost",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "news-en"
+    label: "News - EN"
+    folder: "src/pages/news/en"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Image, name: image, widget: image }
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "news-post",
+        }
+      - { label: "Locale", name: "locale", widget: "hidden", default: "en" }
+      - {
+          label: "Page Key",
+          name: "pageKey",
+          widget: "hidden",
+          default: "page_newspost",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "news-fr"
+    label: "News - FR"
+    folder: "src/pages/news/fr"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Image, name: image, widget: image }
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "news-post",
+        }
+      - { label: "Locale", name: "locale", widget: "hidden", default: "fr" }
+      - {
+          label: "Page Key",
+          name: "pageKey",
+          widget: "hidden",
+          default: "page_newspost",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: "Pages"
     name: "pages"
     files:
@@ -41,19 +109,29 @@ collections:
         name: "home"
         file: "src/pages/home/index.md"
         fields:
-          - {label: "Page Key", name: "pageKey", widget: "hidden", default: "page_home"}
-          - {label: "Locale", name: "locale", widget: "hidden", default: "en"}
-          - {label: "SEO Title", name: "seo_title", widget: "string"}
-          - {label: "SEO Description", name: "seo_desc", widget: "string"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Text", name: "text", widget: "text"}
+          - {
+              label: "Page Key",
+              name: "pageKey",
+              widget: "hidden",
+              default: "page_home",
+            }
+          - { label: "Locale", name: "locale", widget: "hidden", default: "en" }
+          - { label: "SEO Title", name: "seo_title", widget: "string" }
+          - { label: "SEO Description", name: "seo_desc", widget: "string" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Text", name: "text", widget: "text" }
       - label: "Home - FR"
         name: "home"
         file: "src/pages/home/index.fr.md"
         fields:
-          - {label: "Page Key", name: "pageKey", widget: "hidden", default: "page_home"}
-          - {label: "Locale", name: "locale", widget: "hidden", default: "fr"}
-          - {label: "SEO Title", name: "seo_title", widget: "string"}
-          - {label: "SEO Description", name: "seo_desc", widget: "string"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Text", name: "text", widget: "text"}
+          - {
+              label: "Page Key",
+              name: "pageKey",
+              widget: "hidden",
+              default: "page_home",
+            }
+          - { label: "Locale", name: "locale", widget: "hidden", default: "fr" }
+          - { label: "SEO Title", name: "seo_title", widget: "string" }
+          - { label: "SEO Description", name: "seo_desc", widget: "string" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Text", name: "text", widget: "text" }
