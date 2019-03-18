@@ -5,15 +5,22 @@ import handleViewport from "react-in-viewport";
 
 const style = mobile => {};
 
-const newsPostImage = (newsPost) =>{
+const NewsPost = ({post}) =>{
   return (
     <div>
+   {post.frontmatter.image && <Img
+      fluid={post.frontmatter.image.childImageSharp.fluid}
+    />
+  }
+    <h1>title: {post.frontmatter.title}</h1>
+    <p>description: {post.frontmatter.description}</p>
+    <p>date: {post.frontmatter.date}</p>
 
     </div>
   )
 }
 
-const unNews = ({ news, inViewport, innerRef, handleInView }) => {
+const unNews = ({ newsPosts, inViewport, innerRef, handleInView }) => {
   return (
     <div
       ref={innerRef}
@@ -24,7 +31,7 @@ const unNews = ({ news, inViewport, innerRef, handleInView }) => {
         overflow: "hidden"
       }}
     >
-      {newsPosts && newsPosts.map(({ node: newsPost }) => <NewsPostsImage newsPost={newsPost} />)}
+      {newsPosts && newsPosts.map(({ node: newsPost }) =>   <NewsPost post={newsPost}/>)}
     </div>
   );
 };

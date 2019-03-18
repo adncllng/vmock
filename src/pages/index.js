@@ -6,8 +6,9 @@ import OtherIndex from '../components/OtherIndex';
 const IndexPage = ({ pageContext: { locale }, ...props }) => {
   const { node: data } = props.data.homePageData.edges[0];
   const { edges: posts } = props.data.blogPosts;
+    const { edges: newsPosts } = props.data.newsPosts;
   return (
-    <OtherIndex location={props.location} data={data} locale={locale} posts={posts}/>
+    <OtherIndex location={props.location} data={data} locale={locale} newsPosts={newsPosts} posts={posts}/>
   );
 };
 
@@ -52,6 +53,34 @@ export const pageQuery = graphql`
       filter: {
         frontmatter: {
           pageKey: { eq: "page_blogpost" }
+          locale: { eq: $locale }
+        }
+      }
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            description
+            date
+            image {
+              childImageSharp {
+                fluid(maxWidth: 300, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    newsPosts: allMarkdownRemark(
+      filter: {
+        frontmatter: {
+          pageKey: { eq: "page_newspost" }
           locale: { eq: $locale }
         }
       }

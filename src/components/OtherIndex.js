@@ -9,6 +9,7 @@ import ScrollableAnchor from "react-scrollable-anchor";
 import { configureAnchors, removeHash } from "react-scrollable-anchor";
 import { goToAnchor } from "react-scrollable-anchor";
 import AnchorLink from "react-anchor-link-smooth-scroll";
+import News from '../components/News';
 
 // Offset all anchors by -60 to account for a fixed header
 // and scroll more quickly than the default 400ms
@@ -45,7 +46,7 @@ class OtherIndex extends React.Component {
   };
 
   render() {
-    const { data, posts, locale } = this.props;
+    const { data, posts, locale, newsPosts} = this.props;
     return (
         <Layout
           onLeaveViewport={this.handleTriggerOutView}
@@ -65,6 +66,7 @@ class OtherIndex extends React.Component {
               onLeaveViewport={this.handleOutView}
               posts={posts}
             />
+            <News newsPosts={newsPosts}/>
             <div style={{ height: "200vw" }} />
           </section>
         </Layout>
