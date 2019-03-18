@@ -26,8 +26,8 @@ const ToLeft = posed.div({
     x: 0,
     opacity: 1,
     transition: {
-      x: { type: "spring", stiffness: 1000, damping: 150, delay:500 },
-      default: { duration: 300, delay:500  }
+      x: { type: "spring", stiffness: 1000, damping: 150, delay: 500 },
+      default: { duration: 300, delay: 500 }
     }
   },
   exit: {
@@ -41,8 +41,8 @@ const ToRight = posed.div({
     x: 0,
     opacity: 1,
     transition: {
-      x: { type: "spring", stiffness: 1000, damping: 150, delay:500 },
-      default: { duration: 300, delay:500  }
+      x: { type: "spring", stiffness: 1000, damping: 150, delay: 500 },
+      default: { duration: 300, delay: 500 }
     }
   },
   exit: {
@@ -58,72 +58,75 @@ class GalleryImage extends React.Component {
     this.state = { showDescription: false };
   }
   onMouseMove = () => {
-    console.log("mouseover");
     this.setState({ showDescription: true });
   };
   onMouseOut = () => {
-    console.log("mouseout");
     this.setState({ showDescription: false });
   };
   render() {
     const { showDescription } = this.state;
+    const getZIndex = (stringOfConstantLength) => {
+      return stringOfConstantLength && stringOfConstantLength.length ? stringOfConstantLength.length % 4 : 0
+    }
     return (
       <Link
         onMouseMove={this.onMouseMove}
-        onMouseOut={this.onMouseOut}
+        onMouseLeave={this.onMouseOut}
         to={this.props.post.fields.slug}
         style={{
-          // zIndex:Math.round(Math.random()),
+          zIndex: getZIndex(this.props.post.fields.slug),
           position: "relative",
           overflow: "hidden",
           margin: MARGIN + "px",
           width: WIDTH + "px",
           height: WIDTH / (3 / 2) + "px",
-          boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',
+          boxShadow:
+            "0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"
         }}
       >
         <Box
           style={{
+            display:'flex',
+            flexDirection:'column',
             position: "absolute",
             overflow: "hidden",
             zIndex: "100",
             width: WIDTH + "px",
             height: WIDTH / (3 / 2) + "px",
             justifyContent: "space-between",
-            backgroundColor: 'rgb(249,254,255,0.9)',
+            backgroundColor: "rgb(249,254,255,0.9)",
             boxSizing: "border-box"
           }}
           pose={showDescription ? "visible" : "hidden"}
         >
           <ToLeft
             style={{
-              position: "absolute",
               margin: "10px",
-              height: "150px",
+            //  height: "150px",
               width: WIDTH - 30 + "px",
-              fontSize: "50px",
+              fontSize: "40px",
               overflow: "hidden",
               left: "0",
               padding: "0",
-              color:'black'
+              color: "black"
             }}
             pose={showDescription ? "enter" : "exit"}
           >
-            {this.props.post.frontmatter.title}
+            <span>{this.props.post.frontmatter.title}</span>
           </ToLeft>
           <ToRight
             style={{
+              veticalAlign:'bottom',
               margin: "10px",
-              position: "absolute",
               bottom: "0",
               fontSize: "20px",
-              height:'60px',
+              height: "60px",
               right: "0",
-              color:'black'
+              color: "black"
             }}
             pose={showDescription ? "enter" : "exit"}
           >
-            {this.props.post.frontmatter.description}
+            <span>{this.props.post.frontmatter.description}</span>
           </ToRight>
         </Box>
         {this.props.post.frontmatter.image && (

@@ -8,7 +8,7 @@ import Layout from "../components/Layout";
 const BlogPost = ({ data, location,  pageContext: { locale } }) => {
   const { markdownRemark: post } = data;
   return (
-    <Layout location={location} locale={locale}>
+    <Layout location={location} locale={locale }   menuParallaxDisabled={true}>
       <Helmet titleTemplate="%s | Blog">
         <title>{`${post.frontmatter.title}`}</title>
         <meta name="description" content={`${post.frontmatter.description}`} />

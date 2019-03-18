@@ -90,7 +90,8 @@ const unTemplateWrapper = ({
           <div
             className="mockler"
             style={{
-              zIndex: "1",
+              zIndex: "2",
+              pointerEvents:'none',
               position: "fixed",
               right: "0",
               width: "50vw",
@@ -100,7 +101,24 @@ const unTemplateWrapper = ({
             }}
           >
             <h1 id="veronica" style={{ margin: "0", fontSize: "7vw" }}>
-              VERONICA MOCKLER
+              VERONICA
+            </h1>
+            </div>
+            <div
+              className="mockler"
+              style={{
+                zIndex: "1",
+                pointerEvents:'none',
+                position: "fixed",
+                right: "0",
+                width: "50vw",
+                top: "10vw",
+                textAlign: "right",
+                margin: "0"
+              }}
+            >
+            <h1 id="veronica2" style={{ margin: "0", fontSize: "7vw" }}>
+            MOCKLER
             </h1>
           </div>
 
