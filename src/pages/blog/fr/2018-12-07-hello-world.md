@@ -1,4 +1,5 @@
 ---
+image: /img/instagram.svg
 templateKey: blog-post
 locale: fr
 pageKey: page_blogpost
@@ -8,3 +9,5 @@ description: Hello World Blog Post DE
 ---
 
 Hello World
+<iframe src="https://player.vimeo.com/video/323440130" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/323440130">Phobias</a> from <a href="https://vimeo.com/ahserif">Ah!Serif</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
