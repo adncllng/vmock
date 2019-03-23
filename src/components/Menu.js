@@ -11,6 +11,7 @@ const Item = posed.div({
     originX: "10%",
     y: 10,
     x: 50,
+    textShadow: "0px 5px 15.52px rgba(7, 26, 1, 0.1)",
     originY: "0%",
     transition: {
       type: "spring",
@@ -23,6 +24,7 @@ const Item = posed.div({
   outView: {
     x: 0,
     y: 0,
+    textShadow: "-10px 0px 15.52px rgba(7, 26, 1, 0.1)",
     rotate: 0,
     originX: "10%",
     originY: "0%",
@@ -31,17 +33,16 @@ const Item = posed.div({
       stiffness: 500,
       damping: 150,
       restDelta: 0.5,
-      restSpeed: 10,
+      restSpeed: 10
     }
   }
 });
 const PosedDiv = posed.div({
   fixTop: {
-    top: -10,
+    top: -10
   },
   scroll: {
-    top: 0,
-
+    top: 0
   }
 });
 
@@ -59,7 +60,8 @@ const menuItemStyle = inView => {
 
 const translate = word => {
   const translations = {
-    projects: "projets"
+    projects: "projets",
+    news:"néwz"
   };
   return translations[word];
 };
@@ -68,13 +70,17 @@ const getLink = (location, destination, locale, inView, title) => {
   console.log("Location", location);
   return location === "HOME" ? (
     <AnchorLink
-      style={menuItemStyle(inView === "projects")}
+      className="menu-item"
+      style={menuItemStyle(inView === destination)}
       href={`#${destination}`}
     >
       {localTitle}
     </AnchorLink>
   ) : (
-    <Link to={locale === "en" ? "/#" + destination : "/fr/#" + destination}>
+    <Link
+      className="menu-item"
+      to={locale === "en" ? "/#" + destination : "/fr/#" + destination}
+    >
       {localTitle}
     </Link>
   );
@@ -87,21 +93,39 @@ const Menu = ({ locale, mobile, location, inView, fixTop }) => {
       style={style(fixTop)}
       className="menu"
     >
-      <Link style={{}} to={locale === "en" ? "/about" : "/fr/about"}>
+      <Link
+        className="menu-item"
+        style={{}}
+        to={locale === "en" ? "/about" : "/fr/about"}
+      >
         {locale === "en" ? "about" : "a propos"}
       </Link>
-      <Link to={locale === "en" ? "/" : "/fr"}>
+      <Link className="menu-item" to={locale === "en" ? "/" : "/fr"}>
         {locale === "en" ? "home" : "chez nous"}
       </Link>
+
+      <Item
+        style={{ transformOrigin: "top left" }}
+        pose={inView === "news" ? "inView" : "outView"}
+      >
+        {getLink(location, "news", locale, inView, "news")}
+      </Item>
+
       <Item
         style={{ transformOrigin: "top left" }}
         pose={inView === "projects" ? "inView" : "outView"}
       >
         {getLink(location, "projects", locale, inView, "projects")}
       </Item>
-      <Link to={locale === "en" ? "/fr" : "/"}>
-        {locale === "en" ? "en" : "fr"}
-      </Link>
+
+      <Item
+        style={{ transformOrigin: "top left" }}
+        pose={"outView"}
+      >
+        <Link className="menu-item" to={locale === "en" ? "/fr" : "/"}>
+          {locale === "en" ? "en" : "fr"}
+        </Link>
+      </Item>
     </PosedDiv>
   );
 };

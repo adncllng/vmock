@@ -7,6 +7,10 @@ body {
 html {
   overflow-y: scroll;
 }
+a {
+  text-decoration: none;
+  color: black;
+}
 .menu {
   margin: 15px;
   margin-top:0px;
@@ -19,12 +23,46 @@ html {
   display: flex;
   justify-content: space-around;
 }
-a {
-  text-decoration: none;
-  color: black;
+.menu-item {
+
 }
 .parallax-outer{
   margin:0;
+}
+.news {
+  margin-top: 20vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  overflow: hidden;
+}
+.newsPost {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+}
+.newsPost .text-container{
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  padding:0.5vw;
+  z-index: 2;
+    background-color: #f9feff;
+  width: 330px;
+  height:200px;
+  max-width: 82vw;
+  border: solid 4px black;
+  margin-right: 30%;
+  /* TODO TODO perform this transfor programattically in news.js cause mobile  */
+  transform: translateX(3vw);
+}
+.newsPost .image-container{
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  z-index: -1;
+  width:500px;
 }
 #veronica {
   max-width: 45vw;

@@ -23,15 +23,14 @@ class OtherIndex extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      inView: "",
-
+      inView: ""
     };
   }
   handleInView = elementName => {
     console.log("INVIEW", elementName);
-      return this.setState({
-        inView: elementName,
-      });
+    return this.setState({
+      inView: elementName
+    });
   };
 
   handleOutView = () => {
@@ -40,39 +39,47 @@ class OtherIndex extends React.Component {
     });
   };
   handleTriggerOutView = () => {
-    console.log("TRIGGER OUT VIEW ")
+    console.log("TRIGGER OUT VIEW ");
     return this.setState({
       menuParallaxDisabled: true
     });
   };
 
   render() {
-    const { data, posts, locale, newsPosts} = this.props;
+    const { data, posts, locale, newsPosts } = this.props;
     // window doesn't exist while building, so we have to check.
-    const menuParallaxDisabled = typeof window !== 'undefined' && window.history.length > 2 || this.state.menuParallaxDisabled;
+    const menuParallaxDisabled =
+      (typeof window !== "undefined" && window.history.length > 2) ||
+      this.state.menuParallaxDisabled;
     return (
-        <Layout
-          onLeaveViewport={this.handleTriggerOutView}
-          menuParallaxDisabled={menuParallaxDisabled}
-          location={"HOME"}
-          scrolll={this.scrolll}
-          inView={this.state.inView}
-          locale={locale}
-        >
-          <Helmet titleTemplate="%s | Blog">
-            <title>{`${data.frontmatter.seo_title}`}</title>
-            <meta name="description" content={`${data.frontmatter.seo_desc}`} />
-          </Helmet>
-          <section style={{ paddingTop: "330px" }} id="projects">
-            <ViewportGallery
-              onEnterViewport={() => this.handleInView("projects")}
-              onLeaveViewport={this.handleOutView}
-              posts={posts}
-            />
-            <News newsPosts={newsPosts}/>
-            <div style={{ height: "200vw" }} />
-          </section>
-        </Layout>
+      <Layout
+        onLeaveViewport={this.handleTriggerOutView}
+        menuParallaxDisabled={menuParallaxDisabled}
+        location={"HOME"}
+        scrolll={this.scrolll}
+        inView={this.state.inView}
+        locale={locale}
+      >
+        <Helmet titleTemplate="%s | Blog">
+          <title>{`${data.frontmatter.seo_title}`}</title>
+          <meta name="description" content={`${data.frontmatter.seo_desc}`} />
+        </Helmet>
+        <section style={{ paddingTop: "330px" }} id="projects">
+          <ViewportGallery
+            onEnterViewport={() => this.handleInView("projects")}
+            // onLeaveViewport={this.handleOutView}
+            posts={posts}
+          />
+        </section>
+            <section style={{ paddingTop: "100px",marginTop:'100px' }} id="news">
+        <News
+          onEnterViewport={() => this.handleInView("news")}
+          //  onLeaveViewport={this.handleOutView}
+          newsPosts={newsPosts}
+        />
+        </section>
+        <div style={{ height: "200vw" }} />
+      </Layout>
     );
   }
 }
