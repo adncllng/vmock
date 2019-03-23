@@ -31,32 +31,23 @@ const Item = posed.div({
       stiffness: 500,
       damping: 150,
       restDelta: 0.5,
-      restSpeed: 10
+      restSpeed: 10,
     }
   }
 });
 const PosedDiv = posed.div({
   fixTop: {
-    top: -10
+    top: -10,
   },
   scroll: {
-    top: 0
+    top: 0,
+
   }
 });
 
 const style = fixTop => {
   return fixTop ? { position: "fixed" } : { position: "relative" };
 };
-//{
-// position: "sticky",
-// top: "0",
-// transformOrigin: "top left",
-// transform: "rotate(-90deg) translateX(-100%)",
-// width: "100vh",
-// display: "flex",
-// justifyContent: "space-around",
-// scrollBehavior: "smooth !important"
-//};
 
 const menuItemStyle = inView => {
   return inView

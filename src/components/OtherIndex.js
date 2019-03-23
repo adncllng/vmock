@@ -9,7 +9,7 @@ import ScrollableAnchor from "react-scrollable-anchor";
 import { configureAnchors, removeHash } from "react-scrollable-anchor";
 import { goToAnchor } from "react-scrollable-anchor";
 import AnchorLink from "react-anchor-link-smooth-scroll";
-import News from '../components/News';
+import News from "../components/News";
 
 // Offset all anchors by -60 to account for a fixed header
 // and scroll more quickly than the default 400ms
@@ -24,13 +24,14 @@ class OtherIndex extends React.Component {
     super(props);
     this.state = {
       inView: "",
-      menuParallaxDisabled: false,
+
     };
   }
-  handleInView = element => {
-    return this.setState({
-      inView: element
-    });
+  handleInView = elementName => {
+    console.log("INVIEW", elementName);
+      return this.setState({
+        inView: elementName,
+      });
   };
 
   handleOutView = () => {
@@ -47,10 +48,11 @@ class OtherIndex extends React.Component {
 
   render() {
     const { data, posts, locale, newsPosts} = this.props;
+    const menuParallaxDisabled = window.history.length > 2 || this.state.menuParallaxDisabled;
     return (
         <Layout
           onLeaveViewport={this.handleTriggerOutView}
-          menuParallaxDisabled={this.state.menuParallaxDisabled}
+          menuParallaxDisabled={menuParallaxDisabled}
           location={"HOME"}
           scrolll={this.scrolll}
           inView={this.state.inView}

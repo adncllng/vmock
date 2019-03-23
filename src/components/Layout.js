@@ -4,6 +4,7 @@ import { StaticQuery, graphql } from "gatsby";
 import Menu from "./Menu";
 import { Parallax, ParallaxProvider } from "react-scroll-parallax";
 import handleViewport from "react-in-viewport";
+
 const unTemplateWrapper = ({
   handleTriggerOutView,
   menuParallaxDisabled,
@@ -67,31 +68,35 @@ const unTemplateWrapper = ({
             <meta property="og:url" content="/" />
             <meta property="og:image" content="/img/og-image.jpg" />
           </Helmet>
-          {location === "HOME" && <div style={{ height: "100vh" }} />}
+
+          {location === "HOME" && (
+            <div
+              style={{ height: "100vh" }}
+            />
+          )}
           <Parallax
             disabled={menuParallaxDisabled}
             className="custom-class"
-            y={[1, -2000]}
+            y={[1, -1000]}
             tagOuter="figure"
           >
+          <div
+            ref={innerRef}
+            style={{ height: "1px"}}
+          />
             <Menu
               fixTop={menuParallaxDisabled}
               inView={inView}
               locale={locale}
               location={location}
             />
-            <div
-              ref={innerRef}
-              onLeaveViewport={handleTriggerOutView}
-              style={{ height: "1px" }}
-              id="trigger"
-            />
+            <div />
           </Parallax>
           <div
             className="mockler"
             style={{
               zIndex: "2",
-              pointerEvents:'none',
+              pointerEvents: "none",
               position: "fixed",
               right: "0",
               width: "50vw",
@@ -103,22 +108,22 @@ const unTemplateWrapper = ({
             <h1 id="veronica" style={{ margin: "0", fontSize: "7vw" }}>
               VERONICA
             </h1>
-            </div>
-            <div
-              className="mockler"
-              style={{
-                zIndex: "1",
-                pointerEvents:'none',
-                position: "fixed",
-                right: "0",
-                width: "50vw",
-                top: "10vw",
-                textAlign: "right",
-                margin: "0"
-              }}
-            >
+          </div>
+          <div
+            className="mockler"
+            style={{
+              zIndex: "1",
+              pointerEvents: "none",
+              position: "fixed",
+              right: "0",
+              width: "50vw",
+              top: "10vw",
+              textAlign: "right",
+              margin: "0"
+            }}
+          >
             <h1 id="veronica2" style={{ margin: "0", fontSize: "7vw" }}>
-            MOCKLER
+              MOCKLER
             </h1>
           </div>
 
