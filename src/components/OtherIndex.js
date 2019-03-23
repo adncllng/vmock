@@ -48,7 +48,8 @@ class OtherIndex extends React.Component {
 
   render() {
     const { data, posts, locale, newsPosts} = this.props;
-    const menuParallaxDisabled = window.history.length > 2 || this.state.menuParallaxDisabled;
+    // window doesn't exist while building, so we have to check.
+    const menuParallaxDisabled = typeof window !== 'undefined' && window.history.length > 2 || this.state.menuParallaxDisabled;
     return (
         <Layout
           onLeaveViewport={this.handleTriggerOutView}
