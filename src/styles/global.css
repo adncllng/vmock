@@ -15,7 +15,7 @@ a {
   margin: 15px;
   margin-top:0px;
   text-transform: capitalize;
-  position: sticky;
+  position: fixed;
   top: 0px;
   transform-origin: left top;
   transform: rotate(-90deg) translateX(-100%);
@@ -57,7 +57,6 @@ a {
   border: solid 4px black;
   margin-right: 30%;
   /* TODO TODO perform this transfor programattically in news.js cause mobile  */
-  transform: translateX(3vw);
 }
 .newsPost .image-container{
   box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);

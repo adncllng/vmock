@@ -120,6 +120,7 @@ collections:
           - { label: "SEO Description", name: "seo_desc", widget: "string" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Text", name: "text", widget: "text" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: "Home - FR"
         name: "home"
         file: "src/pages/home/index.fr.md"
@@ -135,3 +136,4 @@ collections:
           - { label: "SEO Description", name: "seo_desc", widget: "string" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Text", name: "text", widget: "text" }
+          - { label: "Body", name: "body", widget: "markdown" }

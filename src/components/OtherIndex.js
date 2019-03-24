@@ -23,7 +23,8 @@ class OtherIndex extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      inView: ""
+      inView: "",
+      menuParallaxDisabled: false
     };
   }
   handleInView = elementName => {
@@ -44,13 +45,22 @@ class OtherIndex extends React.Component {
       menuParallaxDisabled: true
     });
   };
+  componentDidMount(){
+    if(typeof window !== "undefined" && window.history.length > 2) {
+      this.setState({
+        menuParallaxDisabled:true
+      })
+    }
+  }
 
   render() {
     const { data, posts, locale, newsPosts } = this.props;
     // window doesn't exist while building, so we have to check.
+
+    //window part is falsy on refresh.
     const menuParallaxDisabled =
-      (typeof window !== "undefined" && window.history.length > 2) ||
       this.state.menuParallaxDisabled;
+      console.log("MENU P D",menuParallaxDisabled)
     return (
       <Layout
         onLeaveViewport={this.handleTriggerOutView}

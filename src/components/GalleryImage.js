@@ -104,7 +104,7 @@ class GalleryImage extends React.Component {
               margin: "10px",
             //  height: "150px",
               width: WIDTH - 30 + "px",
-              fontSize: "40px",
+              fontSize: "30px",
               overflow: "hidden",
               left: "0",
               padding: "0",
@@ -119,7 +119,7 @@ class GalleryImage extends React.Component {
               veticalAlign:'bottom',
               margin: "10px",
               bottom: "0",
-              fontSize: "20px",
+              fontSize: "18px",
               height: "60px",
               right: "0",
               color: "black"

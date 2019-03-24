@@ -95,7 +95,7 @@ const unTemplateWrapper = ({
           <div
             className="mockler"
             style={{
-              zIndex: "2",
+              zIndex: "4",
               pointerEvents: "none",
               position: "fixed",
               right: "0",
@@ -112,7 +112,7 @@ const unTemplateWrapper = ({
           <div
             className="mockler"
             style={{
-              zIndex: "1",
+              zIndex: "4",
               pointerEvents: "none",
               position: "fixed",
               right: "0",

@@ -17,7 +17,7 @@ const unGallery = ({ posts, inViewport, innerRef, handleInView }) => {
         overflow: "hidden"
       }}
     >
-      {posts && posts.map(({ node: post }) => <GalleryImage post={post} />)}
+      {posts && Array(5).fill().map(()=>posts.map(({ node: post }) => <GalleryImage post={post} />))}
 
     </div>
   );

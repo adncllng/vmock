@@ -39,7 +39,7 @@ const Item = posed.div({
 });
 const PosedDiv = posed.div({
   fixTop: {
-    top: -10
+    top: 0
   },
   scroll: {
     top: 0
@@ -47,7 +47,15 @@ const PosedDiv = posed.div({
 });
 
 const style = fixTop => {
-  return fixTop ? { position: "fixed" } : { position: "relative" };
+  console.log("fixTop in style()", fixTop);
+  if (fixTop === true) {
+    return { position: "fixed" };
+  }
+  if (fixTop === false) {
+    console.log("ITS FALSE ???? ")
+    return { position: "relative" };
+  }
+  return { position: "relative", backgroundColor: "red" };
 };
 
 const menuItemStyle = inView => {
@@ -60,8 +68,10 @@ const menuItemStyle = inView => {
 
 const translate = word => {
   const translations = {
-    projects: "projets",
-    news:"néwz"
+    work: "oeuvre",
+    news: "nouvelles",
+    about: "à propos",
+    contact: "contact"
   };
   return translations[word];
 };
@@ -87,21 +97,23 @@ const getLink = (location, destination, locale, inView, title) => {
 };
 
 const Menu = ({ locale, mobile, location, inView, fixTop }) => {
+  console.log("FIXTOP?", fixTop);
   return (
     <PosedDiv
       pose={fixTop ? "fixTop" : "scroll"}
       style={style(fixTop)}
       className="menu"
     >
+      <Link className="menu-item" to={locale === "en" ? "/" : "/fr"}>
+        {locale === "en" ? "contact" : "me joindre"}
+      </Link>
+
       <Link
         className="menu-item"
         style={{}}
         to={locale === "en" ? "/about" : "/fr/about"}
       >
         {locale === "en" ? "about" : "a propos"}
-      </Link>
-      <Link className="menu-item" to={locale === "en" ? "/" : "/fr"}>
-        {locale === "en" ? "home" : "chez nous"}
       </Link>
 
       <Item
@@ -115,13 +127,10 @@ const Menu = ({ locale, mobile, location, inView, fixTop }) => {
         style={{ transformOrigin: "top left" }}
         pose={inView === "projects" ? "inView" : "outView"}
       >
-        {getLink(location, "projects", locale, inView, "projects")}
+        {getLink(location, "projects", locale, inView, "work")}
       </Item>
 
-      <Item
-        style={{ transformOrigin: "top left" }}
-        pose={"outView"}
-      >
+      <Item style={{ transformOrigin: "top left" }} pose={"outView"}>
         <Link className="menu-item" to={locale === "en" ? "/fr" : "/"}>
           {locale === "en" ? "en" : "fr"}
         </Link>
