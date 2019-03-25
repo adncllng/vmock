@@ -46,7 +46,7 @@ class OtherIndex extends React.Component {
     });
   };
   componentDidMount(){
-    if(typeof window !== "undefined" && window.history.length > 2) {
+    if(typeof window !== "undefined" && window.history.length >= 2) {
       this.setState({
         menuParallaxDisabled:true
       })
