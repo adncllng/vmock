@@ -8,6 +8,12 @@ module.exports = {
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sass",
     {
+           resolve: `gatsby-plugin-layout`,
+           options: {
+               component: require.resolve(`./src/components/Layout`)
+           }
+       },
+    {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: "gatsby-source-filesystem",
       options: {

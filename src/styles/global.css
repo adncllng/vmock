@@ -13,7 +13,7 @@ a {
 }
 .menu {
   margin: 15px;
-  margin-top:0px;
+  margin-top: 0px;
   text-transform: capitalize;
   position: fixed;
   top: 0px;
@@ -24,10 +24,9 @@ a {
   justify-content: space-around;
 }
 .menu-item {
-
 }
-.parallax-outer{
-  margin:0;
+.parallax-outer {
+  margin: 0;
 }
 .news {
   margin-top: 20vh;
@@ -45,23 +44,23 @@ a {
   align-items: center;
   flex-wrap: wrap-reverse;
 }
-.newsPost .text-container{
-  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-
-  padding:0.5vw;
+.newsPost .text-container {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 0.5vw;
+  margin-top: 5vh;
   z-index: 2;
-    background-color: #f9feff;
+  background-color: #f9feff;
   width: 330px;
-  height:200px;
+  height: 200px;
   max-width: 82vw;
   border: solid 4px black;
   margin-right: 30%;
   /* TODO TODO perform this transfor programattically in news.js cause mobile  */
 }
-.newsPost .image-container{
-  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+.newsPost .image-container {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   z-index: -1;
-  width:500px;
+  width: 500px;
 }
 #veronica {
   max-width: 45vw;
@@ -94,4 +93,10 @@ a {
   padding-left: 0.5em;
   margin: 0;
   text-transform: uppercase;
+}
+.CHIDREN_OF_BLOGPOST {
+  top: 0;
+  right: 0;
+  left: 20vw;
+  position: absolute;
 }

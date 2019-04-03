@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, graphql } from "gatsby";
+import { Link, graphql, replace, push } from "gatsby";
 import Layout from "../components/Layout";
 import Helmet from "react-helmet";
 import PropTypes from "prop-types";
@@ -10,6 +10,8 @@ import { configureAnchors, removeHash } from "react-scrollable-anchor";
 import { goToAnchor } from "react-scrollable-anchor";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import News from "../components/News";
+import ContextConsumer from "./Context";
+import About from "./about";
 
 // Offset all anchors by -60 to account for a fixed header
 // and scroll more quickly than the default 400ms
@@ -45,11 +47,11 @@ class OtherIndex extends React.Component {
       menuParallaxDisabled: true
     });
   };
-  componentDidMount(){
-    if(typeof window !== "undefined" && window.history.length >= 2) {
+  componentDidMount() {
+    if (typeof window !== "undefined" && window.history.length >= 2) {
       this.setState({
-        menuParallaxDisabled:true
-      })
+        menuParallaxDisabled: true
+      });
     }
   }
 
@@ -58,38 +60,55 @@ class OtherIndex extends React.Component {
     // window doesn't exist while building, so we have to check.
 
     //window part is falsy on refresh.
-    const menuParallaxDisabled =
-      this.state.menuParallaxDisabled;
-      console.log("MENU P D",menuParallaxDisabled)
+    const menuParallaxDisabled = this.state.menuParallaxDisabled;
+
+    console.log("locale from other", locale);
     return (
-      <Layout
-        onLeaveViewport={this.handleTriggerOutView}
-        menuParallaxDisabled={menuParallaxDisabled}
-        location={"HOME"}
-        scrolll={this.scrolll}
-        inView={this.state.inView}
-        locale={locale}
-      >
-        <Helmet titleTemplate="%s | Blog">
-          <title>{`${data.frontmatter.seo_title}`}</title>
-          <meta name="description" content={`${data.frontmatter.seo_desc}`} />
-        </Helmet>
-        <section style={{ paddingTop: "330px" }} id="projects">
-          <ViewportGallery
-            onEnterViewport={() => this.handleInView("projects")}
-            // onLeaveViewport={this.handleOutView}
-            posts={posts}
-          />
-        </section>
-            <section style={{ paddingTop: "100px",marginTop:'100px' }} id="news">
-        <News
-          onEnterViewport={() => this.handleInView("news")}
-          //  onLeaveViewport={this.handleOutView}
-          newsPosts={newsPosts}
-        />
-        </section>
-        <div style={{ height: "200vw" }} />
-      </Layout>
+      <ContextConsumer>
+        {({ contextData, set, enterView, leaveView }) => (
+          <div>
+            <Helmet titleTemplate="%s | Blog">
+              <title>{`${data.frontmatter.seo_title}`}</title>
+              <meta
+                name="description"
+                content={`${data.frontmatter.seo_desc}`}
+              />
+            </Helmet>
+            <section style={{ paddingTop: "330px" }} id="projects">
+              <ViewportGallery
+                onEnterViewport={() => enterView("projects")}
+                onLeaveViewport={() => leaveView("projects")}
+                posts={posts}
+              />
+            </section>
+            <section
+              style={{ paddingTop: "100px", marginTop: "100px" }}
+              id="news"
+            >
+              <News
+                onEnterViewport={() => enterView("news")}
+                onLeaveViewport={() => leaveView("news")}
+                newsPosts={newsPosts}
+                fixTop={contextData.fixTop}
+              />
+            </section>
+            <section
+              style={{
+                paddingTop: "100px",
+                marginTop: "200px",
+                marginBottom: "200px"
+              }}
+              id="about"
+            >
+              <About
+                onEnterViewport={() => enterView("about")}
+                onLeaveViewport={() => leaveView("about")}
+                html={data.html}
+              />
+            </section>
+          </div>
+        )}
+      </ContextConsumer>
     );
   }
 }

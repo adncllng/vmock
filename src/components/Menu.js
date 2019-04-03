@@ -1,9 +1,10 @@
 import React from "react";
-import { Link } from "gatsby";
+import { Link, replace, push } from "gatsby";
 import ReactDOM from "react-dom";
 import posed, { PoseGroup } from "react-pose";
 
 import AnchorLink from "react-anchor-link-smooth-scroll";
+import ContextConsumer from "./Context";
 
 const Item = posed.div({
   inView: {
@@ -52,7 +53,6 @@ const style = fixTop => {
     return { position: "fixed" };
   }
   if (fixTop === false) {
-    console.log("ITS FALSE ???? ")
     return { position: "relative" };
   }
   return { position: "relative", backgroundColor: "red" };
@@ -77,8 +77,18 @@ const translate = word => {
 };
 const getLink = (location, destination, locale, inView, title) => {
   const localTitle = locale === "en" ? title : translate(title);
-  console.log("Location", location);
-  return location === "HOME" ? (
+  console.log("Location", location, destination, locale, inView, title);
+  return(
+    <AnchorLink
+      className="menu-item"
+      style={menuItemStyle(inView === destination)}
+      href={`#${destination}`}
+    >
+      {localTitle}
+    </AnchorLink>
+  )
+
+  return location === "home" ? (
     <AnchorLink
       className="menu-item"
       style={menuItemStyle(inView === destination)}
@@ -96,46 +106,78 @@ const getLink = (location, destination, locale, inView, title) => {
   );
 };
 
-const Menu = ({ locale, mobile, location, inView, fixTop }) => {
-  console.log("FIXTOP?", fixTop);
+const Menu = ({ locale, mobile, location }) => {
   return (
-    <PosedDiv
-      pose={fixTop ? "fixTop" : "scroll"}
-      style={style(fixTop)}
-      className="menu"
-    >
-      <Link className="menu-item" to={locale === "en" ? "/" : "/fr"}>
-        {locale === "en" ? "contact" : "me joindre"}
-      </Link>
+    <ContextConsumer>
+      {({ contextData, set }) => (
+        <PosedDiv
+          pose={contextData.fixTop ? "fixTop" : "scroll"}
+          style={style(contextData.fixTop)}
+          className="menu"
+        >
+          <Link
+            className="menu-item"
+            to={contextData.locale === "en" ? "/" : "/fr"}
+          >
+            {contextData.locale === "en" ? "contact" : "me joindre"}
+          </Link>
+          <Item
+            style={{ transformOrigin: "top left" }}
+            pose={contextData.inView[contextData.inView.length - 1] === "about" ? "inView" : "outView"}
+          >
+            {getLink(
+              contextData.location,
+              "about",
+              contextData.locale,
+              contextData.inView[contextData.inView.length - 1],
+              "about"
+            )}
+          </Item>
 
-      <Link
-        className="menu-item"
-        style={{}}
-        to={locale === "en" ? "/about" : "/fr/about"}
-      >
-        {locale === "en" ? "about" : "a propos"}
-      </Link>
+          <Item
+            style={{ transformOrigin: "top left" }}
+            pose={contextData.inView[contextData.inView.length - 1] === "news" ? "inView" : "outView"}
+          >
+            {getLink(
+              contextData.location,
+              "news",
+              contextData.locale,
+              contextData.inView[contextData.inView.length - 1],
+              "news"
+            )}
+          </Item>
 
-      <Item
-        style={{ transformOrigin: "top left" }}
-        pose={inView === "news" ? "inView" : "outView"}
-      >
-        {getLink(location, "news", locale, inView, "news")}
-      </Item>
+          <Item
+            style={{ transformOrigin: "top left" }}
+            pose={
+              contextData.inView[contextData.inView.length - 1] === "projects"
+                ? "inView"
+                : "outView"
+            }
+          >
+            {getLink(
+              contextData.location,
+              "projects",
+              locale,
+              contextData.inView[contextData.inView.length - 1],
+              "work"
+            )}
+          </Item>
 
-      <Item
-        style={{ transformOrigin: "top left" }}
-        pose={inView === "projects" ? "inView" : "outView"}
-      >
-        {getLink(location, "projects", locale, inView, "work")}
-      </Item>
-
-      <Item style={{ transformOrigin: "top left" }} pose={"outView"}>
-        <Link className="menu-item" to={locale === "en" ? "/fr" : "/"}>
-          {locale === "en" ? "en" : "fr"}
-        </Link>
-      </Item>
-    </PosedDiv>
+          <Item style={{ transformOrigin: "top left" }} pose={"outView"}>
+            <Link
+              onClick={() =>
+                set({ locale: contextData.locale === "en" ? "fr" : "en" })
+              }
+              className="menu-item"
+              to={contextData.locale === "en" ? "/fr" : "/"}
+            >
+              {contextData.locale === "en" ? "en" : "fr"}
+            </Link>
+          </Item>
+        </PosedDiv>
+      )}
+    </ContextConsumer>
   );
 };
 

@@ -1,19 +1,19 @@
 import React from "react";
 import PropTypes from "prop-types";
 import Helmet from "react-helmet";
-import {graphql } from "gatsby";
+import {graphql, push, replace} from "gatsby";
 import Img from "gatsby-image";
 import Layout from "../components/Layout";
 
 const BlogPost = ({ data, location,  pageContext: { locale } }) => {
   const { markdownRemark: post } = data;
   return (
-    <Layout location={location} locale={locale }   menuParallaxDisabled={true}>
+    <div className="CHIDREN_OF_BLOGPOST">
       <Helmet titleTemplate="%s | Blog">
         <title>{`${post.frontmatter.title}`}</title>
         <meta name="description" content={`${post.frontmatter.description}`} />
       </Helmet>
-      <div className="CHIDREN_OF_BLOGPOST">
+      <div >
       {post.frontmatter.image && (
         <Img
           fluid={post.frontmatter.image.childImageSharp.fluid}
@@ -24,7 +24,7 @@ const BlogPost = ({ data, location,  pageContext: { locale } }) => {
         <p>date: {post.frontmatter.date}</p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
-    </Layout>
+    </div>
   );
 };
 

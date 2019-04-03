@@ -1,7 +1,8 @@
 import React from "react";
-import { Link } from "gatsby";
+import { Link, replace, push } from "gatsby";
 import Img from "gatsby-image";
 import posed from "react-pose";
+import ContextConsumer from "./Context";
 
 const WIDTH = "320";
 const HEIGHT = "187.5";
@@ -65,76 +66,83 @@ class GalleryImage extends React.Component {
   };
   render() {
     const { showDescription } = this.state;
-    const getZIndex = (stringOfConstantLength) => {
-      return stringOfConstantLength && stringOfConstantLength.length ? stringOfConstantLength.length % 4 : 0
-    }
+    const getZIndex = stringOfConstantLength => {
+      return stringOfConstantLength && stringOfConstantLength.length
+        ? stringOfConstantLength.length % 4
+        : 0;
+    };
     return (
-      <Link
-        onMouseMove={this.onMouseMove}
-        onMouseLeave={this.onMouseOut}
-        to={this.props.post.fields.slug}
-        style={{
-          zIndex: getZIndex(this.props.post.fields.slug),
-          position: "relative",
-          overflow: "hidden",
-          margin: MARGIN + "px",
-          width: WIDTH + "px",
-          height: WIDTH / (3 / 2) + "px",
-          boxShadow:
-            "0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"
-        }}
-      >
-        <Box
-          style={{
-            display:'flex',
-            flexDirection:'column',
-            position: "absolute",
-            overflow: "hidden",
-            zIndex: "100",
-            width: WIDTH + "px",
-            height: WIDTH / (3 / 2) + "px",
-            justifyContent: "space-between",
-            backgroundColor: "rgb(249,254,255,0.9)",
-            boxSizing: "border-box"
-          }}
-          pose={showDescription ? "visible" : "hidden"}
-        >
-          <ToLeft
+      <ContextConsumer>
+        {({ contextData, set }) => (
+          <Link
+            onMouseMove={this.onMouseMove}
+            onMouseLeave={this.onMouseOut}
+            to={this.props.post.fields.slug}
+            onClick={()=>{set({location:'away'})}}
             style={{
-              margin: "10px",
-            //  height: "150px",
-              width: WIDTH - 30 + "px",
-              fontSize: "30px",
+              zIndex: getZIndex(this.props.post.fields.slug),
+              position: "relative",
               overflow: "hidden",
-              left: "0",
-              padding: "0",
-              color: "black"
+              margin: MARGIN + "px",
+              width: WIDTH + "px",
+              height: WIDTH / (3 / 2) + "px",
+              boxShadow:
+                "0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"
             }}
-            pose={showDescription ? "enter" : "exit"}
           >
-            <span>{this.props.post.frontmatter.title}</span>
-          </ToLeft>
-          <ToRight
-            style={{
-              veticalAlign:'bottom',
-              margin: "10px",
-              bottom: "0",
-              fontSize: "18px",
-              height: "60px",
-              right: "0",
-              color: "black"
-            }}
-            pose={showDescription ? "enter" : "exit"}
-          >
-            <span>{this.props.post.frontmatter.description}</span>
-          </ToRight>
-        </Box>
-        {this.props.post.frontmatter.image && (
-          <Img
-            fluid={this.props.post.frontmatter.image.childImageSharp.fluid}
-          />
+            <Box
+              style={{
+                display: "flex",
+                flexDirection: "column",
+                position: "absolute",
+                overflow: "hidden",
+                zIndex: "100",
+                width: WIDTH + "px",
+                height: WIDTH / (3 / 2) + "px",
+                justifyContent: "space-between",
+                backgroundColor: "rgb(249,254,255,0.9)",
+                boxSizing: "border-box"
+              }}
+              pose={showDescription ? "visible" : "hidden"}
+            >
+              <ToLeft
+                style={{
+                  margin: "10px",
+                  //  height: "150px",
+                  width: WIDTH - 30 + "px",
+                  fontSize: "30px",
+                  overflow: "hidden",
+                  left: "0",
+                  padding: "0",
+                  color: "black"
+                }}
+                pose={showDescription ? "enter" : "exit"}
+              >
+                <span>{this.props.post.frontmatter.title}</span>
+              </ToLeft>
+              <ToRight
+                style={{
+                  veticalAlign: "bottom",
+                  margin: "10px",
+                  bottom: "0",
+                  fontSize: "18px",
+                  height: "60px",
+                  right: "0",
+                  color: "black"
+                }}
+                pose={showDescription ? "enter" : "exit"}
+              >
+                <span>{this.props.post.frontmatter.description}</span>
+              </ToRight>
+            </Box>
+            {this.props.post.frontmatter.image && (
+              <Img
+                fluid={this.props.post.frontmatter.image.childImageSharp.fluid}
+              />
+            )}
+          </Link>
         )}
-      </Link>
+      </ContextConsumer>
     );
   }
 }
