@@ -76,12 +76,12 @@ const translate = word => {
   return translations[word];
 };
 const getLink = (location, destination, locale, inView, title) => {
+  const currentPath = location ? location.pathname : ''
   const localTitle = locale === "en" ? title : translate(title);
   console.log("Location> ?", location, destination, locale, inView, title);
 
-
-    return (location.pathname === "/" ) ||
-           (location.pathname === "/fr/" ) ? (
+    return (currentPath === "/" ) ||
+           (currentPath === "/fr/" ) ? (
     <AnchorLink
       className="menu-item"
       style={menuItemStyle(inView === destination)}
