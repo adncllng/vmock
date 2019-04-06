@@ -44,7 +44,7 @@ const unTemplateWrapper = ({
     render={data => (
       <ContextProviderComponent>
         <ContextConsumer>
-          {({ contextData, set,enterView,leaveView }) => (
+          {({ contextData, set, enterView, leaveView }) => (
             <ParallaxProvider>
               <div className="LAYOUTDIV">
                 <Helmet>
@@ -54,7 +54,6 @@ const unTemplateWrapper = ({
                     name="description"
                     content={data.site.siteMetadata.description}
                   />
-
                   <link
                     rel="apple-touch-icon"
                     sizes="180x180"
@@ -106,7 +105,6 @@ const unTemplateWrapper = ({
                   />
                   <Menu
                     inView={inView}
-                    locale={contextData.locale}
                     location={location}
                   />
                   <div />

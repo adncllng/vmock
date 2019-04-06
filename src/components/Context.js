@@ -2,14 +2,14 @@
 import React from "react";
 
 const path =
-  (typeof window !== "undefined" && window.location && window.location.href) ||
+  (typeof window !== "undefined" && window.location && window.location.pathname) ||
   "";
 console.log(path);
 const defaultContextValue = {
   contextData: {
     // set your initial data shape here
     fixTop: false,
-    locale: path.indexOf("fr") >= 0 ? "fr" : "en",
+    locale: path.indexOf("fr") >= 0 ? "/fr/" : "en",
     inView: [],
     location: "home"
   },

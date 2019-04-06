@@ -77,18 +77,11 @@ const translate = word => {
 };
 const getLink = (location, destination, locale, inView, title) => {
   const localTitle = locale === "en" ? title : translate(title);
-  console.log("Location", location, destination, locale, inView, title);
-  return(
-    <AnchorLink
-      className="menu-item"
-      style={menuItemStyle(inView === destination)}
-      href={`#${destination}`}
-    >
-      {localTitle}
-    </AnchorLink>
-  )
+  console.log("Location> ?", location, destination, locale, inView, title);
 
-  return location === "home" ? (
+
+    return (location.pathname === "/" ) ||
+           (location.pathname === "/fr/" ) ? (
     <AnchorLink
       className="menu-item"
       style={menuItemStyle(inView === destination)}
@@ -106,7 +99,7 @@ const getLink = (location, destination, locale, inView, title) => {
   );
 };
 
-const Menu = ({ locale, mobile, location }) => {
+const Menu = ({mobile, location }) => {
   return (
     <ContextConsumer>
       {({ contextData, set }) => (
@@ -126,7 +119,7 @@ const Menu = ({ locale, mobile, location }) => {
             pose={contextData.inView[contextData.inView.length - 1] === "about" ? "inView" : "outView"}
           >
             {getLink(
-              contextData.location,
+              location,
               "about",
               contextData.locale,
               contextData.inView[contextData.inView.length - 1],
@@ -139,7 +132,7 @@ const Menu = ({ locale, mobile, location }) => {
             pose={contextData.inView[contextData.inView.length - 1] === "news" ? "inView" : "outView"}
           >
             {getLink(
-              contextData.location,
+              location,
               "news",
               contextData.locale,
               contextData.inView[contextData.inView.length - 1],
@@ -156,9 +149,9 @@ const Menu = ({ locale, mobile, location }) => {
             }
           >
             {getLink(
-              contextData.location,
+              location,
               "projects",
-              locale,
+              contextData.locale,
               contextData.inView[contextData.inView.length - 1],
               "work"
             )}
