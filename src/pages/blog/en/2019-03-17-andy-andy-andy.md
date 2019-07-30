@@ -1,5 +1,5 @@
 ---
-image: /img/parade.jpg
+image: /img/qq.png
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
