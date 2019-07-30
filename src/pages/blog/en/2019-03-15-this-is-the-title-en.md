@@ -13,6 +13,4 @@ The artist created a series of performances with 16 teenagers who have just rece
 
 This work is made in collaboration with the Centre Turbine centreturbine.org/les-interpretes, thanks to the funding of Fonds dédiés aux écoles publiques, provided by the City of Montreal's Plateau-Mont-Royal arrondissement.
 
-
-
 ![](/img/screen-shot-2018-04-11-at-4.22.49-pm.png)
