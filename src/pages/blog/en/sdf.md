@@ -1,5 +1,5 @@
 ---
-image: /img/bobbyconference.jpg
+image: /img/screen-shot-2018-04-11-at-4.22.49-pm.png
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
