@@ -1,5 +1,5 @@
 ---
-image: /img/bobbyconference.jpg
+image: /img/parade.jpg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
