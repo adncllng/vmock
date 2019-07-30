@@ -1,14 +1,14 @@
 ---
-image: /img/20160525_213037.jpg
+image: /img/bobbyconference.jpg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
-title: ANDY ANDY ANDY
+title: ATHLÉIMNEACHT
 date: 2019-03-17T06:03:02.739Z
-description: Andy andy andy andy andy
+description: The Resilience Archive / Susana and Bobby
 ---
-AANNDDYY
+The Resilience Archive is an ongoing artwork structured in 3 parts. Each part presents the stories and images of a lineage of resilience. Part 1 entitled Athléimneacht follows the Lavery/Hennessey family. Containing video, audio, performance, images and historical records, Athléimneach evolves around the militancy of Susana Hennessey (health equity & social justice - California, USA) and Bobby Lavery (Belfast city council, Republican Long Kesh prisonner - Belfast, NI U.K.). 
 
-![](/img/20160614_183709.jpg)
+This work and hommage unfolds visually in different ways according to space or platform. 
 
-MORe text here
+![](/img/parade.jpg)
