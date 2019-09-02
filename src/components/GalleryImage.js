@@ -136,7 +136,7 @@ class GalleryImage extends React.Component {
               </ToRight>
             </Box>
             {this.props.post.frontmatter.image && (
-              <Img
+              <Img className="work-image"
                 fluid={this.props.post.frontmatter.image.childImageSharp.fluid}
               />
             )}
