@@ -165,7 +165,7 @@ const Menu = ({mobile, location }) => {
               className="menu-item"
               to={contextData.locale === "en" ? "/fr" : "/"}
             >
-              {contextData.locale === "en" ? "en" : "fr"}
+              {contextData.locale === "en" ? "fr" : "en"}
             </Link>
           </Item>
         </PosedDiv>
