@@ -1,5 +1,5 @@
 ---
-image: /img/20160521_224045_hdr.jpg
+image: /img/screen-shot-2018-04-11-at-4.22.49-pm.png
 templateKey: news-post
 locale: en
 pageKey: page_newspost
