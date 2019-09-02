@@ -1,5 +1,5 @@
 ---
-image: /img/20160520_173632_hdr.jpg
+image: /img/bobbyconference.jpg
 templateKey: blog-post
 locale: fr
 pageKey: page_blogpost
