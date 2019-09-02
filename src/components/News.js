@@ -19,9 +19,8 @@ const NewsPost = ({ post }) => {
               className="text-container"
               style={shouldTransform ? { transform: "translateX(100px)" } : {}}
             >
-              <h1>title: {post.frontmatter.title}</h1>
-              <p>description: {post.frontmatter.description}</p>
-              <p>date: {post.frontmatter.date}</p>
+              <h1>{post.frontmatter.title}</h1>
+              <p>{post.frontmatter.description}</p>
             </div>
           </Parallax>
           {post.frontmatter.image && (
