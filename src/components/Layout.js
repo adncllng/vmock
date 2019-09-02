@@ -116,9 +116,9 @@ const unTemplateWrapper = ({
                     pointerEvents: "none",
                     position: "fixed",
                     right: "0",
-                    width: "50vw",
+                    width: "42vw",
                     top: "0",
-                    textAlign: "right",
+                    textAlign: "left",
                     margin: "0"
                   }}
                 >
@@ -133,9 +133,9 @@ const unTemplateWrapper = ({
                     pointerEvents: "none",
                     position: "fixed",
                     right: "0",
-                    width: "50vw",
-                    top: "10vw",
-                    textAlign: "right",
+                    width: "42vw",
+                    top: "8vw",
+                    textAlign: "left",
                     margin: "0"
                   }}
                 >
