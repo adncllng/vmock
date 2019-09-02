@@ -11,6 +11,9 @@ a {
   text-decoration: none;
   color: black;
 }
+.main-container {
+  margin-left: 10vw;
+}
 .menu {
   margin: 15px;
   margin-top: 0px;
@@ -60,7 +63,7 @@ a {
 .newsPost .image-container {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   z-index: -1;
-  width: 500px;
+  width: 800px;
 }
 #veronica {
   max-width: 45vw;

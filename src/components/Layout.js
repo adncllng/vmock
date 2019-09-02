@@ -144,7 +144,7 @@ const unTemplateWrapper = ({
                   </h1>
                 </div>
 
-                <div className="main-container" style={{ marginLeft: "20vw" }}>
+                <div className="main-container">
                   {children}
                 </div>
                 <div
