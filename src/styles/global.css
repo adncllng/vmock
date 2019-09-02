@@ -47,6 +47,7 @@ a {
   justify-content: flex-start;
   align-items: center;
   flex-wrap: wrap-reverse;
+  
 }
 .newsPost .text-container {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -59,7 +60,18 @@ a {
   max-width: 82vw;
   border: solid 4px black;
   margin-right: 30%;
+  overflow: hidden;
   /* TODO TODO perform this transfor programattically in news.js cause mobile  */
+}
+.newsPost h1 {
+  margin-top:0;
+  margin-bottom:5px;
+  font-size: 30px;
+}
+.newsPost p {
+  margin-top:0;
+  font-size: 18px;
+  text-overflow: ellipsis;
 }
 .newsPost .image-container {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
