@@ -162,7 +162,7 @@ const Menu = ({mobile, location }) => {
               onClick={() =>
                 set({ locale: contextData.locale === "en" ? "fr" : "en" })
               }
-              className="menu-item"
+              className="menu-item lang"
               to={contextData.locale === "en" ? "/fr" : "/"}
             >
               {contextData.locale === "en" ? "fr" : "en"}

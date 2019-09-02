@@ -26,7 +26,8 @@ a {
   display: flex;
   justify-content: space-around;
 }
-.menu-item {
+.lang{
+  text-transform: uppercase; 
 }
 .parallax-outer {
   margin: 0;
