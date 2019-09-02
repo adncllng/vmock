@@ -8,8 +8,8 @@ import ContextConsumer from "./Context";
 const style = mobile => {};
 
 const NewsPost = ({ post }) => {
-  const shouldTransform =
-    typeof window !== "undefined" && window.innerWidth > 1094;
+  const shouldTransform = true;
+    //typeof window !== "undefined" && window.innerWidth > 1094;
   return (
     <ContextConsumer>
       {({ contextData }) => (
