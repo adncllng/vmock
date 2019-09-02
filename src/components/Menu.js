@@ -61,7 +61,7 @@ const style = fixTop => {
 const menuItemStyle = inView => {
   return inView
     ? {
-        color: "#ff9600"
+        color: "#ff5500"
       }
     : {};
 };
