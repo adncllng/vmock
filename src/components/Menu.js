@@ -8,7 +8,7 @@ import ContextConsumer from "./Context";
 
 const Item = posed.div({
   inView: {
-    rotate: 90, //translateX(20%)",
+    rotate: 60, //translateX(20%)",
     originX: "10%",
     y: 10,
     x: 50,

@@ -104,3 +104,7 @@ a {
   left: 20vw;
   position: absolute;
 }
+
+.okok {
+  position: static !important; 
+}
