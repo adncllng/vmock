@@ -5,12 +5,14 @@ locale: en
 pageKey: page_blogpost
 title: Les Interprètes
 date: 2019-03-16T03:53:50.749Z
-description: >-
-  Series of documentary interventions / 16 teenagers / École secondaire
-  Jeanne-Mance
+description: |
+  A series of performances by 16 teenagers
+  Nonfiction
+  Montreal, Québec, Canada
+  2018
 ---
-The artist created a series of performances with 16 teenagers who have just recently arrived to Canada. These performances, which she imagines and produces with the students, are about their experiences, opinions and representation. Performed for the camera or for a live audience through the use of different documentary and performative conventions, the students week after week, conceptually reflect on the ways in which their self-documentation can occur, and the social importance of their depiction in a context such as Montreal; Québec; Canada. Praxes such as declaration, hommage, confidentiality, verbatim, speculation, manifesto, testimony are explored and embodied by the group. Les Interprètes is an experimental moment in which these teenagers are given back authorship and control of their own narrative and image. 
+The artist created a series of performances with 16 teenagers who had just recently immigrated to Montreal, Québec, Canada. Mockler brought the students to express themselves on their daily lives in different performative settings. Over the course of six weeks, the teenagers came to reflect on what it means to represent oneself and to share experiences via different mediums. Mockler and the students explored together varying modes for expression, such as verbatim, speculation, interview, manifesto, testimony, declaration, hommage, censorship, and more. Mockler brought the teenagers  to explore storytelling in both intimate and public settings. 
 
-This work is made in collaboration with the Centre Turbine centreturbine.org/les-interpretes, thanks to the funding of Fonds dédiés aux écoles publiques, provided by the City of Montreal's Plateau-Mont-Royal arrondissement.
+In this work, the artist’s aim was to make her audience aware of the actual thoughts and discourses of young people who have immigrated. Mockler hoped this work went against documentary tendencies that gratuitously victimized and exploited the narratives of individuals who have undergone migration. She sees Les Interprètes as an experimental moment in which the teenagers were given control over their own representation. 	
 
-![](/img/screen-shot-2018-04-11-at-4.22.49-pm.png)
+The artist would like to thank the Centre Turbine, the Fonds dédiés aux écoles publiques provided by the city of Montreal's Plateau-Mont-Royal Arrondissement, Jeanne-Mance High School, the Maison de la culture du Plateau-Mont-Royal, the ATSA and the Cinéma Sous les Étoiles de Funambules Média.
