@@ -6,7 +6,7 @@ pageKey: page_blogpost
 title: Les Interprètes
 date: 2019-03-16T03:53:50.749Z
 description: >
-  Series of video performances featuring the daily thoughts of 16 new immigrant
+  Series of video performances featuring the daily thoughts of 16 newly arrived
   teenagers.
 ---
 The artist did a six-week residency in a Montreal high school in April 2018. During her time there, she created a series of performances with 16 teenagers who had just recently immigrated to Montreal, Québec, Canada. With the students, Mockler explored what it means to express oneself as a teenager and the control one has at that age over self-representation. Interested in their daily lives and preoccupations, the artist asked the teenagers to talk about themselves in different performative settings. She used different formats to prompt each exercise (verbatim, speculation, interview, manifesto, testimony, declaration, hommage, censorship, and more).
