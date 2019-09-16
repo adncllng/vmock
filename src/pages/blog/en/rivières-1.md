@@ -4,7 +4,7 @@ templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: 'Rivières '
-date: 2019-07-30T21:43:07.678Z
+date: 2019-08-07T17:00:00.000Z
 description: >
   A series of documentary performances featuring eight residents who live and
   work in Côte-des-Neiges borough.
