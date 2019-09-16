@@ -4,7 +4,7 @@ templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: The Address
-date: 2019-07-30T21:43:07.678Z
+date: 2019-09-01T18:00:00.000Z
 description: >
   The Address is a series of citizen ethnodocumentary performances about the
   right to housing.
