@@ -3,7 +3,7 @@ image: /img/screen-shot-2019-09-16-at-9.02.16-am.png
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
-title: Lucky You
+title: Love Me Love Me Say That You Love Me
 date: 2019-09-16T14:32:58.676Z
 description: >-
   A video triptych on how we seek validation through the approval of others both
