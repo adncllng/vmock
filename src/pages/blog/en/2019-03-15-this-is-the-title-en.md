@@ -4,7 +4,7 @@ templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: Les Interprètes
-date: 2019-08-01T19:00:00.000Z
+date: 2019-08-04T17:00:00.000Z
 description: >
   Series of video performances featuring the daily thoughts of 16 newly arrived
   teenagers.
