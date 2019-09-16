@@ -1,0 +1,14 @@
+---
+image: /img/past_work_rivières._02.jpeg
+templateKey: blog-post
+locale: en
+pageKey: page_blogpost
+title: 'Rivières '
+date: 2019-07-30T21:43:07.678Z
+description: >
+  A series of documentary performances featuring eight residents who live and
+  work in Côte-des-Neiges borough.
+---
+Rivières is a series of documentary performances the artist Veronica Mockler co-created with theatre artist Sofia Blondin. At the intersection of performance, installation and documentary, this artwork was about the lives and experiences of eight individuals living in the Côte-des-Neiges borough of Montreal. The documentary performances were based on two elements: a soundtrack playing the edited version of an audio interview the two women artist had done with a resident, and the physical presence of this very resident in front of the audience. Over the course of two days, hundreds of montrealers wander through the halls of the borough’s community center to encounter the presence and stories of eight complete strangers. 
+
+VISIBLE would like to thank the City of Montreal – vive375mtl fund, the Arrondissement Côte-des-Neiges-Notre-Dame-de-Grâce, the Theatre Engaging Communities Program of the National Theatre School of Canada and the Centre Communautaire de Loisir de Côte-des-Neiges.
