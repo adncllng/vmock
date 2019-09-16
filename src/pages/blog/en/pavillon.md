@@ -4,7 +4,7 @@ templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: Pavillon
-date: 2019-09-16T02:26:04.767Z
+date: 2019-09-01T17:00:00.000Z
 description: >-
   Nonfiction media work presenting the outcomes of the artist's community-based
   residence.
