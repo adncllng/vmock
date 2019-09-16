@@ -1,5 +1,5 @@
 ---
-image: /img/dazibao-montreal-video-artist-talk-copy-2.jpg
+image: /img/screen-shot-2019-09-16-at-10.10.36-am.png
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
