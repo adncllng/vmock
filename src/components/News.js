@@ -37,14 +37,10 @@ const NewsPost = ({ post }) => {
 const unNews = ({ newsPosts, inViewport, innerRef, handleInView, fixTop }) => {
   return (
     <div className="news" ref={innerRef}>
-      {newsPosts &&
-        Array(10)
-          .fill()
-          .map(() =>
-            newsPosts.map(({ node: newsPost }, i) => (
+      {newsPosts && newsPosts.map(({ node: newsPost }, i) => (
               <NewsPost key={i + "ghgh"} post={newsPost} />
             ))
-          )}
+          }
     </div>
   );
 };

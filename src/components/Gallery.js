@@ -7,6 +7,9 @@ import handleViewport from "react-in-viewport";
 const style = mobile => {};
 
 const unGallery = ({ posts, inViewport, innerRef, handleInView }) => {
+ const sortedPosts = posts && posts.sort(({node: post}, {node:secondPost}) => {
+    return post.frontmatter.date > secondPost.frontmatter.date
+  })
   return (
     <div
       ref={innerRef}
@@ -17,8 +20,7 @@ const unGallery = ({ posts, inViewport, innerRef, handleInView }) => {
         overflow: "hidden"
       }}
     >
-      {posts && Array(5).fill().map(()=>posts.map(({ node: post }) => <GalleryImage post={post} />))}
-
+      {sortedPosts && sortedPosts.map(({ node: post }) => <GalleryImage post={post} />)}
     </div>
   );
 };

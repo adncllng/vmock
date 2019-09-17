@@ -19,10 +19,11 @@ const BlogPost = ({ data, location,  pageContext: { locale } }) => {
           fluid={post.frontmatter.image.childImageSharp.fluid}
         />
       )}
-        <h1>title: {post.frontmatter.title}</h1>
-        <p>description: {post.frontmatter.description}</p>
-        <p>date: {post.frontmatter.date}</p>
+        <h1>{post.frontmatter.title}</h1>
+        <h2>{post.frontmatter.description}</h2>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        <br/>
+        <br/>
       </div>
     </div>
   );
