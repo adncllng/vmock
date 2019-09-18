@@ -15,16 +15,18 @@ Amongst many other things, Bobby is a former North Belfast City Councillor (elec
 
 (Kerr, Daniel. “Allan Nevins Is Not My Grandfather: The Roots of Radical Oral History Practice in the United States,” Oral History Review 43, 2 (2016), 367–391.)
 
-![](/img/e.png)
+![](/img/20180403_222323.jpg)
 
-![](/img/h.jpg)
+![](/img/screen-shot-2019-09-18-at-12.22.48-pm.png)
 
-![](/img/g.png)
+![](/img/p1140794.jpg)
 
-![](/img/screen-shot-2019-09-18-at-11.30.56-am.png)
-
-![](/img/parade.jpg)
+![](/img/p1140695.jpg)
 
 ![](/img/hblocks.jpg)
+
+![](/img/screen-shot-2019-09-18-at-12.14.10-pm.png)
+
+![](/img/screen-shot-2019-09-18-at-11.30.56-am.png)
 
 ![](/img/crop.png)
