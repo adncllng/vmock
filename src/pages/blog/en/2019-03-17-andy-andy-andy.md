@@ -34,5 +34,3 @@ _1. (Kerr, Daniel. “Allan Nevins Is Not My Grandfather: The Roots of Radical O
 ![](/img/crop.png)
 
 ![](/img/screen-shot-2019-09-18-at-12.16.55-pm.png)
-
-![](/img/westbelfast.png)
