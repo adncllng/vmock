@@ -13,7 +13,7 @@ Athléimneacht is an ongoing project the artist is developing during her visits 
 
 Amongst many other things, Bobby is a former North Belfast City Councillor (elected 3 terms) and sentenced Long Kesh prisoner. During the Northern-Irish conflict, Bobby’s 21-year old son was killed by two gunmen. Bobby's life dedication to the Republican struggle as well as his radical activism for class equality is at the basis of this joint "hommage". Susana, for her part, has been an instrumental actor for the San Francisco Bay area's health equity and social justice public program implementation. She was a former supervisor at La Clinica de La Raza, an activist led multi-service clinic that provides healthcare to low-income and undocumented Latino residents of the East Bay area of Oakland, CA. Susana’s first husband died of HIV/AIDS during their 7th year of marriage. Susana's resilience, life's work and generous advocacy is at the heart of this joint "hommage".  
 
-(Kerr, Daniel. “Allan Nevins Is Not My Grandfather: The Roots of Radical Oral History Practice in the United States,” Oral History Review 43, 2 (2016), 367–391.)
+_1. (Kerr, Daniel. “Allan Nevins Is Not My Grandfather: The Roots of Radical Oral History Practice in the United States,” Oral History Review 43, 2 (2016), 367–391.)_
 
 ![](/img/20180403_222323.jpg)
 
@@ -23,10 +23,14 @@ Amongst many other things, Bobby is a former North Belfast City Councillor (elec
 
 ![](/img/p1140695.jpg)
 
-![](/img/hblocks.jpg)
-
 ![](/img/screen-shot-2019-09-18-at-12.14.10-pm.png)
 
 ![](/img/screen-shot-2019-09-18-at-11.30.56-am.png)
 
+![](/img/27evic.jpg)
+
+![](/img/hblocks.jpg)
+
 ![](/img/crop.png)
+
+![](/img/screen-shot-2019-09-18-at-12.16.55-pm.png)
