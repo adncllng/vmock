@@ -21,7 +21,7 @@ const BlogPost = ({ data, location,  pageContext: { locale } }) => {
       )}
         <h1>{post.frontmatter.title}</h1>
         <h2>{post.frontmatter.description}</h2>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        <div className="blog-html" dangerouslySetInnerHTML={{ __html: post.html }} />
         <br/>
         <br/>
       </div>

@@ -139,3 +139,12 @@ a {
   text-overflow: ellipsis;
   text-align: justify;
 }
+
+.blog-html p {
+  text-align: justify;
+  margin-right:2%;
+}
+
+.blog-html p img {
+  width:102%;
+}
