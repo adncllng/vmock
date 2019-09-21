@@ -8,7 +8,7 @@ const style = mobile => {};
 
 const unGallery = ({ posts, inViewport, innerRef, handleInView }) => {
  const sortedPosts = posts && posts.sort(({node: post}, {node:secondPost}) => {
-    return post.frontmatter.date > secondPost.frontmatter.date
+    return new Date(post.frontmatter.date) - new Date(secondPost.frontmatter.date)
   })
   return (
     <div
