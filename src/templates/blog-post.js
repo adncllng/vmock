@@ -41,7 +41,7 @@ BlogPost.propTypes = {
 };
 
 export default BlogPost;
-
+ 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
@@ -53,7 +53,7 @@ export const pageQuery = graphql`
         description
         image {
           childImageSharp {
-            fluid(maxWidth: 1000, quality: 100) {
+            fluid(maxWidth: 1200, quality: 100) {
               ...GatsbyImageSharpFluid
             }
           }
