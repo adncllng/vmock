@@ -35,9 +35,12 @@ const NewsPost = ({ post }) => {
 };
 
 const unNews = ({ newsPosts, inViewport, innerRef, handleInView, fixTop }) => {
+  const sortedPosts = newsPosts && newsPosts.sort(({node: post}, {node:secondPost}) => {
+    return new Date(post.frontmatter.date) - new Date(secondPost.frontmatter.date)
+  })
   return (
     <div className="news" ref={innerRef}>
-      {newsPosts && newsPosts.map(({ node: newsPost }, i) => (
+      {sortedPosts && sortedPosts.map(({ node: newsPost }, i) => (
               <NewsPost key={i + "ghgh"} post={newsPost} />
             ))
           }
