@@ -4,9 +4,32 @@ templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: The Address
-date: 1929-01-01T18:00:00.000Z
-description: >
-  The Address is a series of citizen ethnodocumentary performances about the
-  right to housing.
+date: 1961-01-01T18:00:00.000Z
+description: |+
+  Series of citizen ethno-documentary performances about the right to housing
 ---
-Visible (an art collective cofounded by actress Sofia Blondin and social relational artist Veronica Mockler) created The Address, a commission performance by [Amplifier Group](http://amplifier-amplifier.com). In The Address, Visible invited hundreds and hundreds of Montrealers to dive deep into issues relating to the right to housing. Different citizens were brought to perform and share their perspectives on the situation in Côte-des-Neiges borough of Montreal. The audience was invited to a non-institutional space in the neighbourhood and listen to the experiences of tenants, owners, community actors, activists, inspectors and urban planners. These citizens/performers shared their personal and socio-political reality in an interdisciplinary format (oral history, documentary, video). The Address was a horizontal et circular space for citizens to represent and mobilize one anOther about the urgency of the right to housing in Montreal.
+The Address is a series of performances Mockler co-created with theatre artist Sofia Blondin. This work was commissioned by Amplifier Group. The Address invited hundreds of Montrealers to dive deeply into the issues pertaining to the Right to Housing. Different stakeholders were brought in to perform and share their experiences regarding the housing situation in the Côte-des-Neiges borough of Montreal. In a neutral setting within the neighbourhood, the audience saw a live presentation by tenants, owners, community actors, activists, inspectors and urban planners on these issues. The participants shared their personal and socio-political realities directly with the audience in an interdisciplinary format (oral history, documentary, video and live performance). The Address was a horizontal and circular space where citizens could represent and mobilize together in an attempt to deal with the urgent and challenging issues facing them. 
+
+![](/img/benewende.png)
+
+![](/img/ahmed.png)
+
+![](/img/bakr.png)
+
+![](/img/john.png)
+
+![](/img/line.png)
+
+![](/img/anna_maria.png)
+
+![](/img/ismael.png)
+
+![](/img/screen-shot-2019-09-22-at-1.03.45-pm.png)
+
+![](/img/screen-shot-2019-09-22-at-1.05.18-pm.png)
+
+![](/img/screen-shot-2019-09-22-at-1.05.29-pm.png)
+
+![](/img/img_9246.jpg)
+
+![](/img/research_for_theaddress.png)
