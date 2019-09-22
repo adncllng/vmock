@@ -4,7 +4,7 @@ templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: Athléimneacht
-date: 2019-08-06T17:00:00.000Z
+date: 1926-01-01T18:00:00.000Z
 description: >
   Oral history project on the lives and resilience of Susana Hennessey and Bobby
   Lavery
