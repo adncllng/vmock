@@ -4,7 +4,7 @@ templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: Canvassers
-date: 2019-08-09T17:00:00.000Z
+date: 1923-01-01T18:00:00.000Z
 description: >-
   Video performance based on a scientific study demonstrating the political
   potential of impromptu face-to-face personal story sharing.
