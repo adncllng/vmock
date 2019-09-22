@@ -4,7 +4,7 @@ templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: The Left Point
-date: 2019-08-08T17:00:00.000Z
+date: 1924-01-01T18:00:00.000Z
 description: |
   An experiment on ideological disagreement in Belfast (Northern Ireland, UK).
 ---
