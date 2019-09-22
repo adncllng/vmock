@@ -10,9 +10,7 @@ description: |
 ---
 The Address is a series of performances Mockler co-created with theatre artist Sofia Blondin. This work was commissioned by Amplifier Group. The Address invited hundreds of Montrealers to dive deeply into the issues pertaining to the Right to Housing. Different stakeholders were brought in to perform and share their experiences regarding the housing situation in the Côte-des-Neiges borough of Montreal. In a neutral setting within the neighbourhood, the audience saw a live presentation by tenants, owners, community actors, activists, inspectors and urban planners on these issues. The participants shared their personal and socio-political realities directly with the audience in an interdisciplinary format (oral history, documentary, video and live performance). The Address was a horizontal and circular space where citizens could represent and mobilize together in an attempt to deal with the urgent and challenging issues facing them. 
 
-![](/img/benewende.png)
-
-![](/img/ahmed.png)
+The Address was co-produced by Visible Art Collective (Veronica Mockler and Sofia Blondin) and Amplifier Group. It was part of the 360° ethnography project Amplifier led in the summer of 2017 in Côte-des-Neiges. The Address was made possible thanks to artistic and technical support of Émile Lafortune as well as the financial contribution of the Conseil des Arts de Montréal's Patron of the Arts Prize and the Theatre Engaging Communities Program of the National Theatre School of Canada.
 
 ![](/img/john.png)
 
@@ -22,6 +20,10 @@ The Address is a series of performances Mockler co-created with theatre artist S
 
 ![](/img/ismael.png)
 
-![](/img/screen-shot-2019-09-22-at-1.03.45-pm.png)
+![](/img/benewende.png)
+
+![](/img/ahmed.png)
 
 ![](/img/bakr.png)
+
+![](/img/screen-shot-2019-09-22-at-1.03.45-pm.png)
