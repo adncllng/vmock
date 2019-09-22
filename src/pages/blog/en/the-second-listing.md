@@ -4,7 +4,7 @@ templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: The Second Listing
-date: 2019-09-16T15:15:50.461Z
+date: 1917-01-01T16:15:50.461Z
 description: >-
   A performance by the artist about what she is, and what she is not, as a
   person.
