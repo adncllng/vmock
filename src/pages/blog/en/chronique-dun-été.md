@@ -4,7 +4,7 @@ templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: Chronique d'un été
-date: 2019-09-16T02:29:39.962Z
+date: 1922-01-02T03:29:39.962Z
 description: |
   A cinéma-vérité video performance on Québécois white youth.
 ---
