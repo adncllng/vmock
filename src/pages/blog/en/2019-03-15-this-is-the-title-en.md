@@ -14,10 +14,6 @@ The artist would like to thank the Centre Turbine, the Fonds dédiés aux école
 
 Photo credits of performances: Aja Palmer, Dominic Morissette
 
-
-
-
-
 ![](/img/screen-shot-2019-09-23-at-10.29.59-am.png)
 
 ![](/img/screen-shot-2019-09-23-at-10.31.55-am.png)
@@ -34,7 +30,7 @@ Photo credits of performances: Aja Palmer, Dominic Morissette
 
 ![](/img/p1160565.png)
 
-![](/img/02_vm_les_interpretes.png)
+![](/img/screen-shot-2018-04-11-at-4.22.49-pm.png)
 
 ![](/img/dmorissette_13_dscf0093.jpg)
 
