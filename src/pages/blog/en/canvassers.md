@@ -18,6 +18,24 @@ Mich and Marshall are asked to share a personal story in front of a camera. Both
 
 _1. Science Mag 08 Apr 2016 | Vol. 352, Issue 6282, pp. 220-224 | DOI: 10.1126/science.aad9713 | Authors : David Broockman | Joshua Kalla_
 
-![]()
+![](/img/screen-shot-2019-09-23-at-2.30.21-pm.png)
 
-![]()
+![](/img/screen-shot-2019-09-23-at-2.30.30-pm.png)
+
+![](/img/screen-shot-2019-09-23-at-2.29.36-pm.png)
+
+![](/img/p1160830_1.png)
+
+![](/img/p1160842.png)
+
+![](/img/canvassersretouche_21-copy.jpg)
+
+![](/img/canvassers_04.png)
+
+![](/img/canvassers_03.png)
+
+![](/img/28071027_10213277257299500_7137824767098796485_o.jpg)
+
+![](/img/p1150438.png)
+
+![](/img/p1150462.png)
