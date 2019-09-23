@@ -5,7 +5,7 @@ locale: en
 pageKey: page_blogpost
 title: 'Rivières '
 date: 1965-01-01T18:00:00.000Z
-description: >+
+description: >
   Documentary performances featuring eight residents who live and work in the
   Montreal borough of Côte-des-Neiges
 ---
@@ -13,7 +13,7 @@ Rivières is a series of documentary performances Mockler co-created with theatr
 
 VISIBLE would like to thank the City of Montreal – vive375mtl fund, the Arrondissement Côte-des-Neiges-Notre-Dame-de-Grâce, the Theatre Engaging Communities Program of the National Theatre School of Canada and the Centre Communautaire de Loisir de Côte-des-Neiges.
 
-****[**https://www.youtube.com/watch?v=Zm0IbvqoNVg**](https://www.youtube.com/watch?v=Zm0IbvqoNVg)****
+\***\*[**https://www.youtube.com/watch?v=Zm0IbvqoNVg**](https://www.youtube.com/watch?v=Zm0IbvqoNVg)\*\***
 
 ![](/img/mado.png)
 
