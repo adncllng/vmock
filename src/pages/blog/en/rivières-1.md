@@ -1,5 +1,5 @@
 ---
-image: /img/salamata-copy.png
+image: /img/salamataaaaa.png
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
@@ -13,18 +13,16 @@ Rivières is a series of documentary performances Mockler co-created with theatr
 
 VISIBLE would like to thank the City of Montreal – vive375mtl fund, the Arrondissement Côte-des-Neiges-Notre-Dame-de-Grâce, the Theatre Engaging Communities Program of the National Theatre School of Canada and the Centre Communautaire de Loisir de Côte-des-Neiges.
 
-![](/img/mado.png)
+![](/img/jun.jpg)
 
 ![](/img/eunice-copy.jpg)
 
+![](/img/modibo-copy.jpeg)
+
+![](/img/wasen-copy.jpg)
+
+![](/img/mado.jpg)
+
+![](/img/madeleine-copy.jpg)
+
 ![](/img/marc-copy.jpg)
-
-![](/img/past_work_rivières._02.jpeg)
-
-![](/img/jun.jpg)
-
-![](/img/wasen-copy.png)
-
-![](/img/madeleine-copy.png)
-
-![](/img/audience_rivières.png)
