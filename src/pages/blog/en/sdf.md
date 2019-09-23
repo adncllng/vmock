@@ -30,7 +30,7 @@ The Address would not have come to life without the artistic and technical contr
 
 ![](/img/line.png)
 
-![](/img/screen-shot-2019-09-22-at-1.03.45-pm.png)
+![](/img/aida.png)
 
 ![](/img/john.png)
 
