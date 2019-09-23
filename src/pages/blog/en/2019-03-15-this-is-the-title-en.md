@@ -4,7 +4,7 @@ templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: Les Interprètes
-date: 1927-01-01T18:00:00.000Z
+date: 1964-01-01T18:00:00.000Z
 description: |
   Video performances featuring the daily thoughts of 16 newly arrived teenagers
 ---
