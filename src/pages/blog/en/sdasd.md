@@ -23,8 +23,8 @@ Listening to Nati is a documentary work in which Mockler looks at the ways in wh
 
 ![](/img/p1170236.jpg)
 
-![](/img/screen-shot-2019-09-23-at-9.53.23-am.png)
-
 ![](/img/screen-shot-2019-09-23-at-9.52.37-am.png)
+
+![](/img/screen-shot-2019-09-23-at-9.53.23-am.png)
 
 ![](/img/screen-shot-2019-09-23-at-9.47.47-am.png)
