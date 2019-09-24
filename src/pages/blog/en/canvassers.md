@@ -28,13 +28,13 @@ _1. Science Mag 08 Apr 2016 | Vol. 352, Issue 6282, pp. 220-224 | DOI: 10.1126/s
 
 ![](/img/p1160842.png)
 
-![](/img/canvassers_03.png)
-
 ![](/img/28071027_10213277257299500_7137824767098796485_o.jpg)
 
 ![](/img/p1150438.png)
 
 ![](/img/p1150462.png)
+
+![](/img/canvassers_03.png)
 
 ![](/img/image_02_veronica_mockler.png)
 
