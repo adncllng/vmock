@@ -1,5 +1,6 @@
 ---
-image: /img/chronique_dun_été_03.png
+image: >-
+  /img/chronique-d-un-été-montreal-exposition-galerie-art-video-documentaire.png
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
@@ -16,20 +17,20 @@ See here the accompanying publication: <https://issuu.com/women-cinemakers/docs/
 
 Chronique d'un été has been presented part of GSTAAD Art Film Festival / Official Selection (2017) Montevideo, Uruguay.
 
-![](/img/chronique_dun_été_07.png)
+![](/img/screen-shot-2019-09-23-at-8.05.44-pm.png)
 
-![](/img/chronique-d-un-été-montreal-exposition-galerie-art-video-documentaire.png)
+![](/img/screen-shot-2019-09-23-at-8.06.13-pm.png)
 
 ![](/img/vérité-canada-montreal-artvideo.png)
 
 ![](/img/video-cinéma-vérité-canada.png)
+
+![](/img/screen-shot-2019-09-23-at-8.06.30-pm.png)
 
 ![](/img/sala-de-teatro-10.jpg)
 
 ![](/img/exhibition-view-chronique-d-un-été.png)
 
 ![](/img/20160428_211056.png)
-
-![](/img/20160428_210713_hdr.jpg)
 
 ![](/img/20160428_210726_hdr.jpg)
