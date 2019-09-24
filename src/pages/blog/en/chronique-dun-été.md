@@ -25,8 +25,6 @@ Chronique d'un été has been presented part of GSTAAD Art Film Festival / Offic
 
 ![](/img/video-cinéma-vérité-canada.png)
 
-![]()
-
 ![](/img/20160428_210726_hdr.png)
 
 ![](/img/20160428_210713_hdr.jpg)
