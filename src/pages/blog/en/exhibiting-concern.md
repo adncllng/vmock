@@ -1,10 +1,23 @@
 ---
-image: /img/lol.png
+image: /img/screen-shot-2019-09-24-at-11.59.42-am.png
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
-title: 'Exhibiting Concern '
-date: 1900-09-16T16:09:00.000Z
-description: 'Study 1.1: Video diptych of a young man. '
+title: Exhibiting Concern / Two Studies
+date: 1979-09-16T15:09:00.000Z
+description: |
+  Two video studies that question gaze according to gender
 ---
-Exhibiting Concern is a video diptych that is part of a series the artist produced on themes of youth and privilege. In this short rhythmic video diptych, the viewer is presented with a bored and apathetic young white man who could not care less about the attention he is being given by the camera.
+The artist is attempting to explore how gaze (the act of being seen) varies according to who is looking.
+
+In the first study, the group of young women observe one another in silence. Their gaze is structured, attentive, and directed towards themselves, whereas in the second video study, the viewer is presented with what seems to be a bored and disinterested young white male who could not care less about being filmed.
+
+The artist allows viewers to draw their own conclusions as to what mental processes are at work in these characters. 
+
+![](/img/screen-shot-2019-09-24-at-11.49.47-am.png)
+
+![](/img/babies.jpg)
+
+![](/img/cd1.jpg)
+
+![](/img/screen-shot-2016-12-29-at-7.55.01-pm.png)
