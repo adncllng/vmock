@@ -3,12 +3,12 @@ image: /img/img_0013.jpg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
-title: The First Listing
-date: 1915-01-01T14:53:25.836Z
-description: >-
-  A performance by the artist about what she is, and what she is not, as a
-  person.
+title: Listing 01
+date: 1974-01-01T14:53:00.000Z
+description: Performance by the artist about who she is and who she is not as a human being
 ---
-The First Listing is a performance part of a series the artist developed initially in 2012. The artist lists aloud everything that she is and everything she is not in front of an audience. The work has become a series since this first edition.
+The First Listing is a performance part of a series developed initially in 2012. During this live performance, Mockler lists aloud everything that she is and everything that she is not in front of an audience. This exercise promotes accountability and is crucial in maintaining perspective and humility over time — knowing and stating publicly where you came from guides where you want to go. In the next phases of this ongoing project, the artist intends to expand the process to include other individuals.
 
-This work was presented in the Intermedia-Cyberart Performances in Concordia University in January 2012.
+This work was presented at Concordia University in January 2012.
+
+![](/img/screen-shot-2016-04-11-at-11.23.49-am.png)
