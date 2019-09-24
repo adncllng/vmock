@@ -26,13 +26,13 @@ The Address would not have come to life without the artistic and technical contr
 
 ![](/img/ismael.png)
 
-![](/img/bakr.png)
-
 ![](/img/line.png)
+
+![](/img/john.png)
 
 ![](/img/aida.png)
 
-![](/img/john.png)
+![](/img/bakr.png)
 
 _Visible Art Collective would like to thank Chloé Brooks, Maxime Bourbonnais, Charlie Carpentier, Sophie Catherine Dick, Juliette Hudon, Isabelle Kalar, Jean-Christophe Leblanc, Anastasia Lucic and Lalaina Rakotoarisoa for their volunteering and magic._
 
