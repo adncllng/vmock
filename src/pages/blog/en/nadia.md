@@ -15,6 +15,8 @@ Mockler and Nadia only met once. During that afternoon, Mockler took photographs
 
 Later on, the artist spent some time painting a portrait of Nadia, based on the photographs she had taken. Mockler lost contact with Nadia and was never able to give her, or show her the painting. 
 
-![](/img/img_1812.jpg)
+![](/img/img_1812.png)
+
+![](/img/img_1734.jpg)
 
 ![](/img/3d-24854_squeezie-apple-strawberry-blueberry_mickey_uk_it.jpg)
