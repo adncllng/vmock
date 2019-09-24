@@ -11,4 +11,12 @@ The First Listing is a performance part of a series developed initially in 2012.
 
 This work was presented at Concordia University in January 2012.
 
+![](/img/screen-shot-2019-09-24-at-9.24.06-am.png)
+
+![](/img/screen-shot-2019-09-24-at-9.25.28-am.png)
+
+![](/img/screen-shot-2019-09-24-at-9.30.03-am.png)
+
+![](/img/screen-shot-2019-09-24-at-9.18.24-am.png)
+
 ![](/img/screen-shot-2016-04-11-at-11.23.49-am.png)
