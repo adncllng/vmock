@@ -14,7 +14,7 @@ Mich and Marshall are asked to share a personal story in front of a camera. Both
 * Canvassers premièred in a solo exhibition curated by Christophe Barbeau in Redding Flagg Gallery in Toronto ON, Canada on February 2017.
 * Canvassers has been presented in Future Perfect group show, curated by Nadav Assor, in Ammerman Center's Biennial on Technology, Art and Intersections in New London CT, U.S.A during February 2018.
 * Canvassers has been presented in Third Shift group show, organized by Third Space Gallery, in Saint John NB, Canada during August 2018.
-* This work is distributed non-exclusively by Montreal video art distributor Videographe [videographe.org](videographe.org)
+* This work is distributed non-exclusively by Montreal video art distributor Videographe [**videographe.org**](videographe.org)****
 
 _1. Science Mag 08 Apr 2016 | Vol. 352, Issue 6282, pp. 220-224 | DOI: 10.1126/science.aad9713 | Authors : David Broockman | Joshua Kalla_
 
@@ -28,10 +28,6 @@ _1. Science Mag 08 Apr 2016 | Vol. 352, Issue 6282, pp. 220-224 | DOI: 10.1126/s
 
 ![](/img/p1160842.png)
 
-![](/img/canvassersretouche_21-copy.jpg)
-
-![](/img/canvassers_04.png)
-
 ![](/img/canvassers_03.png)
 
 ![](/img/28071027_10213277257299500_7137824767098796485_o.jpg)
@@ -39,3 +35,7 @@ _1. Science Mag 08 Apr 2016 | Vol. 352, Issue 6282, pp. 220-224 | DOI: 10.1126/s
 ![](/img/p1150438.png)
 
 ![](/img/p1150462.png)
+
+![](/img/image_02_veronica_mockler.png)
+
+![](/img/canvassers_04.png)
