@@ -19,18 +19,12 @@ Chronique d'un été has been presented part of GSTAAD Art Film Festival / Offic
 
 ![](/img/screen-shot-2019-09-23-at-8.05.44-pm.png)
 
-![](/img/screen-shot-2019-09-23-at-8.06.13-pm.png)
-
 ![](/img/vérité-canada-montreal-artvideo.png)
+
+![](/img/screen-shot-2019-09-23-at-8.06.13-pm.png)
 
 ![](/img/video-cinéma-vérité-canada.png)
 
-![](/img/screen-shot-2019-09-23-at-8.06.30-pm.png)
-
 ![](/img/sala-de-teatro-10.jpg)
-
-![](/img/exhibition-view-chronique-d-un-été.png)
-
-![](/img/20160428_211056.png)
 
 ![](/img/20160428_210726_hdr.jpg)
