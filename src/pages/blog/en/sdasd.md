@@ -5,9 +5,7 @@ locale: en
 pageKey: page_blogpost
 title: Listening to Nati
 date: 1962-01-01T20:00:00.000Z
-description: >-
-  Ongoing documentary work (video, performance + more) on the public
-  presentation of Nati’s story
+description: Ongoing documentary work on the public representation of Nati’s story
 ---
 This ongoing documentary work is about Natasha (Nati), a young woman who sought Mockler back in 2018 to ask the artist if she would help tell her story - Nati's story. The two women did not know one another before hand. They first met in a coffee shop, which they left a minute after entering to find somewhere more private to discuss. Natasha went on to present herself to the artist as a young Montreal-born woman of 21 years old who, at the age of 7, experienced her first sexual assault. Natasha went on to recount how she had survived six cases of sexual violence perpetrated by different men. Nati identifies as a "Lao-Salvadoreña activist against sexual violence, a rape survivor, and a suicide attempt survivor" (taken from Natasha's bio on her Instagram account). At the age of 21, Natasha decided to publicly address, through video logs on YouTube, Facebook and Instagram, the sexual abuse, incest, and misogyny she has experienced in her lifetime. 
 
