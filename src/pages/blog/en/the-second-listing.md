@@ -18,4 +18,4 @@ Following is the documentation of the second listing which took place on January
 
 ![](/img/the_listing_01.jpg)
 
-![](/img/the_listing07.jpg)
+![](/img/the_listing09.jpg)
