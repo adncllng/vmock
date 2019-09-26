@@ -11,9 +11,9 @@ In this video performance, the artist gets drunk and dances to music in front of
 
 Mockler later explores these themes again with a friend who was questioning herself about similar attitudes. This time around, the cultural persona is shared, duplicated, mirrored between two young women instead of just one. This communal performance touches on the persona's dependency on a special alliance with others. 
 
-To finish off this series, the artist wanted to explore the cultural performance of "partying" but this time, without alcohol. Drawing from observations made during her second performance, Mockler joined forces once again with a friend, and together they explored the unspoken and natural bond that is created between people who party together. 
+To finish off this series, the artist wanted to explore the cultural performance of "partying", but this time, without alcohol. Drawing from observations made during her second performance, Mockler joined forces once again with a friend, and together they explored the unspoken and natural bond that is created between people who party together. 
 
-In this third performance, the artist and her friend danced together during two consecutive hours without stopping. One performer was inside the gallery space, the other was outside. The performance was part of a group exhibition and took place during the opening. Gallery attendees could therefore witness two women dancing simultaneously together separately. 
+In this third performance, the artist and her friend danced together for two consecutive hours without stopping. One performer was inside the gallery space while the other was outside. The performance was part of a group exhibition and took place during the opening. Gallery attendees could therefore witness two women dancing simultaneously together, apart.
 
 The artist would like to thank Clémence Renaud and Florencia Sosa Rey for their friendship and creative contribution. 
 
