@@ -1,5 +1,5 @@
 ---
-image: /img/screen-shot-2013-10-17-at-3.48.39-pm.png
+image: /img/screen-shot-2019-09-24-at-10.36.50-am.png
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
