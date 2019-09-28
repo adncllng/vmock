@@ -8,7 +8,21 @@ import ContextConsumer from "./Context";
 
 const Item = posed.div({
   inView: {
-    rotate: 60, //translateX(20%)",
+    rotate: 90,
+    originX: "10%",
+    y: 10,
+    x: 50,
+    textShadow: "0px 5px 15.52px rgba(7, 26, 1, 0.1)",
+    originY: "0%",
+    transition: {
+      type: "spring",
+      stiffness: 500,
+      damping: 150,
+      restDelta: 0.5,
+      restSpeed: 10
+    }
+  },
+  mobileInView: {
     originX: "10%",
     y: 10,
     x: 50,
@@ -65,13 +79,20 @@ const menuItemStyle = inView => {
       }
     : {};
 };
-
+const getItemPose = (contextData, thisItemName, mobile) => {
+  const currentInView = contextData.inView[contextData.inView.length - 1] ;
+  const isThisItemInView = currentInView === thisItemName;
+  if ( mobile ) return "outView";
+  return isThisItemInView ? "inView" : "outView"
+}
 const translate = word => {
+  ////Joindre l'artiste, À propos, Nouvelles, Oeuvres
+
   const translations = {
-    work: "oeuvre",
+    work: "oeuvres",
     news: "nouvelles",
     about: "à propos",
-    contact: "contact"
+    contact: "Joindre l'artiste"
   };
   return translations[word];
 };
@@ -108,15 +129,29 @@ const Menu = ({mobile, location }) => {
           style={style(contextData.fixTop)}
           className="menu"
         >
-          <Link
+          {/* <Link
             className="menu-item"
             to={contextData.locale === "en" ? "/" : "/fr"}
           >
-            {contextData.locale === "en" ? "contact" : "me joindre"}
-          </Link>
+            {contextData.locale === "en" ? "contact" : "Joindre l'artiste"}
+          </Link> */}
           <Item
+            mobile= {true}
             style={{ transformOrigin: "top left" }}
-            pose={contextData.inView[contextData.inView.length - 1] === "about" ? "inView" : "outView"}
+            pose={getItemPose(contextData, 'contact', mobile)}
+          >
+            {getLink(
+              location,
+              "contact",
+              contextData.locale,
+              contextData.inView[contextData.inView.length - 1],
+              "contact"
+            )}
+          </Item>
+          <Item
+            mobile= {true}
+            style={{ transformOrigin: "top left" }}
+            pose={getItemPose(contextData, 'about', mobile)}
           >
             {getLink(
               location,
@@ -129,7 +164,7 @@ const Menu = ({mobile, location }) => {
 
           <Item
             style={{ transformOrigin: "top left" }}
-            pose={contextData.inView[contextData.inView.length - 1] === "news" ? "inView" : "outView"}
+            pose={getItemPose(contextData, "news", mobile)}
           >
             {getLink(
               location,
@@ -142,10 +177,7 @@ const Menu = ({mobile, location }) => {
 
           <Item
             style={{ transformOrigin: "top left" }}
-            pose={
-              contextData.inView[contextData.inView.length - 1] === "projects"
-                ? "inView"
-                : "outView"
+            pose={getItemPose(contextData, 'projects', mobile)
             }
           >
             {getLink(

@@ -11,7 +11,7 @@ import AnchorLink from "react-anchor-link-smooth-scroll";
 import News from "../components/News";
 import ContextConsumer from "./Context";
 import About from "./about";
-
+import Contact from "./contact"
 // Offset all anchors by -60 to account for a fixed header
 // and scroll more quickly than the default 400ms
 configureAnchors({
@@ -103,6 +103,18 @@ class OtherIndex extends React.Component {
                 onEnterViewport={() => enterView("about")}
                 onLeaveViewport={() => leaveView("about")}
                 html={data.html}
+              />
+            </section>
+            <section
+              style={{
+                marginTop: "200px",
+                marginBottom: "200px"
+              }}
+              id="contact"
+            >
+              <Contact
+                onEnterViewport={() => enterView("contact")}
+                onLeaveViewport={() => leaveView("contact")}
               />
             </section>
           </div>

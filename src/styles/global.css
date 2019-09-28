@@ -17,6 +17,7 @@ a {
 .main-container {
   margin-left: 10vw;
 }
+
 .menu {
   margin: 15px;
   margin-top: 0px;
@@ -29,6 +30,7 @@ a {
   display: flex;
   justify-content: space-around;
 }
+  
 .lang{
   text-transform: uppercase; 
 }
@@ -40,7 +42,6 @@ a {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
-  overflow: hidden;
 }
 .newsPost {
   margin-top: 100px;
@@ -59,7 +60,7 @@ a {
   z-index: 2;
   background-color: #f9feff;
   width: 330px;
-  height: 200px;
+  height: 100%;
   max-width: 82vw;
   border: solid 4px black;
   margin-right: 30%;
@@ -67,8 +68,9 @@ a {
   /* TODO TODO perform this transfor programattically in news.js cause mobile  */
 }
 .newsPost h1 {
-  margin:0;
-  font-size: 30px;
+  margin: 9px 4px 14px 4px;
+    font-size: 25px;
+    font-weight: normal;
 }
 /* .newsPost p {
   margin-top:0;
@@ -81,7 +83,6 @@ a {
   width: 800px;
 }
 #veronica {
-  max-width: 45vw;
   font-size: 8vw;
   letter-spacing: 0.04em;
   font-family: 'Roboto', sans-serif;
@@ -95,24 +96,14 @@ a {
   -webkit-text-stroke-color: c;
   padding-left: 0.5em;
   margin: 0;
-  text-transform: uppercase;
 }
-#veronica2 {
-  max-width: 45vw;
-  font-size: 8vw;
-  letter-spacing: 0.04em;
-  font-family: 'Roboto', sans-serif;
-  color: rgb(255, 255, 255);
-  text-shadow: 0px 20px 15.52px rgba(7, 26, 1, 0.05);
-  line-height: 7vw;
-  z-index: 3;
-  color: #ff5500;
-  -webkit-text-fill-color: transparent;
-  -webkit-text-stroke-width: 0.03em;
-  -webkit-text-stroke-color: c;
-  padding-left: 0.5em;
-  margin: 0;
-  text-transform: uppercase;
+.about {
+  text-align: justify;
+}
+
+.about .gatsby-resp-image-wrapper {
+  width: 800px;
+
 }
 .CHIDREN_OF_BLOGPOST {
   top: 0;
@@ -129,15 +120,11 @@ a {
   display: block; /* Fallback for non-webkit */
   display: -webkit-box;
   max-width: 400px;
-  height: 169px; /* Fallback for non-webkit */
-  margin: auto;
-  font-size: 18px;
-  line-height: 1.2;
-  -webkit-line-clamp: 8;
-  -webkit-box-orient: vertical;
+  min-height: 132px; /* Fallback for non-webkit */
+  margin: 0px 10px 7px 10px;
+  font-size: 17px;
+  line-height: 1.17;
   overflow: hidden;
-  text-overflow: ellipsis;
-  text-align: justify;
 }
 
 .blog-html p {
@@ -148,3 +135,50 @@ a {
 .blog-html p img {
   width:102%;
 }
+.blog-html .gatsby-resp-image-wrapper {
+  max-width:100% !important;
+}
+
+#contact-container {
+  margin-top:50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap-reverse;
+
+}
+
+#contact-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 0.55vw;
+  margin:50px;
+  z-index: 2;
+  background-color: #f9feff;
+  width: 400px;
+  height: 265px;
+  max-width: 82vw;
+  border: solid 4px black;
+  overflow: hidden;
+  padding-bottom: 14px;
+}
+#contact-info h2 {
+  margin:10px;
+}
+#contact-image {
+  height:300px;
+}
+
+@media only screen and (max-device-width : 640px) {
+  .newsPost {
+    justify-content: center;
+  }
+  .menu {
+    margin: 8px;
+  }
+
+  }

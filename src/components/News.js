@@ -7,17 +7,16 @@ import ContextConsumer from "./Context";
 
 const style = mobile => {};
 
-const NewsPost = ({ post }) => {
-  const shouldTransform = true;
-    //typeof window !== "undefined" && window.innerWidth > 1094;
+const NewsPost = ({ post, mobile }) => {
+  const y = mobile ? [20, -110] : [100, -100]
   return (
     <ContextConsumer>
       {({ contextData }) => (
         <div className="newsPost">
-          <Parallax className="news-parallax" y={[50, -50]} tagOuter="figure">
+          <Parallax className="news-parallax" y={y} tagOuter="figure">
             <div
               className="text-container"
-              style={shouldTransform ? { transform: "translateX(100px)" } : {}}
+              style = {mobile ? {} : {transform: "translateX(100px)"} }
             >
               <h1>{post.frontmatter.title}</h1>
               <p>{post.frontmatter.description}</p>

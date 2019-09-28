@@ -6,12 +6,20 @@ import { Parallax, ParallaxProvider } from "react-scroll-parallax";
 import { ContextProviderComponent } from "./Context";
 import ContextConsumer from "./Context";
 import handleViewport from "react-in-viewport";
-
+const getSafe = (fn, defaultValue) => {
+   try {
+     return fn();
+   } catch (e) {
+     return defaultValue;
+   }
+}
+const isMobile = getSafe(()=>(window.innerWidth < 640), false); 
 const Block = ({ inViewport, innerRef, gone}) => {
   return (
     <div style={{ height: "1px" }} className="stick-trigger" ref={innerRef} />
   );
 };
+
 
 const ViewportBlock = handleViewport(Block);
 
@@ -106,6 +114,7 @@ const unTemplateWrapper = ({
                   <Menu
                     inView={inView}
                     location={location}
+                    mobile={isMobile}
                   />
                   <div />
                 </Parallax>
@@ -115,41 +124,23 @@ const unTemplateWrapper = ({
                     zIndex: "4",
                     pointerEvents: "none",
                     position: "fixed",
-                    right: "0",
-                    width: "42vw",
+                    right: "2px",
                     top: "0",
                     textAlign: "left",
                     margin: "0"
                   }}
                 >
                   <h1 id="veronica" style={{ margin: "0", fontSize: "7vw" }}>
-                    VERONICA
+                    Veronica Mockler
                   </h1>
                 </div>
-                <div
-                  className="mockler"
-                  style={{
-                    zIndex: "4",
-                    pointerEvents: "none",
-                    position: "fixed",
-                    right: "0",
-                    width: "42vw",
-                    top: "8vw",
-                    textAlign: "left",
-                    margin: "0"
-                  }}
-                >
-                  <h1 id="veronica2" style={{ margin: "0", fontSize: "7vw" }}>
-                    MOCKLER
-                  </h1>
-                </div>
-
                 <div className="main-container">
                   {children}
                 </div>
                 <div
                   className="footer"
                   style={{
+                    zIndex:100000,
                     display: "flex",
                     position: "fixed",
                     right: "10px",
@@ -162,7 +153,7 @@ const unTemplateWrapper = ({
                     border: "solid 2px black"
                   }}
                 >
-                  <h1 style={{ margin: "0", fontSize: "1vw" }}>© 2019</h1>
+                  <h1 style={{ margin: "0", fontSize: "1vw"}}>© 2019</h1>
                 </div>
               </div>
             </ParallaxProvider>
