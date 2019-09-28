@@ -1,5 +1,5 @@
 ---
-image: /img/canvassersretouche_21-copy.jpg
+image: /img/screen-shot-2019-09-23-at-2.30.30-pm.png
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
@@ -20,8 +20,6 @@ _1. Science Mag 08 Apr 2016 | Vol. 352, Issue 6282, pp. 220-224 | DOI: 10.1126/s
 
 ![](/img/screen-shot-2019-09-23-at-2.30.21-pm.png)
 
-![](/img/screen-shot-2019-09-23-at-2.30.30-pm.png)
-
 ![](/img/screen-shot-2019-09-23-at-2.29.36-pm.png)
 
 ![](/img/p1160830_1.png)
@@ -39,3 +37,5 @@ _1. Science Mag 08 Apr 2016 | Vol. 352, Issue 6282, pp. 220-224 | DOI: 10.1126/s
 ![](/img/image_02_veronica_mockler.png)
 
 ![](/img/canvassers_04.png)
+
+![](/img/canvassersretouche_21-copy.jpg)
