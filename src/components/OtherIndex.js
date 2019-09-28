@@ -11,7 +11,8 @@ import AnchorLink from "react-anchor-link-smooth-scroll";
 import News from "../components/News";
 import ContextConsumer from "./Context";
 import About from "./about";
-import Contact from "./contact"
+import Contact from "./Contact";
+
 // Offset all anchors by -60 to account for a fixed header
 // and scroll more quickly than the default 400ms
 configureAnchors({
