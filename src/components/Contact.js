@@ -1,13 +1,11 @@
 import React from "react";
-import GalleryImage from "./GalleryImage";
 import handleViewport from "react-in-viewport";
 
-const style = mobile => {};
 const unContact = ({ posts, inViewport, innerRef, handleInView, html }) => {
-    const path =
+const path =
   (typeof window !== "undefined" && window.location && window.location.pathname) ||
   "";
-  const isEnglish = path.indexOf("fr") < 0;
+  const isEnglish = path && path.indexOf("fr") < 0;
   return (
     <div
       ref={innerRef}
