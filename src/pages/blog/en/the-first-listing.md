@@ -1,5 +1,5 @@
 ---
-image: /img/screen-shot-2019-09-24-at-9.30.03-am.png
+image: /img/screen-shot-2016-04-11-at-11.23.49-am.png
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
@@ -15,6 +15,4 @@ This work was presented at Concordia University in January 2012.
 
 ![](/img/screen-shot-2019-09-24-at-9.25.28-am.png)
 
-![](/img/screen-shot-2019-09-24-at-9.18.24-am.png)
-
-![](/img/screen-shot-2016-04-11-at-11.23.49-am.png)
+![](/img/screen-shot-2019-09-24-at-9.30.03-am.png)
