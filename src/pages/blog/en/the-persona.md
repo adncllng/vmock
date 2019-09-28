@@ -1,5 +1,5 @@
 ---
-image: /img/screen-shot-2019-09-16-at-9.05.27-am.png
+image: /img/screen-shot-2013-10-17-at-3.48.39-pm.png
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
@@ -16,6 +16,8 @@ To finish off this series, the artist wanted to explore the cultural performance
 In this third performance, the artist and her friend danced together for two consecutive hours without stopping. One performer was inside the gallery space while the other was outside. The performance was part of a group exhibition and took place during the opening. Gallery attendees could therefore witness two women dancing simultaneously together, apart.
 
 The artist would like to thank Clémence Renaud and Florencia Sosa Rey for their friendship and creative contribution. 
+
+![](/img/screen-shot-2019-09-16-at-9.05.27-am.png)
 
 ![](/img/screen-shot-2019-09-24-at-10.44.11-am.png)
 
