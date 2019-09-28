@@ -19,7 +19,7 @@ const unContact = ({ posts, inViewport, innerRef, handleInView, html }) => {
             <h2>{isEnglish ? "Follow what she's up to:" : "Suivez son travail:"}</h2>
             <a href="https://www.instagram.com/veronica_rockler" target="_blank">Instagram</a>
         </div>
-        <img id="contact-image" src={require("../../public/img/13925043_1266555963385118_5536467185885016532_n.jpg")}/>
+        <img id="contact-image" />
 
     </div>
   );
