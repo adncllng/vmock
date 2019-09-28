@@ -17,5 +17,3 @@ In her practice, Veronica Mockler tackles a wide range of social issues by prese
 ## **Artist statement**
 
 I work with people to present their reality to audiences in order to socially challenge these audiences. I hope to fill part of the gap that technology creates between real human interaction and virtual media connectedness. I believe that having real people share real stuff in front of other real people is Art because it consists of an action that can socially transform all parties involved - the folks participating in my artworks, the engaged audiences and myself the artist. I develop projects in and out of the gallery space by addressing social biases in the white cube and by summoning sheltered audiences into different communities and realities. I personally hold any art production socially accountable and thereby dedicate my practice to the overthrow of rigid conservatism and capitalism. I am attempting to put my privilege as a white Canadian cis woman artist to good use by creating work that serves the agency of other people as well as mine. I am always looking for new collaborations.
-
-![](/img/palmer_7814.jpg)
