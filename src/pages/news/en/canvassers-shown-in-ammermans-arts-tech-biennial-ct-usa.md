@@ -9,6 +9,6 @@ description: >-
   Canvassers will be part of INTERSECTIONS, the 16th Biennial Symposium for Arts
   and Technology at the Ammerman Center (Connecticut, USA). Mockler will be
   attending the Biennial to present her work in the context of Future Perfect
-  exhibition.
+  exhibition curated by Nadav Assor.
 ---
 .
