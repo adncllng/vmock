@@ -4,7 +4,7 @@ templateKey: news-post
 locale: en
 pageKey: page_newspost
 title: 'Solo exhibition opening in Redding Flagg Gallery (Toronto, Canada)'
-date: 2019-09-29T18:39:01.863Z
+date: 2018-01-01T19:39:01.863Z
 description: >-
   Mockler's video-performance entitled Canvassers is premiering on February 14,
   2017 in Redding Flagg Gallery in Toronto. The work is presented in an
