@@ -1,5 +1,5 @@
 ---
-image: /img/visible_l-adresse_02.png
+image: /img/aida.png
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
@@ -26,11 +26,11 @@ The Address would not have come to life without the artistic and technical contr
 
 ![](/img/ismael.png)
 
+![](/img/visible_l-adresse_02.png)
+
 ![](/img/line.png)
 
 ![](/img/john.png)
-
-![](/img/aida.png)
 
 ![](/img/bakr.png)
 
