@@ -124,7 +124,7 @@ const unTemplateWrapper = ({
                     zIndex: "4",
                     pointerEvents: "none",
                     position: "fixed",
-                    right: "2px",
+                    right: "11px",
                     top: "0",
                     textAlign: "left",
                     margin: "0"
@@ -143,7 +143,7 @@ const unTemplateWrapper = ({
                     zIndex:100000,
                     display: "flex",
                     position: "fixed",
-                    right: "10px",
+                    right: "15px",
                     width: "5vw",
                     height: "3vw",
                     bottom: "10px",

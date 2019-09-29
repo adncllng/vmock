@@ -8,7 +8,17 @@ import ContextConsumer from "./Context";
 const style = mobile => {};
 
 const NewsPost = ({ post, mobile }) => {
-  const y = mobile ? [20, -110] : [100, -100]
+  const getSafe = (fn, defaultValue) => {
+    try {
+      return fn();
+    } catch (e) {
+      return defaultValue;
+    }
+ }
+ const isMobile = getSafe(()=>(window.innerWidth < 1025), false); 
+
+  const y = isMobile ? [20, -110] : [100, -100]
+  const x = isMobile ? {} : {transform: "translateX(100px)"}
   return (
     <ContextConsumer>
       {({ contextData }) => (
@@ -16,7 +26,7 @@ const NewsPost = ({ post, mobile }) => {
           <Parallax className="news-parallax" y={y} tagOuter="figure">
             <div
               className="text-container"
-              style = {mobile ? {} : {transform: "translateX(100px)"} }
+              style = {x}
             >
               <h1>{post.frontmatter.title}</h1>
               <p>{post.frontmatter.description}</p>
@@ -33,7 +43,7 @@ const NewsPost = ({ post, mobile }) => {
   );
 };
 
-const unNews = ({ newsPosts, inViewport, innerRef, handleInView, fixTop }) => {
+const unNews = ({ newsPosts, innerRef}) => {
   const sortedPosts = newsPosts && newsPosts.sort(({node: post}, {node:secondPost}) => {
     return new Date(post.frontmatter.date) - new Date(secondPost.frontmatter.date)
   })

@@ -21,7 +21,7 @@ a {
 .menu {
   margin: 15px;
   margin-top: 0px;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   position: fixed;
   top: 0px;
   transform-origin: left top;
@@ -60,15 +60,17 @@ a {
   z-index: 2;
   background-color: #f9feff;
   width: 330px;
-  height: 100%;
+  height: 223px;
   max-width: 82vw;
   border: solid 4px black;
   margin-right: 30%;
   overflow: hidden;
-  /* TODO TODO perform this transfor programattically in news.js cause mobile  */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 .newsPost h1 {
-  margin: 9px 4px 14px 4px;
+  margin: 9px 4px 14px 10px;
     font-size: 25px;
     font-weight: normal;
 }
@@ -117,10 +119,7 @@ a {
 }
 
 .newsPost p {
-  display: block; /* Fallback for non-webkit */
-  display: -webkit-box;
   max-width: 400px;
-  min-height: 132px; /* Fallback for non-webkit */
   margin: 0px 10px 7px 10px;
   font-size: 17px;
   line-height: 1.17;
@@ -137,7 +136,9 @@ a {
 }
 .blog-html .gatsby-resp-image-wrapper {
   max-width:100% !important;
+  width:100% !important;
 }
+
 
 #contact-container {
   margin-top:50vh;
@@ -180,5 +181,9 @@ a {
   .menu {
     margin: 8px;
   }
+  .newsPost .text-container {
+    height:auto;
+  }
+
 
   }

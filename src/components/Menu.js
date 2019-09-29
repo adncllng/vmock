@@ -89,10 +89,10 @@ const translate = word => {
   ////Joindre l'artiste, À propos, Nouvelles, Oeuvres
 
   const translations = {
-    work: "oeuvres",
-    news: "nouvelles",
-    about: "à propos",
-    contact: "Joindre l'artiste"
+    Work: "Oeuvres",
+    News: "Nouvelles",
+    About: "À propos",
+    Contact: "Joindre l'artiste"
   };
   return translations[word];
 };
@@ -145,7 +145,7 @@ const Menu = ({mobile, location }) => {
               "contact",
               contextData.locale,
               contextData.inView[contextData.inView.length - 1],
-              "contact"
+              "Contact"
             )}
           </Item>
           <Item
@@ -158,7 +158,7 @@ const Menu = ({mobile, location }) => {
               "about",
               contextData.locale,
               contextData.inView[contextData.inView.length - 1],
-              "about"
+              "About"
             )}
           </Item>
 
@@ -171,7 +171,7 @@ const Menu = ({mobile, location }) => {
               "news",
               contextData.locale,
               contextData.inView[contextData.inView.length - 1],
-              "news"
+              "News"
             )}
           </Item>
 
@@ -185,7 +185,7 @@ const Menu = ({mobile, location }) => {
               "projects",
               contextData.locale,
               contextData.inView[contextData.inView.length - 1],
-              "work"
+              "Work"
             )}
           </Item>
 
