@@ -9,6 +9,6 @@ description: >-
   Donating a work to Galerie Galerie for their first Digital Art Auction on
   August 31, 2017. The exhibition and auction event will take place in Eastern
   Bloc (Montreal). Come encourage this pioneering cyber-based art space and the
-  up-and-coming artists they represent!.
+  up-and-coming artists they represent!
 ---
 .
