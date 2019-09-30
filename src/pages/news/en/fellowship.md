@@ -6,9 +6,9 @@ pageKey: page_newspost
 title: Fellowship
 date: 2009-09-30T02:11:00.000Z
 description: >
-  The artist receives the Ammerman Center's Independent Fellowship supported by
-  the Center for the Critical Study of Race and Ethnicity at Connecticut
-  College. The program awards artists and scholars who demonstrate excellence in
-  their work, and a commitment to their careers and artistic communities.
+  Mockler receives the Independent Fellowship supported by the Center for the
+  Critical Study of Race and Ethnicity at Connecticut College. The program
+  awards artists and scholars who demonstrate excellence in their work, and a
+  commitment to their careers and artistic communities.
 ---
 .
