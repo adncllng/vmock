@@ -9,6 +9,6 @@ description: >-
   The artist is heading to Belfast to start a research-creation oral history
   project with, and about, Susana Hennessey (retired Health and Social Justice
   Educator and her husband Bobby Lavery (sentenced Republican Long Kesh prisoner
-  and elected official). * Image from Troubled Images Archive
+  and elected official).
 ---
 ,
