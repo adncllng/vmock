@@ -1,5 +1,5 @@
 ---
-image: /img/westbelfast.jpg
+image: /img/funeralsbk122-3c.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
