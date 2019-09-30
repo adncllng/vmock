@@ -1,5 +1,5 @@
 ---
-image: /img/bostonvoy.jpg
+image: /img/screen-shot-2019-09-28-at-5.26.25-pm.png
 templateKey: news-post
 locale: en
 pageKey: page_newspost
