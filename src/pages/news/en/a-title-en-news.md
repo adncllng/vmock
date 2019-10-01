@@ -11,6 +11,4 @@ description: >-
   (Visible) investigation and meet actual citizens who have been involved in -
   and affected by - the crisis.
 ---
-
-
 .
