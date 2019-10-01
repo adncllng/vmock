@@ -1,5 +1,5 @@
 ---
-image: /img/screen-shot-2019-09-30-at-6.23.06-pm.png
+image: /img/screen-shot-2019-09-30-at-8.44.02-pm.png
 templateKey: news-post
 locale: en
 pageKey: page_newspost
