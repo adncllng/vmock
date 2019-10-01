@@ -1,5 +1,5 @@
 ---
-image: /img/cinemakers.jpg
+image: /img/chronique_dun_été_07.png
 templateKey: news-post
 locale: en
 pageKey: page_newspost
