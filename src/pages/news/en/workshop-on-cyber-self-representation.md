@@ -8,7 +8,7 @@ date: 1999-09-30T22:24:00.000Z
 description: >-
   The artist facilitated a workshop with 11-year-olds on the theme of online
   self-representation. Organized by Millimètre Second in Media Library of
-  Montarville, Mockler and the group explored with the notion of agency in
+  Montarville, Mockler and the group explored storytelling and agency in
   cyberspace.
 ---
 ,
