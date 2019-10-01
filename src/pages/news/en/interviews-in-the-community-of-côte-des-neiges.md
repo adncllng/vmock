@@ -1,5 +1,5 @@
 ---
-image: /img/image_44.jpg
+image: /img/image_44-2.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
