@@ -3,7 +3,7 @@ image: /img/audience_rivières-copy.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
-title: Rivières attracts hundreds of Montrealers
+title: Rivières draws hundreds of Montrealers to CDN
 date: 2009-09-30T01:50:00.000Z
 description: >-
   Rivières opened on December 15, 2017 and featured eight citizens living in the
