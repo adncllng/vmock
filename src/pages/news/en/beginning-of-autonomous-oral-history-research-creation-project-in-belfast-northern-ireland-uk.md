@@ -3,7 +3,7 @@ image: /img/funeralsbk122-3c.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
-title: 'Digital Storytelling project in Belfast, Northern Ireland (UK)'
+title: 'Digital Storytelling project in Belfast, Northern Ireland'
 date: 2012-09-29T20:27:00.000Z
 description: >-
   The artist is heading to Belfast to start a research-creation oral history
