@@ -15,7 +15,7 @@ const NewsPost = ({ post, mobile }) => {
       return defaultValue;
     }
  }
- const isMobile = getSafe(()=>(window.innerWidth < 1025), false); 
+ const isMobile = getSafe(()=>(window && window.innerWidth < 1025), false); 
 
   const y = isMobile ? [20, -110] : [100, -100]
   const x = isMobile ? {} : {transform: "translateX(100px)"}

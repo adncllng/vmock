@@ -180,9 +180,12 @@ a {
   }
   .menu {
     margin: 8px;
+    left: 0;
   }
   .newsPost .text-container {
     height:auto;
+    transform: none !important;
+  
   }
 
 

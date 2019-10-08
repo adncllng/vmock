@@ -114,6 +114,7 @@ const getLink = (location, destination, locale, inView, title) => {
     <Link
       className="menu-item"
       to={locale === "en" ? "/#" + destination : "/fr/#" + destination}
+      style={menuItemStyle(inView === destination)}
     >
       {localTitle}
     </Link>
