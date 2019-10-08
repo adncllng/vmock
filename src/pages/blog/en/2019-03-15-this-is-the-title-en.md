@@ -1,12 +1,12 @@
 ---
-image: /img/02_vm_les_interpretes.png
+image: /img/02_vm_les_interpretes.jpg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: Les Interprètes
 date: 1963-01-01T18:00:00.000Z
 description: |
-  Video performances featuring the daily thoughts of 16 newly arrived teenagers
+  Video performances featuring the daily thoughts of 16 newly arrived teenagers.
 ---
 The artist did a six-week residency in a Montreal high school in April 2018. During her time there, she created a series of performances with 16 teenagers who had just recently immigrated to Montreal, Québec, Canada. With the students, Mockler explored what it means to express oneself as a teenager and the control one has over self-representation at that age. Interested in their daily lives and preoccupations, the artist asked the teenagers to talk about themselves in different performative settings. She used different formats to prompt each exercise (verbatim, speculation, interview, manifesto, testimony, declaration, hommage, censorship, and more). In Les Interprètes, the artist’s aim was to make her audience aware of the actual thoughts and discourses of young people who have immigrated. Mockler wanted to go against documentary tendencies that gratuitously victimize and exploit the narratives of individuals who have undergone migration. She sees Les Interprètes as an experimental moment in which the teenagers were given control over their own depiction.
 
