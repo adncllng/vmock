@@ -5,8 +5,9 @@ locale: en
 pageKey: page_blogpost
 title: Exhibiting Concern / Two Studies
 date: 1979-09-16T15:09:00.000Z
-description: |
-  Two video studies that question gaze according to gender
+description: >
+  Two video studies that question the act of being seen and its gendered
+  experience
 ---
 The artist is attempting to explore how gaze (the act of being seen) varies according to who is looking.
 
