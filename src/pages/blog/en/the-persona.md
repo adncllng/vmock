@@ -5,7 +5,7 @@ locale: en
 pageKey: page_blogpost
 title: The Persona
 date: 1978-01-01T13:37:00.000Z
-description: Three part performance series that explores partying as a persona
+description: Three part performance series that explores partying as a persona.
 ---
 In this video performance, the artist gets drunk and dances to music in front of a camera. Partying, as a social activity and character trait, is here isolated for observation. With this action, Mockler wants to investigate why she adopts this character in real life as a young privileged white person. In contrast, the artist is also interested in how drinking alcohol can be an empowering posture for woman as it allows her to take ownership over this male-oriented activity and culture.
 
