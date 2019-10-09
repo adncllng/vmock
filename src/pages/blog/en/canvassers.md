@@ -7,7 +7,7 @@ title: Canvassers
 date: 1967-01-01T18:00:00.000Z
 description: >-
   Video performance on the political potential of impromptu face-to-face
-  personal story sharing
+  personal story sharing.
 ---
 Mich and Marshall are asked to share a personal story in front of a camera. Both participants arrive at a unified understanding of events when one’s story is orally expressed by the other. This continuous one-shot 15-minute video performance demonstrates our empathetic capacity as individuals. Part performance, part documentary, this piece was created in response to recent scientific findings that have demonstrated a 10-minute active one-on-one conversation between two strangers can durably reduce longstanding ingrained prejudice¹. These findings inspired this video-performance in addition to bringing an empirical premise to the artist’s recurring exploration of human interaction as a method for social-political transformation.
 
