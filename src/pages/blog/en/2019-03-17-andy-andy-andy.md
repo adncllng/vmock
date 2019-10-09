@@ -7,7 +7,7 @@ title: Athléimneacht
 date: 1964-01-01T18:00:00.000Z
 description: >
   Oral history project on the lives and resilience of Susana Hennessey and Bobby
-  Lavery
+  Lavery.
 ---
 Athléimneacht is an ongoing project the artist is developing during her visits to the north of Ireland. Interested in what it means to “pay hommage to someone”, the artist is documenting the stories and resilience of Bobby and Susana Lavery, a retired socialist Irish-American couple she met by chance in an Icelandic airport in February 2017. Since this initial encounter, Mockler has traveled to Belfast to spend time with, and learn from, Susana and Bobby. In this work, the artist is drawing from reflections and practices belonging to the socialist and radical genealogy of Oral History¹. Mockler is articulating these practices through documented conversations and performances with the Laverys.
 
