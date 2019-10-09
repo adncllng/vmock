@@ -7,7 +7,7 @@ title: Pavillon
 date: 1960-01-01T18:00:00.000Z
 description: >-
   Artist-in-Residence at Maison des Artistes (Winnipeg, MA) for community-based
-  research-creation.
+  creation.
 ---
 In Winnipeg, eleven established and newly arrived Franco-Manitobans participated in a series of workshops that were developed and facilitated by Veronica Mockler in collaboration with pedagogue Yves Amyot from Centre Turbine (Montreal, QC). Mockler was invited as an Artist-in-Residence at the Maison des Artistes to conduct research-creation with members of the French speaking community of Winnipeg. During her workshops, participants interacted with one another about their personal experience and identity as francophones. Looking at "la francophonie" through the lens of conflict, de/colonialism, migration, family and culture, Mockler collected different types of audio-visual and performative content that features the life-chapters and convictions of each participant. 
 
