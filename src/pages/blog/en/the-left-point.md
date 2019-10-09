@@ -5,7 +5,7 @@ locale: en
 pageKey: page_blogpost
 title: The Left Point
 date: 1966-01-01T18:00:00.000Z
-description: 'Experiment on ideological disagreement in Belfast (Northern Ireland, UK)'
+description: 'Experiment on ideological disagreement in Belfast (Northern Ireland, UK).'
 ---
 In this experiment Mockler invited 9 individuals, along with herself, to take part in a “disagreement performance”. Randomly paired up, these strangers were asked to sit in front of a camera and attempt to disagree with one another. No particular subject matter was suggested for the discussion. Instead, each team had to reach a point of disagreement intuitively through the exchange of personal ideas and opinions. The sole instruction given by the artist was that participants should try to discuss something that truly mattered to them.
 
