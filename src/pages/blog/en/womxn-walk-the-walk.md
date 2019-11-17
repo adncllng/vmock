@@ -1,5 +1,5 @@
 ---
-image: /img/screen-shot-2019-11-17-at-12.47.54-pm.jpg
+image: /img/screen-shot-2019-11-17-at-2.53.54-pm.jpeg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
@@ -19,7 +19,7 @@ For more information on Womxn Walk the Walk, visit [womenwalkmontreal.tumblr.com
 
 Womxn Walk the Walk is the sister initiative of Brooklyn League of Women Walkers, co-founded by Amanda Gutierrez. 
 
-![](/img/screen-shot-2019-11-17-at-2.53.54-pm.jpeg)
+![](/img/screen-shot-2019-11-17-at-12.47.54-pm.jpg)
 
 ![](/img/p1190924-copy.jpg)
 
