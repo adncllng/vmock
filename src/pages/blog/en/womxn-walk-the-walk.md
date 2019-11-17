@@ -4,7 +4,7 @@ templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: Womxn Walk the Walk
-date: 2019-11-17T20:21:26.413Z
+date: 1959-11-17T20:21:00.000Z
 description: >-
   WWW is a collective of artists, researchers and community members who explore
   issues and stories of female identity in public space
