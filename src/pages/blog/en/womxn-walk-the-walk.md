@@ -6,8 +6,8 @@ pageKey: page_blogpost
 title: Womxn Walk the Walk
 date: 1959-11-17T20:21:00.000Z
 description: >-
-  WWW is a collective of artists, researchers and community members who explore
-  issues and stories of female identity in public space
+  Artists, researchers and community members exploring stories of female
+  identity in public space
 ---
 Participants from different backgrounds are invited to take part in Femmxs Marcheuse de Montréal’s Womxn Walk the Walk workshops, a series of walk-workshops led by five core group members in Montréal, QC Canada (Amanda Gutierrez, Florencia Sosa Rey, Joanna Guillaume, Kathy Kennedy and Veronica Mockler). Before and after each walk, the collective convenes to share and reflect upon personal experiences in relation to being a womxn in public space. The sharing of expertise and "workshopping together" is the structure that guides this fluid collective during its meetings. Exercises in oral history, sound, movement and writing allow the group to investigate together personal histories of public intersectional womxnhood, inclusivity, allyship and \[dis]empowerment. The walk-workshops also inform public performances that bridge oral history performance, critical cartography, psychogeography and sound mapping as main tools for the engagement and listening of personal feminist narratives. 
 
