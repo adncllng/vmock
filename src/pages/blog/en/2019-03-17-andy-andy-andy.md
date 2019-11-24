@@ -15,11 +15,9 @@ Amongst many other things, Bobby is a former North Belfast Sinn Féin City Counc
 
 _1. (Kerr, Daniel. “Allan Nevins Is Not My Grandfather: The Roots of Radical Oral History Practice in the United States,” Oral History Review 43, 2 (2016), 367–391.)_
 
-## A sound installation imagined around this ongoing work is shown part of the Acts of Listening Lab's symposium Listening, Performance, and Conflict from November 4-10 at Concordia University in the Centre for Oral History and Digital Storytelling. 
+## A sound installation imagined around this ongoing work is shown part of the Acts of Listening Lab's symposium Listening, Performance, and Conflict from November 4-10 at Concordia University in the Centre for Oral History and Digital Storytelling.
 
 ![](/img/20180403_222323.jpg)
-
-![](/img/p1140794.jpg)
 
 ![](/img/p1140695.jpg)
 
