@@ -82,7 +82,7 @@ a {
 .newsPost .image-container {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   z-index: -1;
-  width: 800px;
+  width: 60vw;
 }
 #veronica {
   font-size: 8vw;
@@ -173,7 +173,15 @@ a {
 #contact-image {
   height:300px;
 }
-
+@media only screen and (max-width : 1000px) {
+  .newsPost .image-container {
+    width:800px;
+    margin-left:auto;
+  }
+  .newsPost {
+    justify-content: center;
+  }
+  }
 @media only screen and (max-device-width : 640px) {
   .newsPost {
     justify-content: center;
