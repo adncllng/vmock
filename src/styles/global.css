@@ -50,7 +50,7 @@ a {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  flex-wrap: wrap-reverse;
+  /* flex-wrap: wrap-reverse; */
   
 }
 .newsPost .text-container {
@@ -176,15 +176,16 @@ a {
 @media only screen and (max-width : 1000px) {
   .newsPost .image-container {
     width:800px;
-    margin-left:auto;
   }
   .newsPost {
     justify-content: center;
+    flex-wrap: wrap-reverse;
   }
   }
 @media only screen and (max-device-width : 640px) {
   .newsPost {
     justify-content: center;
+    flex-wrap: wrap-reverse;
   }
   .menu {
     margin: 8px;
