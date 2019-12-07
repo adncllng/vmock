@@ -13,7 +13,13 @@ In Winnipeg, eleven established and newly arrived Franco-Manitobans participated
 
 Mockler is invited to go back to Winnipeg's Maison de Artistes in December 2019 to present "Pavillon", a portion of the body of work she produced with participants during her residency.
 
-Opening: December 5, 2019 (exhibition runs until February 2020). Discussion with participants and artist: December 7, 2019 (open to public).
+Opening: December 5, 2019. Discussion with participants and artist: December 7, 2019 (open to public).
+
+## The artist would like to thank Anass, Babs, Chantal, Chargache, Cédelynne, Danica, Joanne, Mike, Omar Tahar, Ousseni, and Youssef for their generosity, expertise and participation. 
+
+The artist would also like to thank Centre Turbine for organizing the community-based Artist-in-residence project as well as Accueil Francophone, Pluri-Elles, Secrétariat aux relations canadiennes & Maison des artistes visuels francophones for their support in this initiative. 
+
+
 
 ![](/img/69086431_2811791285500940_1620093601428013056_o.jpg)
 
@@ -26,3 +32,5 @@ Opening: December 5, 2019 (exhibition runs until February 2020). Discussion with
 ![](/img/screen-shot-2019-09-22-at-10.34.44-am.png)
 
 ![](/img/pavillon_01.png)
+
+![](/img/pavillon.jpg)
