@@ -3,7 +3,7 @@ image: /img/screen-shot-2019-11-17-at-2.53.54-pm.jpeg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
-title: 'Womxn Walk the Walk: a performance collective'
+title: Womxn Walk the Walk
 date: 1959-11-17T20:21:00.000Z
 description: >-
   Ongoing research on collaboration and the role of the artist as a facilitator
