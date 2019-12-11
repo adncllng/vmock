@@ -6,8 +6,8 @@ pageKey: page_blogpost
 title: Womxn Walk the Walk
 date: 1959-11-17T20:21:00.000Z
 description: >-
-  Ongoing research on collaboration and the role of the artist as a facilitator
-  for the public presentation of unscripted personal stories.
+  Collaboration on the role of the artist as a facilitator for public
+  performance of unscripted storytelling.
 ---
 Mockler invited her friend Joanna Guillaume to participate in Women Walk the Walk, a collective initiated a few month ago in Montreal by Amanda Gutierrez and Mockler. Within the collective, Mockler and Guillaume are together looking at what it means for Guillaume — who does not consider herself an artist nor having participated previously in a similar activity — to take part in this collective. Working through ideas of allyship, collaboration, facilitation and friendship-based research, the two women are working on a public performance in which Guillaume shares a personal experience in front of an audience. Guillaume's story deals with the disillusionment she experienced when her militant class "comrades" in Université d'État d'Haiti (Port-au-Prince) viewed the struggle of women in Haiti as a low priority in the struggle for social justice. Out of 32 students, Guillaume was at that time one of two women admitted in the Philosophy department. 
 
