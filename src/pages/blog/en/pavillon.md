@@ -15,11 +15,9 @@ Mockler is invited to go back to Winnipeg's Maison de Artistes in December 2019 
 
 Opening: December 5, 2019. Discussion with participants and artist: December 7, 2019 (open to public).
 
-## The artist would like to thank Anass, Babs, Chantal, Chargache, Cédelynne, Danica, Joanne, Mike, Omar Tahar, Ousseni, and Youssef for their generosity, expertise and participation. 
+## The artist would like to thank Anass, Babs, Chantal, Chargache, Cédelynne, Danica, Joanne, Mike, Omar Tahar, Ousseni, and Youssef for their generosity, expertise and participation.
 
-The artist would also like to thank Centre Turbine for organizing the community-based Artist-in-residence project as well as Accueil Francophone, Pluri-Elles, Secrétariat aux relations canadiennes & Maison des artistes visuels francophones for their support in this initiative. 
-
-
+The artist would also like to thank _Centre Turbine_ for organizing the community-based Artist-in-residence project. The artist would like to thank the _Conseil des Arts et des Lettres du Québec_, as well as _Accueil Francophone, Pluri-Elles, Secrétariat aux relations canadiennes_ & _Maison des artistes visuels francophones_ for their support in this initiative. 
 
 ![](/img/69086431_2811791285500940_1620093601428013056_o.jpg)
 
