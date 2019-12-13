@@ -12,7 +12,7 @@ I work with people to present their reality to audiences in order to socially ch
 
 ## **Biography**
 
-[Click here for press coverage & C.V.](https://drive.google.com/file/d/1COMuq0PFDo-zXAt9SEU2_O6qsdi1ljUa/view?usp=sharing)
+[Click here for press coverage & C.V.](https://drive.google.com/open?id=1bGs6nnDM5W3HemR8fP6dJoEJeiwgI4XB)
 
 Veronica Mockler was born in Quebec City in 1991. She graduated with Distinction from Concordia University (BFA Studio Arts) in 2015 after studying abroad in the Republic of Ireland to complete her degree. Mockler has since been based in Montreal where she lives and works as a professional artist making social and relational art. Her pieces have been featured in numerous exhibitions and festivals, namely: Women Cinema Makers (Berlin, Germany), Intersections Biennial of Art and Technology (New London, CT, U.S.A.), Gstaad International Art Film Festival (Montevideo, Uruguay), Redding Flagg Gallery (Toronto, ON, Canada), La Biennale Manif. d’Art Internationale (Québec, QC, Canada), ATSA at Place des Arts, Cinéma Sous les Étoiles, Eastern Bloc, Vidéographe, Dazibao, Maison de la culture du Plateau-Mont-Royal (Montreal, QC, Canada), and more. Supported by the Acts of Listening Lab, her new project explores the Creation of Applied Performance Art for Citizen Self-Representation. The artist is the co-founder of Visible, a Montreal art collective that highlights the power of citizen expression through performative, digital and diversified gatherings.The artist has been the recipient of awards and grants for her work, both in Canada and abroad, from various entities including the First Prize from the Montreal Arts Council's Patrons of the Arts (2019).
 
