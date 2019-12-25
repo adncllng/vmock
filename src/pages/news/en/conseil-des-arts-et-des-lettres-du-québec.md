@@ -1,5 +1,5 @@
 ---
-image: /img/78916303_449185216036128_3466310419172294656_n.jpg
+image: /img/pavillon_docu.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
