@@ -1,9 +1,9 @@
 ---
-image: /img/76697302_3321737281200299_533228719603449856_o.jpg
+image: /img/p1190860.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
-title: Sound Installation in COHDS
+title: Installation opening in Centre for Oral History
 date: 1983-11-18T03:11:00.000Z
 description: >
   Image of Mockler's sound installation part of the Acts of Listening Lab's
