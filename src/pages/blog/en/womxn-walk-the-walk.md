@@ -13,7 +13,7 @@ Guillaume arrived to Canada as a Refugee claimant from Haiti in 2015. The artist
 
 ###### **Womxn Walk the Walk is a collective of artists, researchers and community members who explore the intersectional experience of female identity in public space through group walks and storytelling in Montreal. Co-founded in the fall of 2019, the collective today consists of four core members (Amanda Gutierrez, Florencia Sosa Rey, Joanna Guillaume and Veronica Mockler) who collaborate with female-identifying community participants from various backgrounds to share and recognize stories of intersectional womxnhood through storytelling, oral history, performance, visual and sound art, new media, mapping and documentary.** For more information on their work, visit **[womenwalkmontreal.tumblr.com](https://womenwalkmontreal.tumblr.com/)**. 
 
-Womxn Walk the Walk is the sister initiative of Brooklyn League of Women Walkers, co-founded by Amanda Gutierrez. 
+*Womxn Walk the Walk is the sister initiative of Brooklyn League of Women Walkers, co-founded by Amanda Gutierrez.* 
 
 ![](/img/screen-shot-2019-11-17-at-12.47.54-pm.jpg)
 
