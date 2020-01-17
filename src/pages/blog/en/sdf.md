@@ -12,7 +12,7 @@ description: |
 
 **The Address** was co-produced by *Visible Art Collective* (Veronica Mockler and Sofia Blondin) and Amplifier. It was informed by the 360° ethnography project Amplifier led in the summer of 2017 in Côte-des-Neiges.
 
-###### Visible Art Collective would first and foremost like to thank Bénéwendé, Anna Maria, Bakr, Ismael, John, Line, Aida and Ahmed for partaking in **The Address** and sharing their experiences, convictions and personal thoughts with Montrealers. 
+## Visible Art Collective would first and foremost like to thank Bénéwendé, Anna Maria, Bakr, Ismael, John, Line, Aida and Ahmed for partaking in **The Address** and sharing their experiences, convictions and personal thoughts with Montrealers.
 
 **The Address** would not have come to life without the artistic and technical contributions of Émile Lafortune.
 
