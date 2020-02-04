@@ -12,18 +12,19 @@ Veronica Mockler was born in Quebec City in 1991. She graduated with Distinction
 
 For more information on her experience, awards and press, **[please click here (CV)](https://drive.google.com/file/d/1pcSGlaB7TiRl9mhwTmfmHmoX5Pqc_XN3/view).**
 
-In her practice, Veronica Mockler tackles a wide range of social issues by presenting the experiences of people living these realities. She brings beautifully real individuals to talk about their opinions and lives in performances, videos and media installations. Her pieces have been described as a "call to action" "blending \[of] humour with sobering realism", as well as sometimes "leaving you with a haunting question" (La Presse, 2019). This interdisciplinary artist draws from many fields, methods and mediums, such as oral history, documentary, public pedagogy, community development, new media, performance, relational and conceptual art as well as art education. 
+In her practice, Veronica Mockler tackles a wide range of social issues by presenting the experiences of people living these realities. She brings beautifully real individuals to talk about their opinions and lives in performances, videos and media installations. Her pieces have been described as a "call to action" "blending \[of] humour with sobering realism", as well as sometimes "leaving you with a haunting question" (La Presse, 2019). This interdisciplinary artist draws from many fields and mediums, such as oral history, documentary, public pedagogy, community development, new media, performance, relational art, conceptual art and art education. 
+
+<br>
+<br>
+<br>
 
 
+##### **"my goal is to create art that strengthens the agency of my collaborators. Being the artist who facilitates other people's representation is an ethically and artistically complex thing to be doing as an artist... this complexity is what drives me; motivates me..."**
 
-
-
-
-
-
-
-## **"my goal is to create art that strengthens the agency of my collaborators. Being the artist who facilitates other people's representation in the public realm is an ethically and artistically complex thing to be doing as an artist... this complexity is what drives me; motivates me..."**
+<br>
+<br>
+<br>
 
 #### **Artist Statement**
 
-*I collaborate with people to present their reality to audiences in order to socially challenge these audiences. I hope to fill part of the gap that technology creates between real human connection and virtual media connectedness. I collaborate on projects in and out of the gallery space by facilitating the self-assertion of folks in the white cube and by summoning sheltered audiences into alternative spaces to have them listen to Others' intersectional experiences. I personally hold any art production socially accountable and thereby dedicate my practice to the deactivation of neoliberalism, colonialism, conservatism and capitalism. I am attempting to put my privilege as a white Canadian cis and straight human woman to good use by making art and doing research that can serve the agency of other people, which allows me to fulfill my own. I am always looking for new collaborative opportunities.*
+I collaborate with people to present their reality to audiences in order to socially challenge these audiences. I hope to fill part of the gap that technology creates between real human connection and virtual media connectedness. I collaborate on projects in and out of the gallery space by facilitating the self-assertion of folks in the white cube and by summoning sheltered audiences into alternative spaces to have them listen to Others' intersectional experiences. I personally hold any art production socially accountable and thereby dedicate my practice to the deactivation of neoliberalism, colonialism, conservatism and capitalism. I am attempting to put my privilege as a white Canadian cis and straight human woman to good use by making art and doing research that can serve the agency of other people, which allows me to fulfill my own. I am always looking for new collaborative opportunities.
