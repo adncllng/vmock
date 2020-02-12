@@ -13,13 +13,15 @@ Athléimneacht is an ongoing project the artist is developing during her visits 
 
 Amongst many other things, Bobby is a former North Belfast Sinn Féin City Councillor (elected 3 terms) and a sentenced Long Kesh prisoner. During the conflict in the north of Ireland, Bobby’s 21-year old son was murdered by two gunmen. Bobby's lifelong dedication to the Republican struggle as well as his radical militancy for class equality is one pillar of this oral history. For her part, Susana has been instrumental in the implementation of programs for public health equity and social justice in the San Francisco Bay area. She was a former supervisor at La Clinica de La Raza, an activist led multi-service clinic that provides healthcare to low-income and undocumented Latino residents of the East Bay area in Oakland. Susana’s first husband died of HIV/AIDS during their 7th year of marriage. Susana's personal resilience, advocacy and generosity is also at the heart of this oral history.
 
-_1. (Kerr, Daniel. “Allan Nevins Is Not My Grandfather: The Roots of Radical Oral History Practice in the United States,” Oral History Review 43, 2 (2016), 367–391.)_
+A sound installation imagined around this ongoing work was shown part of the International Symposium Listening, Performance, and Conflict, held at Concordia University in November 2019 in the Centre for Oral History and Digital Storytelling.
 
-## A sound installation imagined around this ongoing work is shown part of the Acts of Listening Lab's symposium Listening, Performance, and Conflict from November 4-10 at Concordia University in the Centre for Oral History and Digital Storytelling.
+*1. (Kerr, Daniel. “Allan Nevins Is Not My Grandfather: The Roots of Radical Oral History Practice in the United States,” Oral History Review 43, 2 (2016), 367–391.)*
 
 ![](/img/20180403_222323.jpg)
 
 ![](/img/p1140695.jpg)
+
+
 
 ![](/img/screen-shot-2019-09-18-at-12.14.10-pm.png)
 
