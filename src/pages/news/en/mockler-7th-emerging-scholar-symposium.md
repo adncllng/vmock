@@ -1,5 +1,5 @@
 ---
-image: /img/Screen Shot 2020-03-13 at 10.57.24 AM.png
+image: /img/ni.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
