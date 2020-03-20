@@ -14,10 +14,10 @@ At the moment, Veronica is conducting research-creation in performance art, publ
 
 *Veronica Mockler tackles a wide range of social issues by presenting the non-actors, the real-life protagonists living these issues. Mockler's artworks have been described as a "call to action" "blending \[of] humour with sobering realism", as well as sometimes "leaving you with a haunting question"*. — (La Presse, 2019) 
 
-For more information on Veronica's exhibitions and press, [please click here (CV)](https://drive.google.com/file/d/1oONqAnCmwYJ8i0XJxqf3JVO2GSeVfKN2/view?usp=sharing)
+For more information on Veronica's exhibitions and press,** [please click here (CV)](https://drive.google.com/file/d/1oONqAnCmwYJ8i0XJxqf3JVO2GSeVfKN2/view?usp=sharing).**
 
 #### **Artist Statement**
 
 So... I collaborate with people to present their reality to audiences in order to socially challenge these audiences. I hope to fill part of the gap that technology creates between real human connection and virtual media connectedness. I work on projects in and out of the gallery space by collaborating with individuals on their self-assertion in the white cube and by summoning different audiences to listen to these same individuals in alternative spaces. I personally hold any art production socially accountable and thereby dedicate my practice to the deactivation of colonialism, capitalism and individualism. My position as a white, Western, straight, typical, human comes with social privileges. Every day, I try to work towards better understanding my privileged position and its implication on art-making and collaboration with other people. My goal is to explore, through the sharing of expertise and art, how people can determine their own representation in the public realm. The practice of presenting discourse that is not mine is an ethically, politically and aesthetically complex endeavour. This complexity is what drives me, is what motivates me. I want to never stop learning. 
 
-↓ Scroll down to my contact info if you have something you want to investigate together! ↓
+↓ Scroll down to my contact info if you have to investigate together! ↓
