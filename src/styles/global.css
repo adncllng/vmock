@@ -1,5 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Oswald:700&display=swap');
+
 body {
   margin: 0;
   margin-right: 10px;
@@ -29,6 +31,12 @@ a {
   width: 100vh;
   display: flex;
   justify-content: space-around;
+}
+
+
+.menu-item {
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
 }
   
 .lang{
@@ -87,7 +95,9 @@ a {
 #veronica {
   font-size: 8vw;
   letter-spacing: 0.04em;
-  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+
   color: rgb(255, 255, 255);
   text-shadow: 0px 20px 15.52px rgba(7, 26, 1, 0.05);
   line-height: 9.5vw;
