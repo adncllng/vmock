@@ -18,10 +18,8 @@ I collaborate with people to present their reality to audiences in order to soci
 
 #### **Curriculum Vitae**
 
-For more information on Veronica's work and press coverage, **[please click here (CV)](https://drive.google.com/file/d/1oONqAnCmwYJ8i0XJxqf3JVO2GSeVfKN2/view?usp=sharing).**
+For more information on Veronica's work and press coverage, please click **[here (CV)](https://drive.google.com/file/d/12vvM0hjbO3XGAag1FLyTr5xoK0rfGQxU/view?usp=sharing)**.
 
-> _**Mockler tackles social issues by presenting in her art the non-actors, the real-life protagonists who actually live these issues. Her art has been described as a "call to action" "blending \[of] humour with sobering realism", as well as sometimes "leaving you with a haunting question" — La Presse, 2019**_
->
->  
+> **_Mockler tackles social issues by presenting in her art the non-actors, the real-life protagonists who actually live these issues. Her art has been described as a "call to action" "blending \[of] humour with sobering realism", as well as sometimes "leaving you with a haunting question" — La Presse, 2019_**
 
 __
