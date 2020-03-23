@@ -1,5 +1,5 @@
 ---
-image: /img/02_vm_les_interpretes.jpg
+image: /img/screen-shot-2020-03-23-at-11.04.45-am.jpg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
@@ -33,3 +33,5 @@ Photo credits of performances: Aja Palmer, Dominic Morissette
 ![](/img/plamer-copy-2.jpg)
 
 ![](/img/palmer_7814.jpg)
+
+![](/img/02_vm_les_interpretes.jpg)
