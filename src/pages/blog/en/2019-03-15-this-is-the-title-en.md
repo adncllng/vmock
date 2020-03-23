@@ -35,3 +35,5 @@ Photo credits of performances: Aja Palmer, Dominic Morissette
 ![](/img/palmer_7814.jpg)
 
 ![](/img/02_vm_les_interpretes.jpg)
+
+![](/img/cse1.jpg)
