@@ -1,5 +1,5 @@
 ---
-image: /img/p1190041.jpg
+image: /img/screen-shot-2020-03-23-at-10.25.39-am.jpeg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
@@ -9,7 +9,7 @@ description: >-
   Artist-in-Residence at Maison des Artistes (Winnipeg, MA) for community-based
   creation.
 ---
-In Winnipeg, eleven established and newly arrived Franco-Manitobans participated in a series of workshops that were developed and facilitated by Veronica Mockler in collaboration with pedagogue Yves Amyot from *Centre Turbine* (Montreal, QC). Mockler was invited as an Artist-in-Residence at the Maison des Artistes to conduct a series of workshops with members of the French speaking community of Winnipeg. During her workshops, participants interacted with one another about their personal experience and identity as francophones. Looking at 'la francophonie' through the lens of conflict, de/colonialism, migration, family and culture, Mockler collected different types of audio-visual and performative content that features the life-chapters and convictions of each participant. 
+In Winnipeg, eleven established and newly arrived Franco-Manitobans participated in a series of workshops that were developed and facilitated by Veronica Mockler in collaboration with pedagogue Yves Amyot from _Centre Turbine_ (Montreal, QC). Mockler was invited as an Artist-in-Residence at the Maison des Artistes to conduct a series of workshops with members of the French speaking community of Winnipeg. During her workshops, participants interacted with one another about their personal experience and identity as francophones. Looking at 'la francophonie' through the lens of conflict, de/colonialism, migration, family and culture, Mockler collected different types of media, audio-visual and performative content that features the life-chapters and convictions of each participant. 
 
 Mockler is invited to go back to Winnipeg's Maison de Artistes in December 2019 to present her work entitled Pavillon, which consists of a video articulation of the body of work she produced with participants during her residency.
 
@@ -17,11 +17,9 @@ Opening: December 5, 2019 - 7PM. Première: December 5, 2019 - 5PM with Q&A with
 
 The artist would like to thank Anass, Babs, Chantal, Chargache, Cédelynne, Danica, Joanne, Mike, Omar Tahar, Ousseni, and Youssef for their generosity, expertise and participation.
 
-The artist would also like to thank *Centre Turbine* for organizing the community-based Artist-in-residence project. The artist would like to thank the *Conseil des Arts et des Lettres du Québec*, as well as *Accueil Francophone, Pluri-Elles, Secrétariat aux relations canadiennes* & *Maison des artistes visuels francophones* for their support in this initiative. 
+The artist would also like to thank _Centre Turbine_ for organizing the community-based Artist-in-residence project. The artist would like to thank the _Conseil des Arts et des Lettres du Québec_, as well as _Accueil Francophone, Pluri-Elles, Secrétariat aux relations canadiennes_ & _Maison des artistes visuels francophones_ for their support in this initiative. 
 
 ![](/img/69086431_2811791285500940_1620093601428013056_o.jpg)
-
-![](/img/screen-shot-2019-08-28-at-1.53.28-pm.png)
 
 ![](/img/screen-shot-2019-09-22-at-10.32.28-am.png)
 
@@ -30,5 +28,23 @@ The artist would also like to thank *Centre Turbine* for organizing the communit
 ![](/img/screen-shot-2019-09-22-at-10.34.44-am.png)
 
 ![](/img/pavillon_01.png)
+
+![](/img/screen-shot-2020-03-23-at-10.29.30-am.jpeg)
+
+![](/img/screen-shot-2020-03-23-at-10.27.02-am.jpeg)
+
+![](/img/screen-shot-2020-03-23-at-10.29.59-am.jpeg)
+
+![](/img/screen-shot-2020-03-23-at-10.42.55-am.jpeg)
+
+![](/img/screen-shot-2020-03-23-at-10.45.53-am.jpeg)
+
+![](/img/p1190041.jpg)
+
+![](/img/screen-shot-2019-08-28-at-1.53.28-pm.png)
+
+![](/img/pavillon-gallery.jpg)
+
+![](/img/pavillon_close.jpg)
 
 ![](/img/pavillon.jpg)
