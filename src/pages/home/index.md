@@ -16,10 +16,10 @@ At the moment, Veronica is conducting research-creation in performance art, publ
 
 I collaborate with people to present their reality to audiences in order to socially challenge these audiences. I hope to fill part of the gap that technology creates between real human connection and virtual media connectedness. I work on projects in and out of the gallery space by collaborating with individuals on their self-assertion in the white cube and by summoning different audiences to listen to these same individuals in alternative spaces. I personally hold any art production socially accountable and thereby dedicate my practice to the deactivation of colonialism, capitalism and individualism. My position as a white, Western, straight, typical, human comes with social privileges. Every day, I try to work towards better understanding my privileged position and its implication on art-making and collaboration with other people. My goal is to explore, through the sharing of expertise and art, how people can determine their own representation in the public realm. The practice of presenting discourse that is not mine is an ethically, politically and aesthetically complex endeavour. This complexity is what drives me; is what motivates me.
 
-#### **Curriculum Vitae**
 
-For more information on Veronica's work and press coverage, please click **[here (CV)](https://drive.google.com/file/d/12vvM0hjbO3XGAag1FLyTr5xoK0rfGQxU/view?usp=sharing)**.
 
-> **_Mockler tackles social issues by presenting in her art the non-actors, the real-life protagonists who actually live these issues. Her art has been described as a "call to action" "blending \[of] humour with sobering realism", as well as sometimes "leaving you with a haunting question" — La Presse, 2019_**
 
-__
+
+#### **Mockler tackles social issues by presenting in her art the non-actors, the real-life protagonists who actually live these issues. Her art has been described as a "call to action" "blending \[of] humour with sobering realism", as well as sometimes "leaving you with a haunting question" — La Presse, 2019**
+
+#### For more information on Veronica's work and press coverage, please click **[here (CV)](https://drive.google.com/file/d/12vvM0hjbO3XGAag1FLyTr5xoK0rfGQxU/view?usp=sharing)**. Also, follow links to collectives [VISIBLE ART COLLECTIVE](http://visibleart.ca/) & [WOMXN WALK THE WALK COLLECTIVE](https://womenwalkmontreal.tumblr.com/).
