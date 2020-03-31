@@ -1,5 +1,5 @@
 ---
-image: /img/16835844_10103013262115497_2879185972320504586_o.jpg
+image: /img/canvassersretouche_21-copy.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
