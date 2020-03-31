@@ -1,5 +1,5 @@
 ---
-image: /img/senate.jpg
+image: /img/senator.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
