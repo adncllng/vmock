@@ -6,8 +6,8 @@ pageKey: page_newspost
 title: Oral History Sound Installation
 date: 1985-10-31T04:25:00.000Z
 description: >
-  Mockler is presenting a sound installation part of her work Athléimneacht in
-  International Symposium dedicated to practice & research on performance art,
-  listening and conflict.
+  I will be presenting a sound installation that is part of my bigger
+  investigation entitled "Athléimneacht" in the International Symposium
+  Performance, Listening and Conflict.
 ---
 a
