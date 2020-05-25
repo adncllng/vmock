@@ -6,8 +6,8 @@ pageKey: page_newspost
 title: Artist-in-Residence at MAVF in Winnipeg
 date: 1987-10-08T01:41:00.000Z
 description: >-
-  Tune in to listen to Mockler's interview with CBC on her creative process
-  during her residency at la MAVF. Mockler is conducting community-based
-  research-creation with a group of 11 francophones living in Winnipeg.
+  Tune in to listen to my interview on CBC where I talk about the creative
+  process behind my residency at la MAVF. I'm conducting community-based
+  creation with 11 francophones folks living in Winnipeg.
 ---
 .
