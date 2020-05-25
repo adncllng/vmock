@@ -6,7 +6,8 @@ pageKey: page_newspost
 title: Conseil des arts et des lettres du Québec
 date: 1969-12-13T21:12:00.000Z
 description: >-
-  Mockler receives a grant from the Quebec Art Council (Conseil des arts et des
-  lettres du Québec) for her work entitled "Pavillon".
+  I received a grant from the Quebec Art Council (Conseil des arts et des
+  lettres du Québec) to go set up my show and facilitate a gathering during my
+  exhibition "Pavillon" in MAVF!
 ---
 .
