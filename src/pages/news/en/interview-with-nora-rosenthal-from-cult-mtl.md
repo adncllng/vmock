@@ -6,8 +6,9 @@ pageKey: page_newspost
 title: Interview with Nora Rosenthal from Cult MTL
 date: 1993-10-07T23:45:00.000Z
 description: >-
-  The artist was interviewed by art critic Nora Rosenthal on her work Les
-  Interprètes and her approach to participatory art. The full interview can be
-  found in Cult MTL's monthly printed issue.
+  I chatted with the Cult's art critic Nora Rosenthal on my work "Les
+  Interprètes" my approach to participatory art & ethics. Full interview can be
+  found in print or online:
+  https://cultmtl.com/2019/04/veronica-mockler-les-interpretes/
 ---
 .
