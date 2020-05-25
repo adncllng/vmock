@@ -7,7 +7,7 @@ title: Live on CBC Montreal
 date: 1994-10-07T23:20:00.000Z
 description: >-
   I will be live on Homerun with Sue Smith to chat about the most recent
-  iteration of work entitled "Les Interprètes". Show opening this week in
+  iteration of my work entitled "Les Interprètes". Show opening this week in
   Maison de la Culture du Plateau-Mont-Royal!
 ---
 .
