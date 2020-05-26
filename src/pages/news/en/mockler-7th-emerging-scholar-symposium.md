@@ -3,7 +3,7 @@ image: /img/ni.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
-title: Presentation at the 7th Emerging Scholar Symposium
+title: Emerging Scholar Symposium
 date: 1955-03-13T15:56:00.000Z
 description: >-
   What a wonderful symposium organized by the Centre for Oral History and
