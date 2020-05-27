@@ -1,5 +1,5 @@
 ---
-image: /img/fffgdfgdg.jpg
+image: /img/niall.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
