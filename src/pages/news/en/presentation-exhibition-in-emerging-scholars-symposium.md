@@ -6,7 +6,7 @@ pageKey: page_newspost
 title: Exhibition in Feminist Spatial Stories
 date: 1956-02-09T17:15:00.000Z
 description: >
-  I will be presenting my research and work with Womxn Walk the Walk in Feminist
-  Spatial Stories: the 7th Annual Emerging Scholars' Symposium.
+  I'll be presenting my research and work with Womxn Walk the Walk Collective in
+  an Emerging Scholars' Symposium looking at feminist spatial stories.
 ---
 .
