@@ -7,8 +7,8 @@ title: Performance by Lala in Maison de la Culture
 date: 1995-10-07T22:33:00.000Z
 description: >
   "Les Interprètes" opens on April 10, 2019 in Maison de la Culture du
-  Plateau-Mont-Royal. My hope is that this live nonfiction piece goes against
-  current documentary treatments that gratuitously victimize and exploit the
-  narratives of folks who have undergone migration.
+  Plateau-Mont-Royal. My hope is that this live nonfiction performance goes
+  against current documentary representations that gratuitously victimize and
+  exploit the narratives of folks who have undergone migration.
 ---
 .
