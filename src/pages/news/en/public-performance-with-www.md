@@ -8,6 +8,7 @@ date: 1981-11-18T03:11:00.000Z
 description: >-
   Friend and collaborator Joanna Guillaume performed a speech act with Womxn
   Walk the Walk Collective last week. The work was the closing event of a walk
-  in commemoration of the Polytechnique Massacre.
+  in commemoration of the Polytechnique Women Massacre, that took place 30 years
+  ago this year.
 ---
 .
