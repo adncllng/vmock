@@ -11,4 +11,4 @@ description: >-
   oral history and suppressed narratives in their practice." - Amanda Gutierrez,
   Curator.
 ---
-a
+.
