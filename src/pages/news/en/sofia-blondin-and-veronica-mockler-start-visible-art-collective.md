@@ -6,9 +6,8 @@ pageKey: page_newspost
 title: Co-founder of Visible
 date: 2011-09-29T22:03:00.000Z
 description: >-
-  Visible (founded by Sofia Blondin & Veronica Mockler) highlights the power of
-  citizen expression through performative and diversified gatherings.
-  Documentary processes are at the basis of their work in which individuals are
-  invited to express and represent themselves.
+  Co-founded with theatre artist Sofia Blondin the Visible Art Collective. Our
+  goal is to highlight the power of Montreal residents through performative, new
+  media, and diversified public gatherings.
 ---
 .
