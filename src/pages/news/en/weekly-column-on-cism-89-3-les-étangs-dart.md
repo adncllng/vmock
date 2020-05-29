@@ -7,7 +7,7 @@ title: Weekly column on CISM 89.3 show Les Étangs d'Art
 date: 2010-09-30T01:43:00.000Z
 description: >-
   I'll be a weekly columnist on the contemporary art radio show "Les Étangs
-  d'Art" this winter alongside fellow artist Florencia Sosa Rey and journalist
-  Pierre de Montvalon.
+  d'Art" this winter alongside artist Florencia Sosa Rey and journalist Pierre
+  de Montvalon.
 ---
 .
