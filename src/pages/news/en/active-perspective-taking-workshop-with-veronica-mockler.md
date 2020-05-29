@@ -6,8 +6,8 @@ pageKey: page_newspost
 title: Active Perspective-Taking with Third Space Gallery
 date: 1998-09-30T21:40:00.000Z
 description: >-
-  I am facilitating an «Active Perspective-Taking in Art» workshop part of Third
-  Shift Festival this upcoming August. Join me for this free and exploratory
-  dialogic performance art exercise.
+  I am facilitating an «Active Perspective-Taking» performance workshop part of
+  Third Shift's upcoming festival this August. Join me for this free and
+  exploratory dialogic exploration.
 ---
 .
