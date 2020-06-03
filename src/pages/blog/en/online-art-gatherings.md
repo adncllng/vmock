@@ -1,5 +1,5 @@
 ---
-image: /img/art_gathering_01_no_names_a.jpg
+image: /img/art_gathering_01_no_names_b.jpg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
