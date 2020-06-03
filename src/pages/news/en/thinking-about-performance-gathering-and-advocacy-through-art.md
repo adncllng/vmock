@@ -1,5 +1,5 @@
 ---
-image: /img/art_gathering_01_no_names.jpg
+image: /img/arm_vmockler_artgatherings.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
