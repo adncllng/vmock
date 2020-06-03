@@ -4,7 +4,7 @@ templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: Online Art Gatherings
-date: 2020-06-03T17:45:57.155Z
+date: 1958-06-03T17:45:00.000Z
 description: >-
   Series of art gatherings during 'social distancing' with newly arrived
   refugeed women and nonprofit migrant rights organization.
