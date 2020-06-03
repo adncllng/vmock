@@ -6,8 +6,8 @@ pageKey: page_blogpost
 title: Online Art Gatherings
 date: 1958-06-03T17:45:00.000Z
 description: >-
-  Series of art gatherings during 'social distancing' with newly arrived
-  refugeed women and nonprofit migrant rights organization.
+  Gathering during 'social distancing' with refugeed women and nonprofit migrant
+  rights organization.
 ---
 The artist began a series of online gatherings with women who are part of Action Réfugiés Montréal's twinning program. In this work, she looks at what it means to gather online, through art-making. The artist is interested in how such facilitation can be considered a performance practice that enacts social engagement and support.  
 
