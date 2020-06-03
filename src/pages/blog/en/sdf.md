@@ -18,7 +18,7 @@ The Address would not have come to life without the artistic and technical contr
 
 Visible Art Collective would like to thank Cégep Marie-Victorin for welcoming us into their space. Visible Art Collective would like to thank the Conseil des Arts de Montréal's Patron of the Arts Prize and the Theatre Engaging Communities Program of the National Theatre School of Canada for their financial support in this project.
 
-# CLICK HERE TO WATCH THE ONE-YEAR ANNIVERSARY VIDEO RECAP OF THE ADDRESS: <https://youtu.be/zChKWbzR0mQ>
+## Click [here](https://youtu.be/zChKWbzR0mQ) to watch the video-recap of The Address for its one-year anniversary!
 
 ![](/img/benewende.png)
 
