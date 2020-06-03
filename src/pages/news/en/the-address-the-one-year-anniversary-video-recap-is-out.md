@@ -3,7 +3,7 @@ image: /img/vid-recap1.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
-title: Video-recap for the one-year anniversary is out!
+title: One-year anniversary of THE ADDRESS!
 date: 1953-06-03T17:23:00.000Z
 description: >-
   Our ethno-documentary performance "The Address" was a year ago… a year since
