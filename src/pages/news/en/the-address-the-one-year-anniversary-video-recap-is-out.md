@@ -1,5 +1,5 @@
 ---
-image: /img/vid-recap.jpg
+image: /img/vid-recap1.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
