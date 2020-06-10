@@ -30,38 +30,38 @@ Check out \*\*\*\*[Visible Art Collective's website](http://visibleart.ca/) and 
 
 [Veronica Mockler sur son œuvre à la Maison des artistes visuels](https://ici.radio-canada.ca/premiere/emissions/l-actuel/episodes/449721/rattrapage-du-mercredi-4-decembre-2019/8), RADIO-CANADA, L’actuel
 
-L’art au service de la communauté francophone, LA LIBERTÉ**](https://www.la-liberte.ca/2019/08/31/lart-au-service-de-la-communaute-francophone/)**
+[L’art au service de la communauté francophone](https://www.la-liberte.ca/2019/08/31/lart-au-service-de-la-communaute-francophone/), LA LIBERTÉ
 
-Une nouvelle œuvre numérique intitulée Pavillon à la Maison des artistes, RADIO-CANADA**](https://ici.radio-canada.ca/premiere/emissions/le-6-a-9/episodes/442048/audio-fil-du-jeudi-29-aout-2019)**
+[Une nouvelle œuvre numérique intitulée Pavillon à la Maison des artistes](https://ici.radio-canada.ca/premiere/emissions/le-6-a-9/episodes/442048/audio-fil-du-jeudi-29-aout-2019), RADIO-CANADA
 
-Des nouveaux arrivants et des Franco-Manitobaines s’expriment à travers l’art, CBC ICI MANITOBA**](https://ici.radio-canada.ca/nouvelle/1279345/art-visuel-communaute-francophone-nouveaux-arrivants-franco-manitobain)**
+[Des nouveaux arrivants et des Franco-Manitobaines s’expriment à travers l’art](https://ici.radio-canada.ca/nouvelle/1279345/art-visuel-communaute-francophone-nouveaux-arrivants-franco-manitobain), CBC ICI MANITOBA
 
-\***\*[**Sortir les artistes de leurs locaux pour co-créer avec le public, RADIO-CANADA, L’actuel**](https://ici.radio-canada.ca/premiere/emissions/l-actuel/episodes/442008/audio-fil-du-mercredi-28-aout-2019/3)\*\***
+[Sortir les artistes de leurs locaux pour co-créer avec le public, RADIO-CANADA](https://ici.radio-canada.ca/premiere/emissions/l-actuel/episodes/442008/audio-fil-du-mercredi-28-aout-2019/3), L’actuel
 
-\***\*[**The Address Calls Montrealers to Take Action Against Gentrification, THE LINK**](https://thelinknewspaper.ca/article/the-address-calls-montrealers-to-take-action-against-gentrification)\*\***
+[The Address Calls Montrealers to Take Action Against Gentrification](https://thelinknewspaper.ca/article/the-address-calls-montrealers-to-take-action-against-gentrification), THE LINK
 
-\***\*[**Trouver son adresse, CHOQ, Nouvelle Société**](https://www.choq.ca/nouvelles/trouver-son-adresse)\*\***
+[Trouver son adresse](https://www.choq.ca/nouvelles/trouver-son-adresse), CHOQ, Nouvelle Société
 
-\***\*[**L’adresse : les taudis, comme si vous y viviez, LA PRESSE, Arts et Être**](http://mi.lapresse.ca/screens/1ac03c7e-7d0d-43aa-9328-32ba29c8b0c47C_0.html)\*\***
+[L’adresse : les taudis, comme si vous y viviez](http://mi.lapresse.ca/screens/1ac03c7e-7d0d-43aa-9328-32ba29c8b0c47C_0.html), LA PRESSE, Arts et Être
 
-\***\*[**Côte-des-Neiges residents share housing stories through art performance, CBC NEWS**](https://www.cbc.ca/news/canada/montreal/cdn-housing-experience-performance-1.5148645)\*\***
+[Côte-des-Neiges residents share housing stories through art performance](https://www.cbc.ca/news/canada/montreal/cdn-housing-experience-performance-1.5148645), CBC NEWS
 
-\***\*[**L’adresse: une performance ethnodocu immersive bilingue, RADIO-CANADA INTERNATIONAL**](https://www.rcinet.ca/fr/2019/05/24/ladresse-une-performance-ethno-documentaire-immersive-bilingue-au-coeur-de-larrondissement-cote-des-neiges/)\*\***
+[L’adresse: une performance ethnodocu immersive bilingue](https://www.rcinet.ca/fr/2019/05/24/ladresse-une-performance-ethno-documentaire-immersive-bilingue-au-coeur-de-larrondissement-cote-des-neiges/), RADIO-CANADA INTERNATIONAL
 
 Interview with Veronica Mockler & Sofia Blondin on The Address, Homerun, CBC MONTREAL RADIO
 
-\***\*[**L’adresse: parler de logement avec du monde ordinaire, mais pas plate, URBANIA**](https://urbania.ca/article/ladresse-parler-de-logement-avec-du-monde-ordinaire-mais-pas-plate)\*\***
+[L’adresse: parler de logement avec du monde ordinaire, mais pas plate](https://urbania.ca/article/ladresse-parler-de-logement-avec-du-monde-ordinaire-mais-pas-plate), URBANIA
 
-\***\*[**Guest artist on special edition Makesense, ATELIER CIBL RADIO**](https://www.radioatelier.ca/tag/veronica-mockler/)\*\***
+[Guest artist on special edition Makesense](https://www.radioatelier.ca/tag/veronica-mockler/), ATELIER CIBL RADIO
 
-\***\*[**Montreal artist aims to empower immigrant youth by bringing art into the classroom, CBC MTL**](https://www.cbc.ca/news/canada/montreal/montreal-artist-immigrant-kids-1.5097305)\*\***
+[Montreal artist aims to empower immigrant youth by bringing art into the classroom](https://www.cbc.ca/news/canada/montreal/montreal-artist-immigrant-kids-1.5097305), CBC MTL
 
 Veronica Mockler about her recent work Les Interprètes, Homerun, CBC MONTREAL RADIO
 
-\***\*[**The ethics of participatory art, CULT MTL**](https://cultmtl.com/2019/04/veronica-mockler-les-interpretes/)\*\***
+[The ethics of participatory art](https://cultmtl.com/2019/04/veronica-mockler-les-interpretes/), CULT MTL
 
 Free, far-out art festival transforms uptown Saint John, CBC SAINT-JOHN
 
-[**Chronique d'un été by artist Veronica Mockler, WOMEN CINEMA-MAKERS BERLIN, Special Edition**](https://issuu.com/womencinereview/docs/special.edition/98)\*\*\*\*
+[Chronique d'un été by artist Veronica Mockler](https://issuu.com/womencinereview/docs/special.edition/98), WOMEN CINEMA-MAKERS BERLIN, Special Edition
 
-\***\*[**Art and Life with Veronica Mockler, THE THOUGHT-PROVOKERS SERIES, BostonVoyager**](http://bostonvoyager.com/interview/art-life-veronica-mockler/)\*\***
+[Art and Life with Veronica Mockler](http://bostonvoyager.com/interview/art-life-veronica-mockler/), THE THOUGHT-PROVOKERS SERIES, BostonVoyager
