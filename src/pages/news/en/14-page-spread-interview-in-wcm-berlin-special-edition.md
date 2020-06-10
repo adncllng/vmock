@@ -7,6 +7,6 @@ title: 14-page spread interview in WCM Berlin / Special Edition
 date: 2002-09-30T21:34:00.000Z
 description: >-
   I discussed my work and practice with Women Cinema Maker in Berlin. Have a
-  read:<br>https://issuu.com/women-cinemakers/docs/vol.23/98
+  read: https://issuu.com/women-cinemakers/docs/vol.23/98
 ---
 .
