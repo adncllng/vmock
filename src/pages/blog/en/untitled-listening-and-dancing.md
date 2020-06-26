@@ -1,5 +1,5 @@
 ---
-image: /img/screen-shot-2020-06-25-at-7.21.06-pm.jpeg
+image: /img/screen-shot-2019-03-06-at-12.00.25-am.jpg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
@@ -18,3 +18,37 @@ I would like to thank Sara Hanley for her faith in my very exploratory methods, 
 _ 
 
 Thank you to Centre Turbine, Circuit-Est et Les Grands Ballets Canadiens de Montréal.
+
+![](/img/screen-shot-2020-06-25-at-7.40.05-pm.jpeg)
+
+![](/img/screen-shot-2020-06-25-at-7.30.17-pm.jpeg)
+
+![](/img/screen-shot-2020-06-25-at-6.41.28-pm.jpeg)
+
+![](/img/screen-shot-2020-06-25-at-7.30.42-pm.jpeg)
+
+![](/img/screen-shot-2020-06-25-at-7.34.10-pm.jpeg)
+
+![](/img/screen-shot-2020-06-25-at-6.43.28-pm.jpeg)
+
+![](/img/screen-shot-2020-06-25-at-6.47.21-pm.jpeg)
+
+![](/img/screen-shot-2020-06-25-at-6.47.13-pm.jpeg)
+
+![](/img/screen-shot-2020-06-25-at-7.27.48-pm.jpeg)
+
+![](/img/screen-shot-2020-06-25-at-7.02.31-pm.jpeg)
+
+![](/img/screen-shot-2020-06-25-at-6.47.45-pm.jpeg)
+
+![](/img/screen-shot-2020-06-25-at-7.13.22-pm.jpeg)
+
+![](/img/screen-shot-2020-06-25-at-7.16.45-pm.jpeg)
+
+![](/img/screen-shot-2020-06-25-at-7.18.33-pm.jpeg)
+
+![](/img/screen-shot-2020-06-25-at-7.27.14-pm.jpeg)
+
+![](/img/screen-shot-2020-06-25-at-7.29.12-pm.jpeg)
+
+![](/img/screen-shot-2020-06-25-at-7.28.35-pm.jpeg)
