@@ -3,7 +3,7 @@ image: /img/screen-shot-2019-09-24-at-11.59.42-am.png
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
-title: Exhibiting Concern / Two Studies
+title: The Act of Being Seen / Two Studies
 date: 1979-09-16T15:09:00.000Z
 description: >
   Two video studies that question the biased act of being seen, and its gendered
