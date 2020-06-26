@@ -15,7 +15,9 @@ I was invited to go back to Winnipeg's Maison de Artistes in December 2019 to pr
 
 \-
 
-Opening: December 5, 2019 - 7PM. Premiere: December 5, 2019 - 5PM with Q&A with participants and artist (open to media).
+Opening: December 5, 2019 - 7PM
+
+Premiere: December 5, 2019 - 5PM with Q&A with participants and the artist (open to media)
 
 The artist would like to thank Anass, Babs, Chantal, Chargache, Cédelynne, Danica, Joanne, Mike, Omar Tahar, Ousseni, and Youssef for their generosity, expertise and participation.
 
