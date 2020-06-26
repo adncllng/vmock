@@ -9,11 +9,13 @@ description: >-
   Artist-in-Residence at Maison des Artistes (Winnipeg, MA) for community-based
   creation.
 ---
-In Winnipeg, eleven established and newly arrived Franco-Manitobans participated in a series of workshops that were developed and facilitated by Veronica Mockler in collaboration with pedagogue Yves Amyot from _Centre Turbine_ (Montreal, QC). Mockler was invited as an Artist-in-Residence at the Maison des Artistes to conduct a series of workshops with members of the French speaking community of Winnipeg. During her workshops, participants interacted with one another about their personal experience and identity as francophones. Looking at 'la francophonie' through the lens of conflict, de/colonialism, migration, family and culture, Mockler collected different types of media, audio-visual and performative content that features the life-chapters and convictions of each participant. 
+In Winnipeg, eleven established and newly arrived Franco-Manitobans participated in a series of workshops that were developed and facilitated by myself in collaboration with pedagogue Yves Amyot from _Centre Turbine_ (Montreal, QC). I was invited as an Artist-in-Residence at the Maison des Artistes to conduct a series of workshops with members of the French-speaking community of Winnipeg. During the workshops, participants and I talked about our personal experience and identity as francophones. Looking at 'la francophonie' through the lens of conflict, de/colonialism, migration, family and culture, I collected different types of media, audio-visual and performative content that features the life-chapters and convictions of each participant. 
 
-Mockler is invited to go back to Winnipeg's Maison de Artistes in December 2019 to present her work entitled Pavillon, which consists of a video articulation of the body of work she produced with participants during her residency.
+I was invited to go back to Winnipeg's Maison de Artistes in December 2019 to present Pavillon, which consists of a video articulation of the media and storytelling we produced during my residency.
 
-Opening: December 5, 2019 - 7PM. Première: December 5, 2019 - 5PM with Q&A with participants and artist (open to media).
+\-
+
+Opening: December 5, 2019 - 7PM. Premiere: December 5, 2019 - 5PM with Q&A with participants and artist (open to media).
 
 The artist would like to thank Anass, Babs, Chantal, Chargache, Cédelynne, Danica, Joanne, Mike, Omar Tahar, Ousseni, and Youssef for their generosity, expertise and participation.
 
