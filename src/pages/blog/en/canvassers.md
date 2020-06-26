@@ -9,12 +9,15 @@ description: >-
   Video performance on the political potential of impromptu face-to-face
   self-revelation.
 ---
-Mich and Marshall are asked to share a personal story in front of a camera. Both participants arrive at a unified understanding of events when one’s story is orally expressed by the other. This continuous one-shot 15-minute video performance demonstrates our empathetic capacity as individuals. Part performance, part documentary, this piece was created in response to recent scientific findings that have demonstrated a 10-minute active one-on-one conversation between two strangers can durably reduce longstanding ingrained prejudice¹. These findings inspired this video-performance in addition to bringing an empirical premise to the artist’s recurring exploration of human interaction as a method for social-political transformation.
+I asked friends Mich and Marshall to share a personal story in front of a camera. Both of them arrive at a unified understanding of events when one’s story is orally taken on by the other. Part performance, part documentary, this continuous one-shot 15-minute video was created in response to scientific findings I've stumbled upon that demonstrate that a 10-minute active one-on-one conversation between two strangers can durably reduce longstanding ingrained prejudice.¹ These findings inspired this video-performance in addition to bringing the first empirical premise to my recurring exploration of human interaction as an art practice and literal method for social-political transformation.
 
-* Canvassers premièred in a solo exhibition curated by Christophe Barbeau in Redding Flagg Gallery in Toronto ON, Canada on February 2017.
-* Canvassers has been presented in Future Perfect group show, curated by Nadav Assor, in Ammerman Center's Biennial on Technology, Art and Intersections in New London CT, US during February 2018.
-* Canvassers has been presented in Third Shift group show, organized by Third Space Gallery, in Saint John NB, Canada during August 2018.
-* This work is distributed non-exclusively by Montreal video art distributor Videographe: _[videographe.org](videographe.org)_
+Canvassers premiered in a solo exhibition curated by Christophe Barbeau in Redd Flagg Gallery in Toronto ON, Canada on February 2017.
+
+Canvassers has been presented in Future Perfect group show, curated by Nadav Assor, in Ammerman Center's Biennial on Technology, Art and Intersections in New London CT, US during February 2018.
+
+Canvassers has been presented in Third Shift group show, organized by Third Space Gallery, in Saint John NB, Canada during August 2018.
+
+This work is distributed non-exclusively by Montreal video art distributor VIDEOGRAPHE : _[videographe.org](videographe.org)_
 
 _1. Science Mag 08 Apr 2016 | Vol. 352, Issue 6282, pp. 220-224 | DOI: 10.1126/science.aad9713 | Authors : David Broockman | Joshua Kalla_
 
