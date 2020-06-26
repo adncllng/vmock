@@ -7,11 +7,13 @@ title: The Left Point
 date: 1966-01-01T18:00:00.000Z
 description: 'Experiment on ideological disagreement in Belfast (Northern Ireland, UK).'
 ---
-In this experiment Mockler invited 9 individuals, along with herself, to take part in a “disagreement performance”. Randomly paired up, these strangers were asked to sit in front of a camera and attempt to disagree with one another. No particular subject matter was suggested for the discussion. Instead, each team had to reach a point of disagreement intuitively through the exchange of personal ideas and opinions. The sole instruction given by the artist was that participants should try to discuss something that truly mattered to them.
+During a one-month long autonomous residency, I devised an experiment in which I invited 9 individuals (including myself), to take part in a 'disagreement performance'. Randomly paired up, strangers and acquaintances were asked to sit in front of a camera and attempt to disagree with one another. No particular subject matter was suggested for the discussion. Instead, each team had to reach a point of disagreement intuitively through the exchange of personal ideas and opinions. The sole instruction I gave was that we should try to discuss something that truly mattered to us, individually. 
 
-Mockler conducted this experiment during her first visit to Belfast, which was 4 months after the Brexit referendum. During this one month stay, business tycoon Donald Trump became president of the United States. These unsettling events in both the U.K. and the U.S., as well as the still palpable aftermath of the Troubles, prompted the artist to explore what it means to “ideologically disagree”. The Left Point was an audacious relational experiment in which folks who all considered themselves to be “socially progressive” ended up rapidly disagreeing with one another. Mockler considers this exercise as a clear example of neoliberalism’s demise.
+I conducted this experiment during my first visit to Belfast, which was 4 months after the Brexit referendum. During this one month stay, business tycoon Donald Trump became president of the United States. These unsettling events in both the U.K. and the U.S., as well as the palpable and raw legacy of the conflict in the North, prompted me to explore what it means to 'ideologically disagree' in its most basic form. The Left Point was an audacious relational experiment in which folks who all considered themselves to be 'socially progressive' ended up rapidly disagreeing with one another.
 
-The artist would like to thank the Fondation LOJIQ, the Digital Art Studio of Belfast and FLAX Art Studios.
+The artist would like to thank the Fondation LOJIQ. 
+
+The artist would like to thank Catherine Devlin, the Digital Art Studio of Belfast and FLAX Art Studios for the warmest of welcome and facilitation. 
 
 ![](/img/screen-shot-2017-05-23-at-10.46.14-am.png)
 
