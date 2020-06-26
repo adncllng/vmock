@@ -5,17 +5,19 @@ locale: en
 pageKey: page_blogpost
 title: The Persona
 date: 1978-01-01T13:37:00.000Z
-description: Three part performance series that explores partying as a persona.
+description: Three part performance series that explores my 'party girl' real persona.
 ---
-In this video performance, the artist gets drunk and dances to music in front of a camera. Partying, as a social activity and character trait, is here isolated for observation. With this action, Mockler wants to investigate why she adopts this character in real life as a young privileged white person. In contrast, the artist is also interested in how drinking alcohol can be an empowering posture for woman as it allows her to take ownership over this male-oriented activity and culture.
+In this early video and performance exploration, I got drunk and danced to music in front of a camera. Partying, as a social activity and personal character trait, is here isolated for observation. With this action, I wanted to investigate why I adopt this character in real life as a young privileged white person. In contrast, I was also interested in how drinking alcohol can and was, at times, an empowering act as a woman as it allows me to take ownership over this very male-entitled activity and performance. 
 
-Mockler later explores these themes again with a friend who was questioning herself about similar attitudes. This time around, the cultural persona is shared, duplicated, mirrored between two young women instead of just one. This communal performance touches on the persona's dependency on a special alliance with others. 
+I later explored these themes again with a friend who was questioning herself about similar attitudes. This time around, the cultural persona is shared, duplicated, mirrored between two young women instead of just one. This communal performance touches on the persona's dependency on a special alliance with others, especially in relation to the safety of women and their bodies during such enactments. 
 
-To finish off this series, the artist wanted to explore the cultural performance of "partying", but this time, without alcohol. Drawing from observations made during her second performance, Mockler joined forces once again with a friend, and together they explored the unspoken and natural bond that is created between people who party together. 
+To finish off this series, I wanted to explore the cultural performance of "partying", but this time, without alcohol. Drawing from observations made during my second performance, I joined forces once again with a friend, and together we explored the unspoken and natural bond that is created between people who 'party' together. 
 
-In this third performance, the artist and her friend danced together for two consecutive hours without stopping. One performer was inside the gallery space while the other was outside. The performance was part of a group exhibition and took place during the opening. Gallery attendees could therefore witness two women dancing simultaneously together, apart.
+In this third performance, my friend and I danced together for two consecutive hours without stopping. One performer was inside the gallery space while the other was outside. The performance was part of a group exhibition and took place during the gallery opening. Gallery attendees could witness two women dancing simultaneously together, yet apart.
 
-The artist would like to thank Clémence Renaud and Florencia Sosa Rey for their friendship and creative contribution. 
+\-
+
+The artist would like to thank Clémence Renaud and Florencia Sosa Rey for their friendship, persona, and creative contribution. 
 
 ![](/img/screen-shot-2019-09-16-at-9.05.27-am.png)
 
