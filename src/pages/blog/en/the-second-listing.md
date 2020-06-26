@@ -5,13 +5,12 @@ locale: en
 pageKey: page_blogpost
 title: Listing 02
 date: 1972-01-01T16:15:00.000Z
-description: >
-  Performance by the artist about who she is and who she is not as a human
-  being.
+description: |
+  Performance in which I list a who she is and who she is not as a human being.
 ---
-Listing 02 is a performance part of a series developed initially in 2012. During this live performance, Mockler lists aloud everything that she is and everything that she is not in front of an audience. This exercise promotes accountability and is crucial in maintaining perspective and humility over time — knowing and stating publicly where you came from guides where you want to go. In the next phases of this ongoing project, the artist intends to expand the process to include other individuals. 
+The Second Listing is a performance part of a series developed initially in 2012. During this live performance, I list aloud everything that I am and everything that I am not in front of an audience. This exercise provokes accountability and is crucial in maintaining perspective, humility, and attentiveness over time — knowing and stating publicly where I came from and where I am now, guides where you want to go. In the next phases of this ongoing project, I intend on expanding the process and inviting other individuals to participate. 
 
-Following is the documentation of the second listing which took place on January 11, 2014. This performance was part of Doubletake: An event of potentiality, a group exhibition curated by Naakita Feldman-Kiss in Gallery Lock, Montréal, QC Canada.
+Following is the documentation of the Second Listing which took place on January 11, 2014. This performance was part of Doubletake: An event of potentiality, a group exhibition curated by Naakita Feldman-Kiss in Gallery Lock, Montréal, QC Canada.
 
 ![](/img/performance-art-montreal-exhibition-emerging.jpg)
 
