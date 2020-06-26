@@ -6,12 +6,14 @@ pageKey: page_blogpost
 title: Womxn Walk the Walk
 date: 1959-11-17T20:21:00.000Z
 description: >-
-  Listening to Joanna's unscripted public address during Womxn Walk the Walk's
-  collective performance.
+  Listening to Joanna's unscripted story part of Womxn Walk the Walk's
+  performance.
 ---
-Mockler invited her friend Joanna Guillaume to participate in Womxn Walk the Walk, an art collective initiated in the fall of 2019 by four women living in Montreal. Within the collective, Mockler and Guillaume are together looking at what it means for Guillaume—who does not consider herself an artist nor having participated previously in a similar activity—to take part in this art collective. Working through ideas of allyship, collaboration, facilitation and oral history, the two women are collaborating on a public performance in which Guillaume talks about a personal experience in front of an audience without a script. Guillaume's story deals with the disillusionment she experienced when her militant class "comrades" in _Université d'État d'Haiti_ (Port-au-Prince) viewed the struggle of women in Haiti as a low priority in the overall struggle for social justice. Out of 32 students, Guillaume was at that time one of two women admitted in the Philosophy department. 
+I invited my friend Joanna Guillaume to participate in Womxn Walk the Walk, an art collective initiated in the fall of 2019 with artist and researcher Amanda Gutierrez. Within the collective, Joanna and I together looked at what it means for Joanna—who does not consider herself an artist nor having participated previously in a similar activity—to take part in an 'art-making' collective. Working through ideas of allyship, collaboration, and facilitation, we worked on a public performance in which Joanna shared a personal experience in front of an audience without a script. Joanna's story dealt with the disillusionment she experienced when her militant class "comrades" in Université d'État d'Haiti in Port-au-Prince viewed the struggle of women in Haiti as a low priority in the overall struggle for social justice. Out of 32 students, Joanna recounts how she was "one of the only two women admitted in the Philosophy department"...
 
-Guillaume arrived to Canada as a Refugee claimant from Haiti in 2015. The artist met Guillaume a few months later in a twinning program for Refugee women that pairs a newly arrived Refugee to someone who has been based in Montreal for some years.
+Joanna arrived to Canada as a Refugee claimant from Haiti in 2015. It's in Montreal that I met Joanna, a few months after her arrival, through in a twinning program for Refugee women that pairs a newly arrived Refugee to someone who has been based in Montreal for some years.
+
+\-
 
 Womxn Walk the Walk is a collective of artists, researchers and community members who explore the intersectional experience of female identity in public space through group walks and storytelling in Montreal. Co-founded in the fall of 2019, the collective today consists of four core members (Amanda Gutierrez, Florencia Sosa Rey, Joanna Guillaume and Veronica Mockler) who collaborate with female-identifying community participants from various backgrounds to share and recognize stories of intersectional womxnhood through storytelling, oral history, performance, visual and sound art, new media, mapping and documentary. For more information on their work, visit _[womenwalkmontreal.tumblr.com](https://womenwalkmontreal.tumblr.com/)_.
 
