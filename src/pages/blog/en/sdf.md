@@ -8,7 +8,9 @@ date: 1961-01-01T18:00:00.000Z
 description: |
   Series of ethnographic & documentary performances on the Right to Housing.
 ---
-The Address is a series of performances Veronica Mockler co-created with theatre artist Sofia Blondin. This work was commissioned by the ethnography group _[Amplifier](http://amplifier-amplifier.com/)_. The Address invited hundreds of Montrealers to dive deeply into issues pertaining to the Right to Housing in the city. Different stakeholders were brought in to share their experiences regarding the housing situation in Côte-des-Neiges borough of Montreal. Taking place in a transformed education centre in the Triangle, the public assisted in live presentations by tenants, owners, community actors, activists, inspectors and urban planners on this multifold issue. By sharing their personal and social reality directly with the audience in an interdisciplinary format (oral history, documentary, video installation and live performance), The Address became a circular and critical space where residents living in the area could discuss and moreover mobilize together in an attempt to deal with the urgent challenge their communities and families were facing. Elected officials assisted to a performance which led among other things to the launching of an investigation by the city into a series of rooming-houses that were targeting newly arrived immigrants in the city.
+The Address is a series of performances I co-created with theatre artist Sofia Blondin. This work was commissioned by the ethnography group _[Amplifier](http://amplifier-amplifier.com/)_. The Address invited hundreds of Montrealers to dive deeply into issues pertaining to the Right to Housing in the city. Different stakeholders were brought in to share their experiences regarding the housing situation in Côte-des-Neiges borough of Montreal. Taking place in a transformed education centre in the Triangle, the public assisted in live presentations by tenants, owners, community actors, activists, inspectors and urban planners on this multifold issue. By sharing their personal and social reality directly with the audience in an interdisciplinary format (oral history, documentary, video installation and live performance), The Address became a circular and critical space where residents living in the area could discuss and moreover mobilize together in an attempt to deal with the urgent challenge their communities and families were facing. Elected officials assisted to a performance which led among other things to the launching of an investigation by the city into a series of rooming-houses that were targeting newly arrived immigrants in the city.
+
+\-
 
 The Address was co-produced by Visible Art Collective (Veronica Mockler and Sofia Blondin) and Amplifier. It was informed by the 360° ethnography project Amplifier led in the summer of 2017 in Côte-des-Neiges.
 
@@ -18,7 +20,7 @@ The Address would not have come to life without the artistic and technical contr
 
 Visible Art Collective would like to thank Cégep Marie-Victorin for welcoming us into their space. Visible Art Collective would like to thank the Conseil des Arts de Montréal's Patron of the Arts Prize and the Theatre Engaging Communities Program of the National Theatre School of Canada for their financial support in this project.
 
-## Click [here](https://youtu.be/zChKWbzR0mQ) to watch the video-recap of The Address for its one-year anniversary!
+## [Click here to watch the video-recap of The Address for its one-year anniversary!](https://www.youtube.com/watch?v=zChKWbzR0mQ)
 
 ![](/img/benewende.png)
 
