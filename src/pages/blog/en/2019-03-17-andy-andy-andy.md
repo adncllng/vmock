@@ -5,8 +5,9 @@ locale: en
 pageKey: page_blogpost
 title: Athléimneacht
 date: 1964-01-01T18:00:00.000Z
-description: |
-  Oral history project with Susana Hennessey and Bobby Lavery.
+description: >
+  Ongoing oral history research and creation with Susana Hennessey and Bobby
+  Lavery.
 ---
 Athléimneacht is an ongoing project I am slowly developing during my visits to the north of Ireland, and the north of California. I am documenting the stories of resistance and resilience of Bobby and Susana Lavery, a retired republican Irish-American couple I met by chance in an Icelandic airport in February 2017. Since our initial encounter, I have traveled to Belfast to spend time with, and learn from, Susana and Bobby. In this multifold and interdisciplinary work, I am drawing from reflections and practices belonging to the socialist and radical genealogy of oral history, popular education and socially engaged art. ¹ 
 
