@@ -5,7 +5,9 @@ locale: en
 pageKey: page_blogpost
 title: Les Interprètes
 date: 1963-01-01T18:00:00.000Z
-description: Series of 10 video and speech performances by 16 teenagers.
+description: >-
+  A series of video addresses and speech performances by 16 teenagers newly
+  arrived in Canada.
 ---
 I did a six-week residency in a Montreal high school in April 2018. During my time there, I created a series of performances with 16 teenagers who had just recently arrived in Montreal, QC, Canada. As new immigrants to Quebec, these teens were learning French in a 'welcome class' which meant they were together all the time, and their class size was smaller (16 students instead of 30). Together, we explored what it means to express oneself as a teenager and the control one has over self-representation at that age. The students and I listened to one another as we investigated different performative exercises and constructs (such as headphone verbatim, voicings, speculations, interviewing, manifestos, declarations, homages, censorship, silence, retraction, and more). In Les Interprètes, the aim was to make the audience aware of the actual thoughts and discourses of young people who have immigrated. I was looking at ways to ensure that my collaboration with the group, and its public representation, were co-authored with them, which went against documentary tendencies that gratuitously victimize and exploit the narratives of individuals who have undergone migration. I see Les Interprètes as an experimental moment in which I tried to give the students a bit of control over their own depiction.
 
