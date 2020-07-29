@@ -5,7 +5,9 @@ locale: en
 pageKey: page_blogpost
 title: Spending Time With Nadia
 date: 1970-01-01T17:28:00.000Z
-description: Relational work in which I spent time with a woman I did not know.
+description: >-
+  A provisional relational work in which I spent time with a woman I did not
+  know during one afternoon.
 ---
 Nadia and I did not know each other when I asked her if I could take her portrait. Nadia was the concierge in my apartment building at the time. She without any hesitation agreed and invited me into her home the following week. In this early relational work, I saw the series of photographs as a pretext for exchange—a setting in which a 21-year old woman (my age at the time) was invited to learn from an older woman, a mother, a wife, a worker, an immigrant. My wanting 'to spend time with Nadia', someone I had only said 'hello' to a few times prior, is when I began to understand how connection and one-on-one interaction with other people could at once be the form, the method and the actual content of my work. 
 
