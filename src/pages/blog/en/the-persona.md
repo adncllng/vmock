@@ -5,7 +5,9 @@ locale: en
 pageKey: page_blogpost
 title: The Persona
 date: 1978-01-01T13:37:00.000Z
-description: Three part performance series that explores my 'party girl' real persona.
+description: >-
+  Three-part performance in which I explore the act of partying as a form of
+  personal identity work, in relation to gender and privilege.
 ---
 In this early video and performance exploration, I got drunk and danced to music in front of a camera. Partying, as a social activity and personal character trait, is here isolated for observation. With this action, I wanted to investigate why I adopt this character in real life as a young privileged white person. In contrast, I was also interested in how drinking alcohol can and was, at times, an empowering act as a woman as it allows me to take ownership over this very male-entitled activity and performance. 
 
