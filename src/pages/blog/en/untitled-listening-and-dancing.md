@@ -5,7 +5,9 @@ locale: en
 pageKey: page_blogpost
 title: 'Untitled: Listening and Dancing'
 date: 1961-06-26T17:03:00.000Z
-description: Documentary work commission on a dance project and atypical listening.
+description: >-
+  Commissioned non-fiction multimedia production on atypical listening and
+  dance.
 ---
 In this documentary creation, choreographer Sara Hanley invited me to document her collaborative dance project entitled 'Corps Perceptifs' with individuals belonging to the Deaf and hard of hearing communities of Montreal. Together as a group, along with a professional dancer, music composer, and writer, we explored ways of dancing (and in my case, ways of documenting) that are meaningful for an atypical sensory sensitivity. Through the use of portable recording video devices (iPods), audio recordings of movement rather than speech, tactile and vibration camera work, and LSQ live translation for interviewing, I was able to gather visual, audio, and tactile content that enacted how one doesn't need typically hear in order to dance, move and listen. 
 
