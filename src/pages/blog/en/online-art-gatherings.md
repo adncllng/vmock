@@ -17,4 +17,38 @@ Isolation during the pandemic takes on a whole other dimension if you've just ma
 
 I have been invited to contribute to this pivot. I hope that these bi-weekly gatherings will allow many times, spaces, and states to recharge together and continue.
 
-\*This is a work in progress, more images will follow in months to come.
+\* Below are images that document an Art Gathering in early August in Parc Jarry with the group of women. It was the first time since April that we gathered face-to-face rather than face-to-screen. It was powerful to be in proximity of one another, and to engage together in action-thinking-and-taking, as art, as women, in public space. 
+
+Thank you F, M, R, L and H for your openness and attentive contributions.
+
+![](/img/art_gathering_-3_muriel_03.jpeg)
+
+![](/img/art_gathering_-3_hanna_01.jpeg)
+
+![](/img/art_gathering_-3_rose_03.jpeg)
+
+![](/img/art_gathering_-3_laurie_03.jpeg)
+
+![](/img/art_gathering_-3_fedaa_01.jpeg)
+
+![](/img/art_gathering_-3_hanna_02.jpeg)
+
+![](/img/art_gathering_-3_fedaa_03.jpeg)
+
+![](/img/art_gathering_-3_muriel_02.jpeg)
+
+![](/img/art_gathering_-3_rose_01.jpeg)
+
+![](/img/art_gathering_-3_rose_05.jpeg)
+
+![](/img/art_gathering_-3_laurie_01.jpeg)
+
+![](/img/art_gathering_-3_fedaa_04.jpeg)
+
+![](/img/art_gathering_-3_traces_of_gathering_01.jpeg)
+
+![](/img/art_gathering_-3_fedaa_05.jpeg)
+
+![](/img/art_gathering_-3_traces_of_gathering_06.jpeg)
+
+![](/img/image4-copy.jpeg)
