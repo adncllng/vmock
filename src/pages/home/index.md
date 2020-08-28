@@ -34,6 +34,10 @@ For more information on Veronica's art, pedagogy, and activism, as well as her w
 
 Check out [_Visible Art Collective's website_](http://visibleart.ca/) and [_Womxn Walk the Walk's blog_](https://womenwalkmontreal.tumblr.com/) for more information on initiatives she's involved in. 
 
+****
+
+****
+
 **Recent Press Coverage**
 
 [_Inauguration de l'œuvre «Pavillon» de l'artiste Veronica Mockler_](https://soundcloud.com/envol-91/inauguration-de-luvre-pavillon-de-lartiste-veronicapierre), ENVOL 91 FM (fr)
