@@ -1,14 +1,13 @@
 ---
-image: /img/irish_hunger_strike.jpg
+image: /img/zoom-ensemble.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
-title: 1981 Irish Hunger Strike Commemoration
-date: 1951-09-16T13:28:00.000Z
+title: Employee training on Socially Engaged Art
+date: 1951-09-17T13:28:00.000Z
 description: >-
-  Created a video work on a historical instance of Quebec's anti-colonial
-  resistance. I dug out beautiful archives and interviewed activist Kevin
-  Callahan on the support that manifested in Tiohtià:ke (Montreal) during the
-  80s for the Irish prisoners' Five Demands.
+  Gave a talk/training to employees of the Ensemble Foundation in Tiohtià:ke. We
+  explored my use of conceptual art and video art as opportunities for
+  self-determination, specifically with youth in schools.
 ---
 .
