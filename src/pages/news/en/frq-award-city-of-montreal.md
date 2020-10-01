@@ -3,7 +3,7 @@ image: /img/frq.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
-title: FRQ Award + City of Montreal
+title: FRQ Award
 date: 1950-09-16T13:28:00.000Z
 description: >-
   Honoured to be working in collaboration with the City of Montreal, Concordia
