@@ -10,6 +10,6 @@ description: >-
   University and Institut National de la Recherche Scientifique to co-create
   media art-based work that will convey the needs of marginalized communities in
   relation to racial and social profiling by policing, health and education
-  entities in Montreal.
+  institutions.
 ---
 .
