@@ -24,21 +24,21 @@ Veronica's research is supported by the Acts of Listening Lab (Centre for Oral H
 
 **Artist Statement**
 
-I collaborate with people so that they can, themselves, speak about their reality in different public settings. I work on projects in and out of the gallery space by collaborating with individuals in the white cube and by summoning different audiences to listen to these same individuals in alternative spaces. I hope that my work can fill part of the gap that technology creates between real human connection and virtual media connectedness. I personally hold any art production socially accountable and thereby dedicate my practice to the deactivation of colonial, neoliberal, and individualistic structures and predispositions. I am a straight, cis, neurotypical, and able-bodied white woman, descendent of Irish immigrants and French settlers. Today, this position comes with many privileges. Every day, I try to work towards better understanding my position and its implication on art-making, labor, and collaboration with other people. The practice of presenting discourse that is not mine is an ethically, politically, and aesthetically complex endeavor — I learn from this complexity every day.
+I collaborate with people so that they can, themselves, speak about their reality in different public settings. I work on projects in and out of the gallery space by collaborating with individuals in the white cube and by summoning different audiences to listen to these same individuals in alternative spaces. I hope that my work can fill part of the gap that technology creates between real human connection and virtual media connectedness. I personally hold any art production socially accountable and thereby dedicate my practice to the deactivation of colonial, capitalist, and patriarchal legacies and perpetuations. I am a straight, cis, neurotypical, and able-bodied white woman, descendent of Irish immigrants and French settlers. Today, this position comes with many privileges. Every day, I try to work towards better understanding my position and its implication on art-making, labour, and collaboration with other people. The practice of presenting discourse that is not mine is an ethically, politically, and aesthetically complex endeavour — I learn from this complexity every day.
 
 My artistic contributions would not be possible if it weren't for the mobilizing and multifaceted contributions of the people I collaborate with who are not so-called 'artists'. Therefore, any financial (or capitalizable) compensation that stems from our work together is shared between collaborators and me, in an attentive, transparent, and deliberate manner that makes sense with the specifics of each unique collaboration. 
 
-**Curriculum Vitae**
+**Curriculum Vitae (click on italics for link)**
 
 For more information on Veronica's art, pedagogy, and activism, as well as her work's press coverage, [_please click here (CV)_](https://drive.google.com/file/d/12vvM0hjbO3XGAag1FLyTr5xoK0rfGQxU/view)**.**
 
 Check out [_Visible Art Collective's website_](http://visibleart.ca/) and [_Womxn Walk the Walk's blog_](https://womenwalkmontreal.tumblr.com/) for more information on initiatives she's involved in. 
 
-****
+- - -
 
-****
+- - -
 
-**Recent Press Coverage**
+**Recent Press Coverage (click on italics for link)**
 
 [_Inauguration de l'œuvre «Pavillon» de l'artiste Veronica Mockler_](https://soundcloud.com/envol-91/inauguration-de-luvre-pavillon-de-lartiste-veronicapierre), ENVOL 91 FM (fr)
 
