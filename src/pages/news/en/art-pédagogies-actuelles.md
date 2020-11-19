@@ -6,9 +6,8 @@ pageKey: page_newspost
 title: ART + PÉDAGOGIES ACTUELLES
 date: 1947-10-11T14:28:00.000Z
 description: >-
-  Honoured to be presenting a documentary essai I created in conversation with
-  Montrealers belonging to the Deaf & Hard of Hearing community and
-  choreographer Sara Hanley on dance, sensory normativity and lingering
-  practices of exclusion.
+  Honoured to be talking about my documentary essai with choreographer Sara
+  Hanley on her collaboration with Montrealers belonging to the Deaf & Hard of
+  Hearing community.
 ---
 .
