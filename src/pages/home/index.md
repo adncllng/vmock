@@ -30,7 +30,7 @@ My artistic contributions would not be possible if it weren't for the mobilizing
 
 **Curriculum Vitae (click on italics for link)**
 
-For more information on Veronica's art, pedagogy, and activism, as well as her work's press coverage, [_please click here (CV)_](https://drive.google.com/file/d/1xP7azuEYlgwGQWYVufi78kl05ZQXOu6m/view?usp=sharing)_._
+For more information on Veronica's art, pedagogy, and activism, as well as her work's press coverage, [_please click here (CV)_](https://drive.google.com/file/d/1Nsb9cdhXtclpKc9xUGBYAmbQBRwa2KLx/view?usp=sharing)_._
 
 Check out [_Visible Art Collective's website_](http://visibleart.ca/) and [_Womxn Walk the Walk's blog_](https://womenwalkmontreal.tumblr.com/) for more information on initiatives she's involved in. 
 
