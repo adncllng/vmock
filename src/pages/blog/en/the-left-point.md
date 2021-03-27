@@ -1,5 +1,5 @@
 ---
-image: /img/screen-shot-2019-09-16-at-10.10.36-am.png
+image: /img/leftie.jpg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
