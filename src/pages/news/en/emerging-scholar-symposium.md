@@ -8,6 +8,6 @@ title: 'Emerging Scholar Symposium '
 date: 1945-04-07T02:31:00.000Z
 description: >-
   Presenting where my unscripted listening has led me over the years in
-  collaboration, research and practice in conference next week!
+  collaboration, research, art practice and activism in conference next week!
 ---
 .
