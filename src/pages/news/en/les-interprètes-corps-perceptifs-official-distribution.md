@@ -6,8 +6,8 @@ pageKey: page_newspost
 title: Les Interprètes & Corps Perceptifs - Official Distribution
 date: 1932-09-21T17:28:00.000Z
 description: >-
-  Officially distributed by pioneering Groupe Intervention Vidéo. GIV is one of
-  the rare artist-run centres in the world dedicated to the promotion of video
-  artworks made by women, in its most inclusive definition.
+  Officially distributed by Groupe Intervention Vidéo, one of the rare
+  artist-run centres in the world dedicated to the promotion of video artworks
+  made by women, in its most inclusive definition.
 ---
 .
