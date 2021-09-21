@@ -5,6 +5,14 @@ locale: en
 pageKey: page_blogpost
 title: 'Found In Translation '
 date: 1957-09-21T18:46:00.000Z
-description: .
+description: 'Video performance on listening, intersectionality and translation. '
 ---
-I invited three of my dear collaborations, sound artist Amanda Gutiérrez, performance artist Florencia Sosa Rey and social worker Joanna Guillaume to come together to embody the reality of listening and intersectionality. In this conversation between two womxn who speak different languages, two trusted friends (Sosa Rey and myself) take on the role of live translators and attempt to communicate in real-time, the spoken experience of each participant. The palpable trust between us, which has been nurtured over two years of getting to know each other and collaboration, allows for a specific type of storytelling and interpretation to take place; a fertile ground for my interest in the pedagogical and artistic properties of unscripted listening and speaking.
+I invited three of my dear collaborators, sound artist Amanda Gutiérrez, performance artist Florencia Sosa Rey and social worker Joanna Guillaume to come together to embody the reality of listening and intersectionality. In this conversation between two women who speak different languages, two trusted friends (Sosa Rey and myself) take on the role of live translators and attempt to communicate in real-time, the spoken experiences of each woman. The palpable trust between us — a rapport that has been nurtured over two years of getting to know each other through interdisciplinary and intercultural collaboration —  allows for a specific type of storytelling and interpretation to take place; a fertile ground for my interest in the pedagogical and artistic properties of interpersonal listening and speaking.
+
+Online screening of “Found In Translation” as part of Biannual Summer Institute "Embodied Stories: Gender, The Body, and Oral History" by Scottish Oral History Centre, Glasgow, Scotland and Centre for Oral History and Digital Storytelling, Montreal, Canada. 
+
+“Found In Translation” premiered in SBC Gallery in Montreal as part Paper Noise exhibition by artist-in-residence Amanda Gutierrez. 
+
+![](/img/cohds-scottish.jpg)
+
+![](/img/20210427_164600.jpg)
