@@ -14,9 +14,7 @@ Veronica Mockler was born in 1991 on unceded Indigenous Land, today known as Que
 
 I hold any practice of representation socially accountable and thereby dedicated my own to disarming colonial, capitalist and patriarchal systems. I am a cis straight white neurotypical and non-disabled woman. This position comes with many privileges. Every day I work towards better understanding my responsabilities as well as my position's implication on collective knowledge-making, art-making, and labour. I hope that my work can fill part of the gap that technology creates between real human interaction and virtual media connectedness. I could not do my work if weren't for the generous, transformative, and multifaceted contribution of my collaborators. Therefore, any material and financial compensation that stems from our work together is shared between collaborators and me, in a way that is mutually informed and deliberately transparent, according to each collaboration's specificities. 
 
-**Curriculum Vitae (click on italics for link)**
-
-For more information on Veronica's art, pedagogy, and activism, as well as her work's press coverage, [_please click here (CV)_](https://drive.google.com/file/d/1Nsb9cdhXtclpKc9xUGBYAmbQBRwa2KLx/view?usp=sharing)_._
+**Curriculum Vitae (click** [_**here**_](https://drive.google.com/file/d/1CEV12T_mN54xtjANumcH02qnlPuzjqpq/view?usp=sharing)**)**
 
 Check out [_Visible Art Collective's website_](http://visibleart.ca/) and [_Womxn Walk the Walk's blog_](https://womenwalkmontreal.tumblr.com/) for more information on initiatives she's involved in. 
 
