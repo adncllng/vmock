@@ -12,9 +12,7 @@ Veronica Mockler was born in 1991 on unceded Indigenous Land, today known as Que
 
 **Artist Statement**
 
-I hold any practice of representation socially accountable and thereby dedicated my own to disarming colonial, capitalist and patriarchal value systems. I am a cis straight white neurotypical and non-disabled woman. This position comes with many privileges. Every day I work towards better understanding my responsabilities and my position's implication on collective knowledge-making, art-making, and labour. I hope that my work can fill part of the gap that technology creates between real human interaction and virtual media connectedness. 
-
-I could not do my work if weren't for the generous, mobilizing, and multifaceted contribution of my collaborators. Therefore, any material and financial compensation that stems from our work together is shared between collaborators and me, in a way that is collaboratively and deliberately transparent, according to each work's specificities. 
+I hold any practice of representation socially accountable and thereby dedicated my own to disarming colonial, capitalist and patriarchal systems. I am a cis straight white neurotypical and non-disabled woman. This position comes with many privileges. Every day I work towards better understanding my responsabilities as well as my position's implication on collective knowledge-making, art-making, and labour. I hope that my work can fill part of the gap that technology creates between real human interaction and virtual media connectedness. I could not do my work if weren't for the generous, transformative, and multifaceted contribution of my collaborators. Therefore, any material and financial compensation that stems from our work together is shared between collaborators and me, in a way that is mutually informed and deliberately transparent, according to each collaboration's specificities. 
 
 **Curriculum Vitae (click on italics for link)**
 
