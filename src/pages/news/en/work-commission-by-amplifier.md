@@ -6,8 +6,8 @@ pageKey: page_newspost
 title: Commission by ethnographer group Amplifier!
 date: 2003-08-31T01:41:00.000Z
 description: >-
-  Collaborating on artwork with Montreal residents on the Right to Housing in
-  Côtes-des-Neiges borough. This ethno-documentary performance will feature
-  tenants, property owners, inspectors, activists, city planners, and more!
+  Co-creating an ethno-documentary performance on the Right to Housing in
+  Côtes-des-Neiges with tenants, property owners, inspectors, activists, and
+  city planners.
 ---
 .
