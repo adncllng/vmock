@@ -5,7 +5,9 @@ locale: en
 pageKey: page_blogpost
 title: Person in Common
 date: 1955-02-04T21:11:00.000Z
-description: Collaborative research-creation study on the interview experience of strangers
+description: >-
+  Collaborative research-creation study on the interview experience of
+  strangers.
 ---
 Together with community collaborators Azzouz, Joanna, Kevin and Sheida, we investigated the practice of life story interviewing between strangers. In this documentary three-channel, video installation viewers of the work become listeners of what this interview experience has meant to those involved rather than being given access to their actual interviews.
 
@@ -14,12 +16,6 @@ This work was presented as part of my Master of Arts in Fine Arts thesis and was
 _Without Azzouz, Joanna, Kevin and Sheida's expertise, generosity, openness and trust, this work would not have been possible._
 
 _Thank you to Alana DeVito, Josue Moncada and Roby Provost-Blanchard for their precious technical help._  
-
-
-
-
-
-
 
 ![](/img/screen-shot-2021-11-07-at-6.50.53-pm.jpeg)
 
