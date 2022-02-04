@@ -7,7 +7,7 @@ title: Listing 01
 date: 1974-01-01T14:53:00.000Z
 description: 'Performance in which I talk about who I am, and who I am not.'
 ---
-The First Listing is a performance part of a series developed initially in 2012. During this live performance, I list aloud everything that I am and everything that I am not in front of an audience. This exercise provokes accountability and is crucial in maintaining perspective, humility and attentiveness over time — knowing and stating publicly where I came from and where I am now, guides where you want to go. In the next phases of this ongoing project, I intend on expanding the process and inviting other individuals to participate. 
+The First Listing is a performance part of a series developed initially in 2012. During this live performance, I list aloud everything that I am and everything that I am not in front of an audience. This public articulation enables an interesting kind of positioning and accountability in that it allows me to maintain perspective, humility and attentiveness over time. Knowing and stating publicly where I came from and where I am now, guides where I should go. In the next phases of this ongoing project, I intend on expanding the process and inviting other individuals to participate. 
 
 This performance's iteration was presented at Concordia University in January 2012.
 
