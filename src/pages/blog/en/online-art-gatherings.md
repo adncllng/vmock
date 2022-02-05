@@ -1,5 +1,5 @@
 ---
-image: /img/art_gathering_01_no_names_b.jpg
+image: /img/art_gathering_-3_muriel_03.jpeg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
@@ -21,7 +21,7 @@ I have been invited to contribute to this pivot. I hope that these bi-weekly gat
 
 Thank you F, M, R, L and H for your openness and attentive contributions.
 
-![](/img/art_gathering_-3_muriel_03.jpeg)
+![](/img/art_gathering_01_no_names_b.jpg)
 
 ![](/img/art_gathering_-3_hanna_01.jpeg)
 
