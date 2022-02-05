@@ -4,7 +4,7 @@ templateKey: news-post
 locale: en
 pageKey: page_newspost
 title: Three-channel video installation opening in ALLAB
-date: 2022-02-05T19:17:19.857Z
+date: 1919-02-05T19:17:00.000Z
 description: >-
   Join me on December 14 and 15, 2021 for the unveiling of Person in Common, the
   artwork resulting from my collaborative research-creation process.
