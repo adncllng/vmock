@@ -6,10 +6,10 @@ pageKey: page_blogpost
 title: Pavillon
 date: 1960-01-01T18:00:00.000Z
 description: >-
-  Artist-in-Residence at Maison des Artistes (Winnipeg, MA) for community-based
-  creation.
+  Community-based voicings and media performances with residents of
+  Saint-Boniface and Maison des Artistes Visuels (Winnipeg, MA)
 ---
-In Winnipeg, eleven established and newly arrived Franco-Manitobans participated in a series of workshops that were developed and facilitated by myself in collaboration with pedagogue Yves Amyot from _Centre Turbine_ (Montreal, QC). I was invited as an Artist-in-Residence at the Maison des Artistes to conduct a series of workshops with members of the French-speaking community of Winnipeg. During the workshops, participants and I talked about our personal experience and identity as francophones. Looking at 'la francophonie' through the lens of conflict, de/colonialism, migration, family and culture, I collected different types of media, audio-visual and performative content that features the life-chapters and convictions of each participant. 
+In Winnipeg, eleven established and newly arrived Franco-Manitobans participated in a series of workshops that were developed and facilitated by myself in collaboration with pedagogue Yves Amyot from _Centre Turbine_ (Montreal, QC). I was invited as an artist-in-residence at the Maison des Artistes Visuels to conduct a series of workshops with members of the French-speaking community of Winnipeg. During the workshops, participants and I talked about our personal experience and identity as francophones. Looking at 'la francophonie' through the lens of conflict, de/colonialism, migration, family and culture, I collected different types of media, audio-visual and performative content that features the life-chapters and convictions of each participant. 
 
 I was invited to go back to Winnipeg's Maison de Artistes in December 2019 to present Pavillon, which consists of a video articulation of the media and storytelling we produced during my residency.
 
