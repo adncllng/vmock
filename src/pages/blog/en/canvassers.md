@@ -6,10 +6,10 @@ pageKey: page_blogpost
 title: Canvassers
 date: 1967-01-01T18:00:00.000Z
 description: >-
-  Video performance on the political potential of impromptu face-to-face
-  self-revelation.
+  Video performance in which listening to someone's life experience takes on a
+  whole new meaning.
 ---
-I asked friends Mich and Marshall to share a personal story in front of a camera. Both of them arrive at a unified understanding of events when one’s story is orally taken on by the other. Part performance, part documentary, this continuous one-shot 15-minute video was created in response to scientific findings I've stumbled upon that demonstrate that a 10-minute active one-on-one conversation between two strangers can durably reduce longstanding ingrained prejudice.¹ ([click _here_ for study](https://drive.google.com/file/d/0B_d54y2l0_NaRUdBcENwbThZRmM/view?usp=sharing)). These findings inspired this video-performance in addition to bringing the first empirical premise to my recurring exploration of human interaction as an art practice and literal method for social-political transformation.
+I asked friends Mich and Marshall to share a personal story in front of a camera. Both of them arrive at a unified understanding of events when they orally repeat the experience the other has just shared. Part performance, part documentary, this continuous one-shot 15-minute video was created in response to scientific findings I've stumbled upon that demonstrate that a 10-minute active one-on-one conversation between two strangers can durably reduce longstanding ingrained prejudice.¹ ([click _here_ for study](https://drive.google.com/file/d/0B_d54y2l0_NaRUdBcENwbThZRmM/view?usp=sharing)). These findings inspired this video-performance in addition to bringing the first empirical premise to my recurring exploration of human interaction as an art practice and literal method for social-political transformation.
 
 Canvassers premiered in a solo exhibition curated by Christophe Barbeau in Redd Flagg Gallery in Toronto ON, Canada on February 2017.
 
