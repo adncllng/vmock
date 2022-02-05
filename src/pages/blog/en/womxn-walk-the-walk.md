@@ -1,5 +1,5 @@
 ---
-image: /img/screen-shot-2019-11-17-at-2.53.54-pm.jpeg
+image: /img/tumblr_51e4ef4422790a360036ac89f85f9d0c_176cdeef_1280.jpeg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
@@ -15,11 +15,11 @@ _Womxn Walk the Walk is the sister initiative of Brooklyn League of Women Walker
 
 The following images document some of the performances and workshops that WWW has led with community stakeholders, other artists and academics. 
 
-![](/img/FILIPINO.jpg)
+![](/img/185632064_599395917702121_7729460377548690307_n.jpeg)
 
-![]()
+![](/img/186480983_1246357669100789_1273365024413881465_n.jpeg)
 
-![]()
+![](/img/tumblr_cfd6154c29f7ca80450030945149adce_ad275996_2048.jpeg)
 
 ![](/img/p1190924-copy.jpg)
 
@@ -29,7 +29,9 @@ The following images document some of the performances and workshops that WWW ha
 
 ![](/img/screen-shot-2019-11-17-at-12.51.09-pm.png)
 
-![](/img/screen-shot-2019-11-17-at-12.53.28-pm.jpeg)
+![](/img/screen-shot-2019-11-17-at-2.53.54-pm.jpeg)
+
+![](/img/vmockler_jguillaume_speech_act_04.jpg)
 
 ![](/img/screen-shot-2019-11-17-at-1.03.23-pm.jpeg)
 
