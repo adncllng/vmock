@@ -8,6 +8,6 @@ date: 1918-02-05T19:17:00.000Z
 description: >-
   Thrilled to be giving a workshop next month in UNION DOCS on documentary
   performance as collaborative action. Thank you to curator Amanda Gutierrez for
-  the amazing invite.
+  the amazing invitation.
 ---
 .
