@@ -3,7 +3,7 @@ image: /img/screen-shot-2019-03-06-at-12.00.25-am.jpg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
-title: 'Untitled: Listening and Dancing'
+title: 'Sensory diversity, Dancing and Listening'
 date: 1961-06-26T17:03:00.000Z
 description: 'Collaborative non-fiction multimedia video on dance and sensory-diversity. '
 ---
