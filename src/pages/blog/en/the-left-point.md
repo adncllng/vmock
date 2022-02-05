@@ -6,7 +6,7 @@ pageKey: page_blogpost
 title: The Left Point in Belfast
 date: 1966-01-01T18:00:00.000Z
 description: >-
-  Video performance in which strangers try to disagree with one another,
+  Video performance in which strangers try to disagree with one another
   genuinely.
 ---
 During a one-month-long autonomous residency in Belfast (North of Ireland), I devised an experiment in which I invited 10 individuals (including myself) to take part in a 'disagreement performance'. Randomly paired up, strangers and acquaintances were asked to sit in front of a camera and attempt to disagree with one another. No particular subject matter was suggested for the discussion. Instead, each team had to reach a point of disagreement intuitively through the exchange of personal ideas and opinions. The sole instruction I gave was that we should try to discuss something that truly mattered to us, individually. 
