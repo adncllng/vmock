@@ -1,5 +1,5 @@
 ---
-image: /img/strath_main.jpeg
+image: /img/cohds-scottish.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
