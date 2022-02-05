@@ -6,8 +6,8 @@ pageKey: page_blogpost
 title: The Act of Being Seen / Two Studies
 date: 1979-09-16T15:09:00.000Z
 description: >
-  Two video studies that question the biased act of being seen in relation to
-  gender and race.
+  Two video studies question the biased act of being seen in relation to gender
+  and whiteness.
 ---
 In this early work, I was attempting to explore how gaze (the act of being seen) varies according to which body is looking.
 
