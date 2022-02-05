@@ -6,14 +6,16 @@ pageKey: page_blogpost
 title: Athléimneacht
 date: 1964-01-01T18:00:00.000Z
 description: >
-  Ongoing oral history research and creation with Susana Hennessey and Bobby
+  Ongoing oral history research-creation project with Susana Hennessey and Bobby
   Lavery.
 ---
-Athléimneacht is an ongoing project I am slowly developing during my visits to the north of Ireland, and the north of California. I am documenting the stories of resistance and resilience of Bobby and Susana Lavery, a retired republican Irish-American couple I met by chance in an Icelandic airport in February 2017. Since our initial encounter, I have traveled to Belfast to spend time with, and learn from, Susana and Bobby. In this multifold and interdisciplinary work, I am drawing from reflections and practices belonging to the socialist and radical genealogy of oral history, popular education and socially engaged art. ¹ 
+Athléimneacht is an ongoing project I am developing around the life experiences of Bobby Lavery and Susana Hennessey, a retired Irish Republican couple I met by chance in an Icelandic airport in February 2017. Since our initial encounter, I have traveled to Belfast to spend time with, and learn from, Susana and Bobby. In this multifold and interdisciplinary work, I am drawing from practices belonging to the socialist and radical genealogy of oral history, popular education and socially engaged art. ¹ 
 
-Among many other things, Bobby is a former North Belfast Sinn Féin City Councillor (elected 3 terms) and a sentenced Long Kesh prisoner. During the conflict in the north of Ireland, Bobby’s 21-year old son was murdered by two Loyalist gunmen. Bobby's lifelong dedication to the Republican struggle in the North, as well as his radical militancy for class equality is one pillar of this oral history-based project. For her part, Susana is a woman who has been recognized in California for her instrumental role in the implementation of programs for Public Health Equity and Social Justice in the San Francisco Bay area. She was a former supervisor at La Clinica de La Raza, an activist-led multi-service clinic that provides healthcare to low-income and undocumented Latino residents of the East Bay area in Oakland. Susana’s first husband died of HIV/AIDS during their 7th year of marriage. Her personal resilience, advocacy, and generosity are at the heart of this collaborative project.
+Among many other things, Bobby is a former North Belfast Sinn Féin City Councillor (elected 3 terms) and a sentenced Long Kesh prisoner. During the conflict in the north of Ireland, Bobby’s 21-year old son Sean was murdered by two Loyalist gunmen, as well as his brother Martin. Bobby's lifelong dedication to the Republican struggle in the North, as well as his radical militancy for class equality is at the centre of this oral history-based project.
 
-A sound installation imagined around this ongoing work was shown part of the international symposium Listening, Performance, and Conflict, held at Concordia University in November 2019 in the Acts of Listening Lab at the Centre for Oral History and Digital Storytelling.
+For her part, Susana is a woman who has been recognized in California for her instrumental role in the implementation of programs for Public Health Equity and Social Justice in the San Francisco Bay area. She was a former supervisor at La Clinica de La Raza, an activist-led multi-service clinic that provides healthcare to low-income and undocumented Latinx residents of the East Bay area in Oakland. Susana’s first husband died of HIV/AIDS during their 7th year of marriage. Her expertise, allyship, mentorship and pedagogy are at the heart of my learning.
+
+A sound installation imagined around this ongoing work was shown as part of the international symposium Listening, Performance, and Conflict, held at Concordia University in November 2019 in the Acts of Listening Lab at the Centre for Oral History and Digital Storytelling.
 
 _1. (Kerr, Daniel. “Allan Nevins Is Not My Grandfather: The Roots of Radical Oral History Practice in the United States,” Oral History Review 43, 2 (2016), 367–391.)_
 
