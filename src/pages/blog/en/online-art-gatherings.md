@@ -1,13 +1,13 @@
 ---
-image: /img/art_gathering_-3_muriel_03.jpeg
+image: /img/art_gathering_-3_muriel_11111.jpg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: Online Art Gatherings
 date: 1958-06-03T17:45:00.000Z
 description: >-
-  Art Gatherings with a group of women in collaboration with a migrant rights
-  organization.
+  Art Gatherings with a group of women in collaboration with migrant rights
+  organization ARM.
 ---
 I began a series of online gatherings with women who are part of Action Réfugiés Montréal's twinning program, in which a newly arrived woman seeking asylum in Canada (Montreal) is paired with a woman who has lived in Montreal for some years. In this work, I am interested in what it means to gather (online) for the sake of art; of art-making. I am attentive to my role as a 'facilitator' and look at how this responsability can be understood as an art practice in and of itself, as a collaborative performance, as an enactment of social engagement and collective support. 
 
