@@ -153,7 +153,7 @@ const unTemplateWrapper = ({
                     border: "solid 2px black"
                   }}
                 >
-                  <h1 style={{ margin: "0", fontSize: "1vw", fontFamily: "'Oswald', sans-serif" }}>© 2020</h1>
+                  <h1 style={{ margin: "0", fontSize: "1vw"}}>© 2022</h1>
                 </div>
               </div>
             </ParallaxProvider>

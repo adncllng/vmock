@@ -1,7 +1,7 @@
 ---
 pageKey: page_home
 locale: en
-seo_title: Homepage Title EN
+seo_title: VERONICA MOCKLER
 seo_desc: Biography
 title: Home en
 text: Some content en
