@@ -14,7 +14,7 @@ Veronica Mockler was born in 1991 on unceded Indigenous Land that is today known
 
 I hold the act of representation socially accountable and thereby dedicate my practice to anti-oppression struggles. I am a cis straight white neurotypical and non-disabled woman. This position comes with many privileges. Every day I work towards better understanding my responsabilities as an artist in solidarity. I could not do my work if weren't for the multifaceted expertise and generosity of the people I collaborate with. Any financial and material compensation that stems from our work together is shared between collaborators and me, through a transparent and mutual deliberation process, according to our collaborations' specificities. 
 
-**__**[**_Curriculum Vitae_**](https://drive.google.com/file/d/1_BVz9B7jYhhOtxEgWyOKmY8bvVWjG2Ae/view?usp=sharing)**__**
+[**_Curriculum Vitae_**](https://drive.google.com/file/d/1_BVz9B7jYhhOtxEgWyOKmY8bvVWjG2Ae/view?usp=sharing)
 
 Check out [_Womxn Walk the Walk's blog_](https://womenwalkmontreal.tumblr.com/) and [_Visible Art Collective's website_](http://visibleart.ca/) for more information on collectives I am part of. 
 
