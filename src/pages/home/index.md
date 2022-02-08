@@ -8,17 +8,21 @@ text: Some content en
 ---
 **Biography**
 
-Veronica Mockler was born in 1991 on unceded Indigenous Land, today known as Quebec City, in a franco-anglo family of Irish refugee and French settler lineage. She graduated with Distinction from Concordia University (BFA Studio Arts, 2015) in  Tiohtià:ke/Mooniyang/Montréal after completing her final year of studies in the Republic of Ireland. Veronica has since returned to Tiohtià:ke/Mooniyang/Montréal where she lives, listens, learns and works as a professional socially engaged artist. Mockler is currently a student researcher at Concordia University in the Acts of Listening Lab at the Centre for Oral History and Digital Storytelling. Marginalized and working-class knowledge is at the centre of her practice in social pedagogy, non-fiction media art, oral history, and performance art. Her work has taken shape in exhibitions, publications, festival screenings, conferences, workshops, and within community, public and governing institutions, most often in Canada, with specific events in Uruguay, Germany, Scotland, the North of Ireland, and the United States.
+Veronica Mockler was born in 1991 on unceded Indigenous Land that is today known as Quebec city. She comes from a bilingual family of Irish refugee and French settler lineage. Veronica graduated with distinction from Concordia University (BFA Studio Arts, 2015) after completing her final year of studies in Ireland. Veronica has since returned to Tiohtià:ke, Mooniyang, Montréal where she lives, learns and works as a socially engaged artist. Currently she is a student researcher (MA in Fine Arts - Indi, 2019) in the Acts of Listening Lab of Concordia University's Centre for Oral History and Digital Storytelling.
+
+The representaton of marginalized and working-class knowledge is at the centre of Veronica's practice in social pedagogy, non-fiction media art, oral history, and performance art. Her collaborative work has taken shape in Uruguay, Germany, Scotland, the North of Ireland, the United States and Canada.
 
 **Artist Statement**
 
-I hold any practice of representation socially accountable and thereby dedicated my own to disarming colonial, capitalist and patriarchal systems. I am a cis straight white neurotypical and non-disabled woman. This position comes with many privileges. Every day I work towards better understanding my responsabilities as well as my position's implication on collective knowledge-making, art-making, and labour. I hope that my work can fill part of the gap that technology creates between real human interaction and virtual media connectedness. I could not do my work if weren't for the generous, transformative, and multifaceted contribution of my collaborators. Therefore, any material and financial compensation that stems from our work together is shared between collaborators and me, in a way that is mutually informed and deliberately transparent, according to each collaboration's specificities. 
+I hold the act of representation socially accountable and thereby dedicate my practice to anti-oppression stuggles. I am a cis straight white neurotypical and non-disabled woman. This position comes with many privileges. Every day I work towards better understanding my responsabilities as an artist in solidarity. I could not do my work if weren't for the multifaceted expertise and generosity of the people I collaborate with. Any financial and material compensation that stems from our work together is shared between collaborators and me, through a transparent and mutual deliberation process, according to our collaborations' specificities. 
 
-**Curriculum Vitae (click** [_**here**_](https://drive.google.com/file/d/1CEV12T_mN54xtjANumcH02qnlPuzjqpq/view?usp=sharing)**)**
+## _****_[_**Curriculum Vitae**_](https://drive.google.com/file/d/1_BVz9B7jYhhOtxEgWyOKmY8bvVWjG2Ae/view?usp=sharing) _****_
 
-Check out [_Visible Art Collective's website_](http://visibleart.ca/) and [_Womxn Walk the Walk's blog_](https://womenwalkmontreal.tumblr.com/) for more information on initiatives she's involved in. 
+Check out [_Womxn Walk the Walk's blog_](https://womenwalkmontreal.tumblr.com/) and [_Visible Art Collective's website_](http://visibleart.ca/) for more information on collectives I am part of. 
 
-**Recent Press Coverage (click on italics for link)**
+**Recent Press Coverage**
+
+__[_Faire preuve de créativité pour lutter contre les rénovictions_](https://laconverse.com/faire-preuve-de-creativite-pour-lutter-contre-les-renovictions/), LA CONVERSE (fr)
 
 [_Inauguration de l'œuvre «Pavillon» de l'artiste Veronica Mockler_](https://soundcloud.com/envol-91/inauguration-de-luvre-pavillon-de-lartiste-veronicapierre), ENVOL 91 FM (fr)
 
