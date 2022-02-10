@@ -7,9 +7,8 @@ title: Found In Translation
 date: 1938-05-10T20:57:00.000Z
 description: >-
   Gallery takeover at SBC by artist-in-residence Amanda Gutierrez allowed for
-  the creation of most recent performance "Found in Translation". I explored my
-  methodology of the unscripted with Joanna Guillaume, Florencia Sosa Rey and
-  Amanda herself. We investigated what it feels like to embody plurilingual
+  the creation of most recent performance "Found in Translation". My methodology
+  of the unscripted is explored by Womxn Walk the Walk and set the stage for
   intersectional listening.
 ---
 .
