@@ -12,32 +12,32 @@ Veronica Mockler (she/her) is a socially engaged artist living in Tiohtià:ke, M
 
 **Artist Statement**
 
- I hold the act of representation socially accountable and thereby dedicate my practice to anti-imperialist and anti-capitalist struggles. I am a cis straight white neurotypical and non-disabled woman. This position comes with many privileges. Every day I work toward better understanding my responsabilities as an artist in solidarity with other realities. I could not do my work if weren't for the multifaceted expertise and generosity of the people I collaborate with. Any financial and material compensation that stems from my collaborative work is shared between collaborators and me, through a transparent and mutual deliberation process, according to the collaboration specificities. 
+I hold the act of representation socially accountable and thereby dedicate my practice to anti-imperialist and anti-capitalist struggles. I am a cis straight white neurotypical and non-disabled woman. This position comes with many privileges. Every day I work toward better understanding my responsabilities as an artist in solidarity with other realities. I could not do my work if weren't for the multifaceted expertise and generosity of the people I collaborate with. Any financial and material compensation that stems from my collaborative work is shared between collaborators and me, through a transparent and mutual deliberation process, according to the collaboration specificities. 
 
 **Collectivity**
 
-Project Someone's [_Innovative Social Pedagogy_](https://projectsomeone.ca/isp/) & [_Landscape of Hope_](https://projectsomeone.ca/landscapeofhope)__\
-__[_Centre for Oral History and Digital Storytelling_](https://storytelling.concordia.ca/veronica-mockler/) & [_Acts of Listening Lab_](https://www.concordia.ca/finearts/research/labs/acts-of-listening/about.html)__\
-__[_Womxn Walk the Walk's blog_](https://womenwalkmontreal.tumblr.com/) __\
-__[_Visible Art Collective's website_](http://visibleart.ca/)__
+Project Someone's [_Innovative Social Pedagogy_](https://projectsomeone.ca/isp/) & [_Landscape of Hope_](https://projectsomeone.ca/landscapeofhope)\
+[_Centre for Oral History and Digital Storytelling_](https://storytelling.concordia.ca/veronica-mockler/) & [_Acts of Listening Lab_](https://www.concordia.ca/finearts/research/labs/acts-of-listening/about.html)\
+[_Womxn Walk the Walk's blog_](https://womenwalkmontreal.tumblr.com/) \
+[_Visible Art Collective's website_](http://visibleart.ca/)
 
 **Curriculum Vitae**
 
-__[_Curriculum Vitae - 2022 PDF_](https://drive.google.com/file/d/1_BVz9B7jYhhOtxEgWyOKmY8bvVWjG2Ae/view)__
+**[_Curriculum Vitae - 2022 PDF_](https://drive.google.com/file/d/1_BVz9B7jYhhOtxEgWyOKmY8bvVWjG2Ae/view)**
 
 **Recent Press Coverage**
 
-__[_Faire preuve de créativité pour lutter contre les rénovictions, LA CONVERSE (fr)_](https://laconverse.com/faire-preuve-de-creativite-pour-lutter-contre-les-renovictions/)__
+**[_Faire preuve de créativité pour lutter contre les rénovictions, LA CONVERSE (fr)_](https://laconverse.com/faire-preuve-de-creativite-pour-lutter-contre-les-renovictions/)**
 
-__[_Inauguration de l'œuvre «Pavillon» de l'artiste Veronica Mockler, ENVOL 91 FM (fr)_](https://soundcloud.com/envol-91/inauguration-de-luvre-pavillon-de-lartiste-veronicapierre)__
+**[_Inauguration de l'œuvre «Pavillon» de l'artiste Veronica Mockler, ENVOL 91 FM (fr)_](https://soundcloud.com/envol-91/inauguration-de-luvre-pavillon-de-lartiste-veronicapierre)**
 
-__[_Veronica Mockler sur son œuvre à la Maison des artistes visuels, RADIO-CANADA, L’actuel (fr)_](https://ici.radio-canada.ca/premiere/emissions/l-actuel/episodes/449721/rattrapage-du-mercredi-4-decembre-2019/8)__
+**[_Veronica Mockler sur son œuvre à la Maison des artistes visuels, RADIO-CANADA, L’actuel (fr)_](https://ici.radio-canada.ca/premiere/emissions/l-actuel/episodes/449721/rattrapage-du-mercredi-4-decembre-2019/8)**
 
-__[_L’art au service de la communauté francophone, LA LIBERTÉ (fr)_](https://www.la-liberte.ca/2019/08/31/lart-au-service-de-la-communaute-francophone/)__
+**[_L’art au service de la communauté francophone, LA LIBERTÉ (fr)_](https://www.la-liberte.ca/2019/08/31/lart-au-service-de-la-communaute-francophone/)**
 
-__[_Une nouvelle œuvre numérique intitulée Pavillon à la Maison des artistes, RADIO-CANADA (fr)_](https://ici.radio-canada.ca/premiere/emissions/le-6-a-9/episodes/442048/audio-fil-du-jeudi-29-aout-2019)__
+**[_Une nouvelle œuvre numérique intitulée Pavillon à la Maison des artistes, RADIO-CANADA (fr)_](https://ici.radio-canada.ca/premiere/emissions/le-6-a-9/episodes/442048/audio-fil-du-jeudi-29-aout-2019)**
 
-__[_Des nouveaux arrivants et des Franco-Manitobaines s’expriment à travers l’art, CBC ICI MANITOBA (fr)_](https://ici.radio-canada.ca/nouvelle/1279345/art-visuel-communaute-francophone-nouveaux-arrivants-franco-manitobain)__
+**[_Des nouveaux arrivants et des Franco-Manitobaines s’expriment à travers l’art, CBC ICI MANITOBA (fr)_](https://ici.radio-canada.ca/nouvelle/1279345/art-visuel-communaute-francophone-nouveaux-arrivants-franco-manitobain)**
 
 \***\*[**_Sortir les artistes de leurs locaux pour co-créer avec le public,_ RADIO-CANADA**](https://ici.radio-canada.ca/premiere/emissions/l-actuel/episodes/442008/audio-fil-du-mercredi-28-aout-2019/3)**,\*\* L’actuel (fr)
 
