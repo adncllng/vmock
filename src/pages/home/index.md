@@ -16,8 +16,8 @@ I hold the act of representation socially accountable and thereby dedicate my pr
 
 ## **Collectivity**
 
-🔗 Project Someone's [_Innovative Social Pedagogy_](https://projectsomeone.ca/isp/) & [_Landscape of Hope_](https://projectsomeone.ca/landscapeofhope)__\
-🔗 [_Centre for Oral History and Digital Storytelling_](https://storytelling.concordia.ca/veronica-mockler/) & [_Acts of Listening Lab_](https://www.concordia.ca/finearts/research/labs/acts-of-listening/people/student-researchers.html#:~:text=Veronica%20Mockler&text=She%20is%20currently%20a%20student,oral%20history%2C%20and%20performance%20art.)__\
+🔗 Project Someone's [_Innovative Social Pedagogy_](https://projectsomeone.ca/isp/) & [_Landscape of Hope_](https://projectsomeone.ca/landscapeofhope)\
+**🔗 [_Centre for Oral History and Digital Storytelling_](https://storytelling.concordia.ca/veronica-mockler/)** & **[_Acts of Listening Lab_](https://www.concordia.ca/finearts/research/labs/acts-of-listening/people/student-researchers.html#:~:text=Veronica%20Mockler&text=She%20is%20currently%20a%20student,oral%20history%2C%20and%20performance%20art.)**__\
 🔗 [_Womxn Walk the Walk's blog_](https://womenwalkmontreal.tumblr.com/)\
 🔗 [_Visible Art Collective's website_](http://visibleart.ca/)
 
@@ -43,9 +43,9 @@ _🔗_ [_Sortir les artistes de leurs locaux pour co-créer avec le public, RADI
 
 _🔗_ [_The Address Calls Montrealers to Take Action Against, THE LINK (en)_](Gentrificationhttps://thelinknewspaper.ca/article/the-address-calls-montrealers-to-take-action-against-gentrification)__
 
-\***\*[**_Trouver son adresse_**](https://www.choq.ca/nouvelles/trouver-son-adresse)**,\*\* CHOQ, Nouvelle Société (fr)
+_🔗_  [_Trouver son adresse, CHOQ, Nouvelle Société (fr)_](🔗)__
 
-\***\*[**_L’adresse : les taudis, comme si vous y viviez_\*\*](http://mi.lapresse.ca/screens/1ac03c7e-7d0d-43aa-9328-32ba29c8b0c47C_0.html), LA PRESSE, Arts et Être (fr)
+_🔗_  [_L’adresse : les taudis, comme si vous y viviez, LA PRESSE, Arts et Être (fr)_](http://mi.lapresse.ca/screens/1ac03c7e-7d0d-43aa-9328-32ba29c8b0c47C_0.html)__
 
 \***\*[**_Côte-des-Neiges residents share housing stories through art performance_\*\*](https://www.cbc.ca/news/canada/montreal/cdn-housing-experience-performance-1.5148645), CBC NEWS (en)
 
