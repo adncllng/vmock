@@ -8,22 +8,23 @@ text: BIO
 ---
 ## **Biography**
 
-Veronica Mockler (she/her) is a socially engaged artist living in Tiohtià:ke, Mooniyang, Montréal. She is currently a student-researcher at Concordia University (Master of Arts in Fine Arts, 2022) in the Individualized Program, where she works closely with Project Someone, the Acts of Listening Lab, and the Centre for Oral History and Digital Storytelling. Intersectional working-class knowledge is at the centre of her dialogic work in contemporary art (video, performance, new media), oral history, social pedagogy and documentary. Her collaborative practice has taken shape in Uruguay, Germany, Scotland, the North of Ireland, the United States and Canada.
+Veronica Mockler (MA Fine Arts) is a socially engaged artist based in Tiohtià:ke, Mooniyang, Montréal. She is currently an emerging researcher at Concordia University where she works closely with Project Someone, the Acts of Listening Lab, and the Centre for Oral History and Digital Storytelling. Intersectional working-class knowledge is at the centre of her dialogic work in conceptual art, oral history, documentary practice, performance art, video art, digital literacy, and radical popular education. Her collaborative practice has travelled to Uruguay, Germany, Scotland, the North of Ireland, the United States and Canada.
 
 ## **Artist Statement**
 
-I hold the act of representation socially accountable and thereby dedicate my practice to anti-imperialist and anti-capitalist struggles. I am a cis straight white neurotypical and non-disabled woman. This position comes with many privileges. Every day I work toward better understanding my responsibilities as an artist in solidarity with other realities. I could not do my work if weren't for the multifaceted expertise and generosity of the people I collaborate with. Any financial and material compensation that stems from my collaborative work is shared between collaborators and me, through a transparent and mutual deliberation process, according to the collaboration specificities. 
+I hold the act of representation socially accountable and thereby dedicate my practice to anti-imperialist and anti-capitalist struggles. I am a cis, straight, white, neurotypical, and non-disabled human. This position comes with many privileges. Every day I work toward better understanding my responsibilities as an artist in solidarity with other realities. I could not do my work if weren't for the multifaceted expertise and generosity of the people I collaborate with. Any financial and material compensation that stems from my collaborative work is shared between collaborators and me, through a transparent and mutual deliberation process, according to the collaboration specificities. 
 
-## **Collectivity**
 
-🔗 Project Someone's [_Innovative Social Pedagogy_](https://projectsomeone.ca/isp/) & [_Landscape of Hope_](https://projectsomeone.ca/landscapeofhope)\
-**🔗 [_Centre for Oral History and Digital Storytelling_](https://storytelling.concordia.ca/veronica-mockler/)** & **[_Acts of Listening Lab_](https://www.concordia.ca/finearts/research/labs/acts-of-listening/people/student-researchers.html#:~:text=Veronica%20Mockler&text=She%20is%20currently%20a%20student,oral%20history%2C%20and%20performance%20art.)**__\
-_🔗_ [Womxn Walk the Walk](https://womenwalkmontreal.tumblr.com/)'s blog\
-Visible Art Collective
+
+Collaboration:
+
+[Project Someone's Innovative Social Pedagogy](https://projectsomeone.ca/) & [Landscape of Hate / Hope](https://www.concordia.ca/cuevents/offices/provost/fourth-space/programming/2022/08/08/Landscape-of-hate.html?c=%2Fnext-gen%2F4th-space%2Fthemes%2F4th-space-virtual)\
+[Centre for Oral History and Digital Storytelling](https://storytelling.concordia.ca/veronica-mockler/) & [Acts of Listening Lab](https://www.concordia.ca/cuevents/finearts/listening/2021/04/14/i_can-t_stand_the_idea_of_putting_words.html?c=/finearts/research/labs/acts-of-listening/news)\
+[Womxn Walk the Walk](<Womxn Walk the Walk>)
 
 ## **Curriculum Vitae**
 
-_🔗_ **[_Curriculum Vitae - 2022 PDF_](https://drive.google.com/file/d/1_BVz9B7jYhhOtxEgWyOKmY8bvVWjG2Ae/view)**
+__**[_Curriculum Vitae - 2022 PDF_](https://drive.google.com/file/d/1_BVz9B7jYhhOtxEgWyOKmY8bvVWjG2Ae/view)**
 
 ## **Recent Press Coverage**
 
