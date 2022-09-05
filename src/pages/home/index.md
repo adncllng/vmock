@@ -18,17 +18,17 @@ Involvement and collectives:
 
 Press coverage on recent work:
 
-**[_Faire preuve de créativité pour lutter contre les rénovictions, LA CONVERSE (fr)_](https://laconverse.com/faire-preuve-de-creativite-pour-lutter-contre-les-renovictions/)**__\
-__**[_Inauguration de l'œuvre «Pavillon» de l'artiste Veronica Mockler, ENVOL 91 FM (fr_](https://soundcloud.com/envol-91/inauguration-de-luvre-pavillon-de-lartiste-veronicapierre)**_)_\
-__**[_Veronica Mockler sur son œuvre à la Maison des artistes visuels, RADIO-CANADA, L’actuel (fr)_](https://ici.radio-canada.ca/premiere/emissions/l-actuel/episodes/449721/rattrapage-du-mercredi-4-decembre-2019/8)**\
-**[_L’art au service de la communauté francophone, LA LIBERTÉ (fr_](https://www.la-liberte.ca/2019/08/31/lart-au-service-de-la-communaute-francophone/)**_)_\
-__**[_Une nouvelle œuvre numérique intitulée Pavillon à la Maison des artistes, RADIO-CANADA (fr_](https://ici.radio-canada.ca/premiere/emissions/le-6-a-9/episodes/442048/audio-fil-du-jeudi-29-aout-2019)**_)_\
-__**[_Des nouveaux arrivants et des Franco-Manitobaines s’expriment à travers l’art, CBC ICI MANITOBA (fr_](https://ici.radio-canada.ca/nouvelle/1279345/art-visuel-communaute-francophone-nouveaux-arrivants-franco-manitobain)**_)_\
-__[_Sortir les artistes de leurs locaux pour co-créer avec le public, RADIO-CANADA, L’actuel (fr)_](https://ici.radio-canada.ca/premiere/emissions/l-actuel/episodes/442008/audio-fil-du-mercredi-28-aout-2019/3)\
+**[Faire preuve de créativité pour lutter contre les rénovictions, LA CONVERSE (fr)](https://laconverse.com/faire-preuve-de-creativite-pour-lutter-contre-les-renovictions/)**\
+**[Inauguration de l'œuvre «Pavillon» de l'artiste Veronica Mockler, ENVOL 91 FM (fr](https://soundcloud.com/envol-91/inauguration-de-luvre-pavillon-de-lartiste-veronicapierre)**)\
+**[Veronica Mockler sur son œuvre à la Maison des artistes visuels, RADIO-CANADA, L’actuel (fr)](https://ici.radio-canada.ca/premiere/emissions/l-actuel/episodes/449721/rattrapage-du-mercredi-4-decembre-2019/8)**\
+[L’art au service de la communauté francophone, LA LIBERTÉ (fr)](https://www.la-liberte.ca/2019/08/31/lart-au-service-de-la-communaute-francophone/)\
+**[_Une nouvelle œuvre numérique intitulée Pavillon à la Maison des artistes, RADIO-CANADA (fr_](https://ici.radio-canada.ca/premiere/emissions/le-6-a-9/episodes/442048/audio-fil-du-jeudi-29-aout-2019)**_)_\
+**[_Des nouveaux arrivants et des Franco-Manitobaines s’expriment à travers l’art, CBC ICI MANITOBA (fr_](https://ici.radio-canada.ca/nouvelle/1279345/art-visuel-communaute-francophone-nouveaux-arrivants-franco-manitobain)_)_**\
+[_Sortir les artistes de leurs locaux pour co-créer avec le public, RADIO-CANADA, L’actuel (fr)_](https://ici.radio-canada.ca/premiere/emissions/l-actuel/episodes/442008/audio-fil-du-mercredi-28-aout-2019/3)\
 [_The Address Calls Montrealers to Take Action Against, THE LINK (en)_](Gentrificationhttps://thelinknewspaper.ca/article/the-address-calls-montrealers-to-take-action-against-gentrification)\
-[_Trouver son adresse, CHOQ, Nouvelle Société (fr)_](🔗)__\
-__[_L’adresse : les taudis, comme si vous y viviez, LA PRESSE, Arts et Être (fr)_](http://mi.lapresse.ca/screens/1ac03c7e-7d0d-43aa-9328-32ba29c8b0c47C_0.html)__\
-_Côte-des-Neiges residents share housing stories through art performance_\
+[_Trouver son adresse, CHOQ, Nouvelle Société (fr)_](🔗)\
+[_L’adresse : les taudis, comme si vous y viviez, LA PRESSE, Arts et Être (fr)_](http://mi.lapresse.ca/screens/1ac03c7e-7d0d-43aa-9328-32ba29c8b0c47C_0.html)_\
+__Côte-des-Neiges residents share housing stories through art performance_\
 (https://www.cbc.ca/news/canada/montreal/cdn-housing-experience-performance-1.5148645), CBC NEWS (en)
 
 \***\*[**_L’adresse: une performance ethnodocu immersive bilingue_**](https://www.rcinet.ca/fr/2019/05/24/ladresse-une-performance-ethno-documentaire-immersive-bilingue-au-coeur-de-larrondissement-cote-des-neiges/)**,\*\* RADIO-CANADA INTERNATIONAL (fr)
