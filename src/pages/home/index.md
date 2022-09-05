@@ -15,7 +15,7 @@ Veronica Mockler (Master of Arts in Fine Arts) is a socially engaged artist base
 Spaces and Collectives:
 
 [Project Someone's Innovative Social Pedagogy](https://projectsomeone.ca/) & [Landscape of Hate / Hope](https://www.concordia.ca/cuevents/offices/provost/fourth-space/programming/2022/08/08/Landscape-of-hate.html?c=%2Fnext-gen%2F4th-space%2Fthemes%2F4th-space-virtual)\
-[Centre for Oral History and Digital Storytelling](https://storytelling.concordia.ca/veronica-mockler/) & [Acts of Listening Lab](https://www.concordia.ca/cuevents/finearts/listening/2021/04/14/i_can-t_stand_the_idea_of_putting_words.html?c=/finearts/research/labs/acts-of-listening/news)\
+[Centre for Oral History and Digital Storytelling](https://storytelling.concordia.ca/veronica-mockler/) & [Acts of Listening La](https://www.concordia.ca/cuevents/finearts/listening/2021/04/14/i_can-t_stand_the_idea_of_putting_words.html?c=/finearts/research/labs/acts-of-listening/news)\
 [Womxn Walk the Walk](https://womenwalkmontreal.tumblr.com/)
 
 Artist Statement
