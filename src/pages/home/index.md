@@ -8,23 +8,28 @@ text: BIO
 ---
 Short Biography
 
-Veronica Mockler is a socially engaged artist based in Tiohtià:ke, Mooniyang, Montréal. She is currently an independent researcher working with Project Someone, the Acts of Listening Lab, and the Centre for Oral History and Digital Storytelling at Concordia University, where she holds a Master of Arts in Fine Arts. Her arts-based research on dialogic processes is rooted in oral history, conceptual art, documentary practice, performance art, digital literacy, video art, and radical popular education. Her collaborative work has travelled to Uruguay, Germany, Scotland, the North of Ireland, the United States and Canada.
+Veronica Mockler is a socially engaged artist based in Tiohtià:ke, Mooniyang, Montréal. She is currently an independent researcher working with Project Someone, the Acts of Listening Lab, and the Centre for Oral History and Digital Storytelling at Concordia University, where she holds a Master of Arts in Fine Arts. Her arts-based research on dialogic processes is rooted in oral history, conceptual art, documentary practice, performance art, digital literacy, video art, and radical popular education. Her collaborative work has taken shape in Canada, Germany, the North of Ireland, Scotland, Uruguay, and the United States.
 
 [Curriculum Vitae](https://drive.google.com/file/d/1_BVz9B7jYhhOtxEgWyOKmY8bvVWjG2Ae/view)
 
 Spaces and Collectives:
 
-[Project Someone's Innovative Social Pedagogy](https://projectsomeone.ca/) & [Landscape of Hate / Hope](https://www.concordia.ca/cuevents/offices/provost/fourth-space/programming/2022/08/08/Landscape-of-hate.html?c=%2Fnext-gen%2F4th-space%2Fthemes%2F4th-space-virtual)\
-[Centre for Oral History and Digital Storytelling](https://storytelling.concordia.ca/veronica-mockler/) & [Acts of Listening La](https://www.concordia.ca/cuevents/finearts/listening/2021/04/14/i_can-t_stand_the_idea_of_putting_words.html?c=/finearts/research/labs/acts-of-listening/news)\
-[Womxn Walk the Walk](https://womenwalkmontreal.tumblr.com/)
+[Project Someone's Innovative Social Pedagogy](https://projectsomeone.ca/)\
+[Landscape of Hate / Hope](https://www.concordia.ca/cuevents/offices/provost/fourth-space/programming/2022/08/08/Landscape-of-hate.html?c=%2Fnext-gen%2F4th-space%2Fthemes%2F4th-space-virtual)\
+[Acts of Listening Lab](https://www.concordia.ca/cuevents/finearts/listening/2021/04/14/i_can-t_stand_the_idea_of_putting_words.html?c=/finearts/research/labs/acts-of-listening/news)\
+[Centre for Oral History and Digital Storytelling](https://storytelling.concordia.ca/veronica-mockler/)\
+[Womxn Walk the Walk](https://womenwalkmontreal.tumblr.com/)\
+[Visible Art Collective](https://www.youtube.com/watch?v=zChKWbzR0mQ&ab_channel=VeronicaMockler)
 
 Artist Statement
 
-I hold the act of representation socially accountable and dedicate my practice to intersectional working-class struggles. Every day I work to better understand my responsibilities and privileges as a human, woman, settler, and artist who wishes to be in solidarity with people whose realities are different than my own. I could not do my work if weren't for the multifaceted expertise and generosity of the people I collaborate with. Any financial and material compensation that stems from my collaborative work is shared between my collaborators and me through a mutual and informed deliberation process based on each project's specificities.
+I hold the act of representation socially accountable and thereby dedicate my practice to intersectional working-class struggles. Every day I work to better understand my responsibilities and privileges as a human, settler, woman and artist who wishes to be in solidarity with realities that are different from my own. I could not do my work if weren't for the multifaceted expertise and generosity of the people I collaborate with. Any financial and material compensation that stems from my collaborative work is shared between my collaborators and me through a mutual and informed deliberation process based on each project's specificities.
 
-Recent Press Coverage
+Recent Media Coverage
 
 [Faire preuve de créativité pour lutter contre les rénovictions, LA CONVERSE (fr)](https://laconverse.com/faire-preuve-de-creativite-pour-lutter-contre-les-renovictions/)
+
+[En conversation avec Veronica & Joanna - Créer de l'art socialement engagé et inclusif (Podcast episode), ATSA - Quand l'Art passe à l'Action, Spotify (fr)](https://open.spotify.com/episode/7yNxMf6w3xPoB5BTVLt5WM?si=otxxRs-PQ4ydx7XQNOnWCA&nd=1)
 
 [Inauguration de l'œuvre «Pavillon» de l'artiste Veronica Mockler, ENVOL 91 FM (fr)](https://soundcloud.com/envol-91/inauguration-de-luvre-pavillon-de-lartiste-veronicapierre?fbclid=IwAR3LLsgZR4Ewdh4k4EP6N1w51Cq2L8UmMhyQgQr-8heeoo6SVoXLHfRGBus)
 
@@ -37,6 +42,8 @@ Recent Press Coverage
 [Des nouveaux arrivants et des Franco-Manitobaines s’expriment à travers l’art, CBC ICI MANITOBA (fr)](https://ici.radio-canada.ca/nouvelle/1279345/art-visuel-communaute-francophone-nouveaux-arrivants-franco-manitobain)
 
 [Sortir les artistes de leurs locaux pour co-créer avec le public, RADIO-CANADA, L’actuel (fr)](https://ici.radio-canada.ca/ohdio/premiere/emissions/l-actuel/episodes/442008/audio-fil-du-mercredi-28-aout-2019/2)
+
+L'adresse (l'émission), CISM 89.3 FM, (fr)
 
 [The Address Calls Montrealers to Take Action Against, THE LINK (en)](https://thelinknewspaper.ca/article/the-address-calls-montrealers-to-take-action-against-gentrification)
 
