@@ -8,7 +8,7 @@ text: BIO
 ---
 Short Biography
 
-Veronica Mockler is a socially engaged artist based in Tiohtià:ke, Mooniyang, Montréal. She is currently an independent researcher working with Project Someone, the Acts of Listening Lab, and the Centre for Oral History and Digital Storytelling at Concordia University from where she holds a Master of Arts in Fine Arts. Her research-creation on the dialogic process is rooted in oral history, conceptual art, documentary practice, performance art, digital literacy, video art, and radical popular education. Her collaborative work has travelled to Uruguay, Germany, Scotland, the North of Ireland, the United States and Canada.
+Veronica Mockler is a socially engaged artist based in Tiohtià:ke, Mooniyang, Montréal. She is currently an independent researcher working with Project Someone, the Acts of Listening Lab, and the Centre for Oral History and Digital Storytelling at Concordia University, where she holds a Master of Arts in Fine Arts. Her arts-based research on dialogic processes is rooted in oral history, conceptual art, documentary practice, performance art, digital literacy, video art, and radical popular education. Her collaborative work has travelled to Uruguay, Germany, Scotland, the North of Ireland, the United States and Canada.
 
 [Curriculum Vitae](https://drive.google.com/file/d/1_BVz9B7jYhhOtxEgWyOKmY8bvVWjG2Ae/view)
 
@@ -20,7 +20,7 @@ Spaces and Collectives:
 
 Artist Statement
 
-I hold the act of representation socially accountable and dedicate my practice to intersectional working-class struggles. Every day I work to better understand my responsibilities and privileges as a human, woman, settler, and artist who wishes to be in solidarity with people whose realities are different than my own. I could not do my work if weren't for the multifaceted expertise and generosity of the people I collaborate with. Any financial and material compensation that stems from collaborative work is shared between my collaborators and me through a transparent and mutual deliberation process based on each project's specificities.
+I hold the act of representation socially accountable and dedicate my practice to intersectional working-class struggles. Every day I work to better understand my responsibilities and privileges as a human, woman, settler, and artist who wishes to be in solidarity with people whose realities are different than my own. I could not do my work if weren't for the multifaceted expertise and generosity of the people I collaborate with. Any financial and material compensation that stems from my collaborative work is shared between my collaborators and me through a mutual and informed deliberation process based on each project's specificities.
 
 Recent Press Coverage
 
