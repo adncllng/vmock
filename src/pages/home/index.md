@@ -12,7 +12,7 @@ Veronica Mockler is a socially engaged artist based in Tiohtià:ke, Mooniyang, M
 
 [Curriculum Vitae](https://drive.google.com/file/d/1_BVz9B7jYhhOtxEgWyOKmY8bvVWjG2Ae/view)
 
-Spaces and Collectives:
+Spaces and Collectives
 
 [Project Someone's Innovative Social Pedagogy](https://projectsomeone.ca/)\
 [Landscape of Hate / Hope](https://www.concordia.ca/cuevents/offices/provost/fourth-space/programming/2022/08/08/Landscape-of-hate.html?c=%2Fnext-gen%2F4th-space%2Fthemes%2F4th-space-virtual)\
@@ -24,6 +24,12 @@ Spaces and Collectives:
 Artist Statement
 
 I hold the act of representation socially accountable and thereby dedicate my practice to intersectional working-class struggles. Every day I work to better understand my responsibilities and privileges as a human, settler, woman and artist who wishes to be in solidarity with realities that are different from my own. I could not do my work if weren't for the multifaceted expertise and generosity of the people I collaborate with. Any financial and material compensation that stems from my collaborative work is shared between my collaborators and me through a mutual and informed deliberation process based on each project's specificities.
+
+Recent Publication
+
+[Mockler, Veronica “Home Rule”, Cigale Journal, no. 3 “Sovereignties”, 2022, pp. 84–91.](https://www.academia.edu/85454018/Mockler_Veronica_Home_Rule_Cigale_Journal_no_3_Sovereignties_2022_pp_84_91?source=swp_share)
+
+[Independent Women's Cinema: An interview with Canadian artist Veronica Mockler | issuu.com/women-cinemakers/docs/vol.23/98](https://www.academia.edu/41923020/Independent_Womens_Cinema_An_interview_with_Canadian_artist_Veronica_Mockler_issuu_com_women_cinemakers_docs_vol_23_98?source=swp_share)
 
 Recent Media Coverage
 
