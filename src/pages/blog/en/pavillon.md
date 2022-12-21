@@ -23,13 +23,13 @@ The artist would also like to thank _Centre Turbine_ for organizing the communit
 
 ![](/img/69086431_2811791285500940_1620093601428013056_o.jpg)
 
-![](/img/screen-shot-2019-09-22-at-10.32.28-am.png)
+![](/img/screen-shot-2019-09-22-at-10.32.28-am.jpeg)
 
-![](/img/screen-shot-2019-09-22-at-10.30.28-am.png)
+![](/img/screen-shot-2019-09-22-at-10.30.28-am.jpeg)
 
-![](/img/screen-shot-2019-09-22-at-10.34.44-am.png)
+![](/img/screen-shot-2019-09-22-at-10.34.44-am.jpeg)
 
-![](/img/pavillon_01.png)
+![](/img/pavillon_01.jpeg)
 
 ![](/img/screen-shot-2020-03-23-at-10.29.30-am.jpeg)
 
@@ -43,7 +43,7 @@ The artist would also like to thank _Centre Turbine_ for organizing the communit
 
 ![](/img/p1190041.jpg)
 
-![](/img/screen-shot-2019-08-28-at-1.53.28-pm.png)
+![](/img/screen-shot-2019-08-28-at-1.53.28-pm.jpeg)
 
 ![](/img/pavillon-gallery.jpg)
 

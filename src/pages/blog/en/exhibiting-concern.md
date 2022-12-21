@@ -1,5 +1,5 @@
 ---
-image: /img/screen-shot-2019-09-24-at-11.49.47-am.png
+image: /img/screen-shot-2019-09-24-at-11.49.47-am.jpeg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
@@ -17,8 +17,8 @@ I wanted to allow viewers to draw their own conclusions as to what mental proces
 
 These video works can be shown together, or separately. 
 
-![](/img/screen-shot-2019-09-24-at-11.49.47-am.png)
+![](/img/screen-shot-2019-09-24-at-11.49.47-am.jpeg)
 
 ![](/img/cd1.jpg)
 
-![](/img/screen-shot-2016-12-29-at-7.55.01-pm.png)
+![](/img/screen-shot-2016-12-29-at-7.55.01-pm.jpeg)

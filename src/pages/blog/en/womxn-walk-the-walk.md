@@ -27,7 +27,7 @@ The following images document some of the performances and workshops that WWW ha
 
 ![](/img/screen-shot-2019-11-17-at-12.54.22-pm.jpeg)
 
-![](/img/screen-shot-2019-11-17-at-12.51.09-pm.png)
+![](/img/screen-shot-2019-11-17-at-12.51.09-pm.jpeg)
 
 ![](/img/screen-shot-2019-11-17-at-2.53.54-pm.jpeg)
 

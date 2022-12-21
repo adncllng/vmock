@@ -1,6 +1,6 @@
 ---
 image: >-
-  /img/chronique-d-un-été-montreal-exposition-galerie-art-video-documentaire.png
+  /img/chronique-d-un-été-montreal-exposition-galerie-art-video-documentaire.jpeg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
@@ -17,17 +17,17 @@ _Chronique d'un été_ has been presented part of GSTAAD Art Film Festival / Off
 
 _Chronique d'un été_ premiered in POP Space, Montreal, QC, Canada (April 2016).
 
-![](/img/chronique_dun_été_07.png)
+![](/img/chronique_dun_été_07.jpeg)
 
-![](/img/screen-shot-2019-09-23-at-8.05.44-pm.png)
+![](/img/screen-shot-2019-09-23-at-8.05.44-pm.jpeg)
 
-![](/img/vérité-canada-montreal-artvideo.png)
+![](/img/vérité-canada-montreal-artvideo.jpeg)
 
-![](/img/screen-shot-2019-09-23-at-8.06.13-pm.png)
+![](/img/screen-shot-2019-09-23-at-8.06.13-pm.jpeg)
 
-![](/img/video-cinéma-vérité-canada.png)
+![](/img/video-cinéma-vérité-canada.jpeg)
 
-![](/img/20160428_210726_hdr.png)
+![](/img/20160428_210726_hdr.jpeg)
 
 ![](/img/20160428_210713_hdr.jpg)
 
@@ -35,6 +35,6 @@ _Chronique d'un été_ premiered in POP Space, Montreal, QC, Canada (April 2016)
 
 ![](/img/gstaadfilm-2017-brochure_orig.jpg)
 
-![](/img/exhibition-view-chronique-d-un-été.png)
+![](/img/exhibition-view-chronique-d-un-été.jpeg)
 
 ![](/img/cdewcm.jpg)

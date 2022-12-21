@@ -1,5 +1,5 @@
 ---
-image: /img/cism-5.png
+image: /img/cism-5.jpeg
 templateKey: news-post
 locale: en
 pageKey: page_newspost

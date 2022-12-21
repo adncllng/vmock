@@ -17,17 +17,17 @@ The artist would like to thank the Centre Turbine, the Fonds dédiés aux école
 
 Photo credit of documentation in Parc Pélican: Aja Palmer; of documentation in Maison de la Culture du Plateau-Mont-Royal: Dominic Morissette
 
-![](/img/screen-shot-2019-09-23-at-7.49.56-pm.png)
+![](/img/screen-shot-2019-09-23-at-7.49.56-pm.jpeg)
 
 ![](/img/p1160601.jpg)
 
 ![](/img/img_9456.jpg)
 
-![](/img/screen-shot-2019-09-23-at-10.34.54-am.png)
+![](/img/screen-shot-2019-09-23-at-10.34.54-am.jpeg)
 
-![](/img/screen-shot-2019-09-23-at-10.31.28-am.png)
+![](/img/screen-shot-2019-09-23-at-10.31.28-am.jpeg)
 
-![](/img/screen-shot-2019-09-23-at-10.31.55-am.png)
+![](/img/screen-shot-2019-09-23-at-10.31.55-am.jpeg)
 
 ![](/img/59273880_2814665381907494_561188084822048768_o.jpg)
 

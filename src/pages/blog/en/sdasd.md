@@ -13,18 +13,18 @@ This ongoing documentary work is about Natasha (Nati), a young woman who sought 
 
 Listening to Nati is an in-progress documentary work in which I look at the ways in which I can help Natasha share her story through non-fiction and art. Containing interviews, audio, video and photo documents, performances and reenactments, public consultations, and reflexive interventions by the artist, this documentary work investigates Nati's life, our relationship and collaboration, as well as sexual violence story-telling.
 
-![](/img/screen-shot-2019-09-23-at-9.48.25-am.png)
+![](/img/screen-shot-2019-09-23-at-9.48.25-am.jpeg)
 
-![](/img/screen-shot-2019-09-23-at-9.51.52-am.png)
+![](/img/screen-shot-2019-09-23-at-9.51.52-am.jpeg)
 
-![](/img/screen-shot-2019-09-23-at-9.42.26-am.png)
+![](/img/screen-shot-2019-09-23-at-9.42.26-am.jpeg)
 
-![](/img/screen-shot-2019-09-23-at-9.42.42-am.png)
+![](/img/screen-shot-2019-09-23-at-9.42.42-am.jpeg)
 
 ![](/img/p1170236.jpg)
 
-![](/img/screen-shot-2019-09-23-at-9.52.37-am.png)
+![](/img/screen-shot-2019-09-23-at-9.52.37-am.jpeg)
 
-![](/img/screen-shot-2019-09-23-at-9.53.23-am.png)
+![](/img/screen-shot-2019-09-23-at-9.53.23-am.jpeg)
 
-![](/img/screen-shot-2019-09-23-at-9.47.47-am.png)
+![](/img/screen-shot-2019-09-23-at-9.47.47-am.jpeg)

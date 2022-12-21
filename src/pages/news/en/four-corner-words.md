@@ -1,5 +1,5 @@
 ---
-image: /img/womxn_walk_the_walk_02.png
+image: /img/womxn_walk_the_walk_02.jpeg
 templateKey: news-post
 locale: en
 pageKey: page_newspost

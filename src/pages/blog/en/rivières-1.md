@@ -1,5 +1,5 @@
 ---
-image: /img/salamataaaaa.png
+image: /img/salamataaaaa.jpeg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost

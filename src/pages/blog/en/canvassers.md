@@ -1,5 +1,5 @@
 ---
-image: /img/screen-shot-2019-09-23-at-2.30.30-pm.png
+image: /img/screen-shot-2019-09-23-at-2.30.30-pm.jpeg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
@@ -21,24 +21,24 @@ This work is distributed non-exclusively by Montreal video art distributor VIDEO
 
 _1. Durably reducing transphobia: A field experiment on door-to-door canvassing: Science Mag 08 Apr 2016 | Vol. 352, Issue 6282, pp. 220-224 | DOI: 10.1126/science.aad9713 | Authors : David Broockman | Joshua Kalla_
 
-![](/img/screen-shot-2019-09-23-at-2.30.21-pm.png)
+![](/img/screen-shot-2019-09-23-at-2.30.21-pm.jpeg)
 
-![](/img/screen-shot-2019-09-23-at-2.29.36-pm.png)
+![](/img/screen-shot-2019-09-23-at-2.29.36-pm.jpeg)
 
-![](/img/p1160830_1.png)
+![](/img/p1160830_1.jpeg)
 
-![](/img/p1160842.png)
+![](/img/p1160842.jpeg)
 
 ![](/img/28071027_10213277257299500_7137824767098796485_o.jpg)
 
-![](/img/p1150438.png)
+![](/img/p1150438.jpeg)
 
-![](/img/p1150462.png)
+![](/img/p1150462.jpeg)
 
-![](/img/canvassers_03.png)
+![](/img/canvassers_03.jpeg)
 
-![](/img/image_02_veronica_mockler.png)
+![](/img/image_02_veronica_mockler.jpeg)
 
-![](/img/canvassers_04.png)
+![](/img/canvassers_04.jpeg)
 
 ![](/img/canvassersretouche_21-copy.jpg)

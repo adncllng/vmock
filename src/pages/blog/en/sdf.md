@@ -1,5 +1,5 @@
 ---
-image: /img/visible_l-adresse_02.png
+image: /img/visible_l-adresse_02.jpeg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
@@ -23,23 +23,23 @@ Visible Art Collective would like to thank Cégep Marie-Victorin for welcoming u
 
 ## [Click here to watch the video-recap of The Address for its one-year anniversary!](https://www.youtube.com/watch?v=zChKWbzR0mQ)
 
-![](/img/benewende.png)
+![](/img/benewende.jpeg)
 
-![](/img/benewende_01.png)
+![](/img/benewende_01.jpeg)
 
-![](/img/anna_maria.png)
+![](/img/anna_maria.jpeg)
 
-![](/img/ahmed.png)
+![](/img/ahmed.jpeg)
 
-![](/img/ismael.png)
+![](/img/ismael.jpeg)
 
-![](/img/line.png)
+![](/img/line.jpeg)
 
-![](/img/john.png)
+![](/img/john.jpeg)
 
-![](/img/bakr.png)
+![](/img/bakr.jpeg)
 
-![](/img/aida.png)
+![](/img/aida.jpeg)
 
 _Visible Art Collective would like to thank Chloé Brooks, Maxime Bourbonnais, Charlie Carpentier, Sophie Catherine Dick, Juliette Hudon, Isabelle Kalar, Jean-Christophe Leblanc, Anastasia Lucic and Lalaina Rakotoarisoa for their volunteering and magic._
 

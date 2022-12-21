@@ -17,14 +17,14 @@ _The artist would like to thank the Fondation LOJIQ._
 
 _The artist would like to thank Catherine Devlin, the Digital Art Studio of Belfast and FLAX Art Studios for the warmest welcome and facilitation._ 
 
-![](/img/screen-shot-2017-05-23-at-10.46.14-am.png)
+![](/img/screen-shot-2017-05-23-at-10.46.14-am.jpeg)
 
-![](/img/screen-shot-2019-09-23-at-11.25.50-am.png)
+![](/img/screen-shot-2019-09-23-at-11.25.50-am.jpeg)
 
-![](/img/screen-shot-2016-12-02-at-6.50.14-pm.png)
+![](/img/screen-shot-2016-12-02-at-6.50.14-pm.jpeg)
 
-![](/img/screen-shot-2017-05-23-at-11.48.15-am.png)
+![](/img/screen-shot-2017-05-23-at-11.48.15-am.jpeg)
 
-![](/img/screen-shot-2017-05-23-at-11.48.32-am.png)
+![](/img/screen-shot-2017-05-23-at-11.48.32-am.jpeg)
 
-![](/img/screen-shot-2017-05-23-at-12.01.37-pm.png)
+![](/img/screen-shot-2017-05-23-at-12.01.37-pm.jpeg)

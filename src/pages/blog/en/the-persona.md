@@ -21,30 +21,30 @@ In this third performance, my friend and I danced together for two consecutive h
 
 The artist would like to thank Clémence Renaud and Florencia Sosa Rey for their friendship, persona, and creative contribution. 
 
-![](/img/screen-shot-2019-09-16-at-9.05.27-am.png)
+![](/img/screen-shot-2019-09-16-at-9.05.27-am.jpeg)
 
-![](/img/screen-shot-2019-09-24-at-10.44.11-am.png)
+![](/img/screen-shot-2019-09-24-at-10.44.11-am.jpeg)
 
-![](/img/screen-shot-2019-09-24-at-10.38.52-am.png)
+![](/img/screen-shot-2019-09-24-at-10.38.52-am.jpeg)
 
-![](/img/screen-shot-2019-09-24-at-10.39.15-am.png)
+![](/img/screen-shot-2019-09-24-at-10.39.15-am.jpeg)
 
-![](/img/screen-shot-2019-09-24-at-10.36.50-am.png)
+![](/img/screen-shot-2019-09-24-at-10.36.50-am.jpeg)
 
-![](/img/screen-shot-2019-09-24-at-10.51.27-am.png)
+![](/img/screen-shot-2019-09-24-at-10.51.27-am.jpeg)
 
-![](/img/screen-shot-2019-09-24-at-10.51.36-am.png)
+![](/img/screen-shot-2019-09-24-at-10.51.36-am.jpeg)
 
-![](/img/screen-shot-2019-09-24-at-10.51.46-am.png)
+![](/img/screen-shot-2019-09-24-at-10.51.46-am.jpeg)
 
-![](/img/screen-shot-2019-09-24-at-10.52.46-am.png)
+![](/img/screen-shot-2019-09-24-at-10.52.46-am.jpeg)
 
-![](/img/screen-shot-2019-09-24-at-10.54.01-am.png)
+![](/img/screen-shot-2019-09-24-at-10.54.01-am.jpeg)
 
 ![](/img/mg_0207-copy.jpg)
 
-![](/img/screen-shot-2013-10-16-at-4.55.50-pm.png)
+![](/img/screen-shot-2013-10-16-at-4.55.50-pm.jpeg)
 
-![](/img/screen-shot-2013-10-17-at-3.48.39-pm.png)
+![](/img/screen-shot-2013-10-17-at-3.48.39-pm.jpeg)
 
-![](/img/screen-shot-2013-10-16-at-4.54.57-pm.png)
+![](/img/screen-shot-2013-10-16-at-4.54.57-pm.jpeg)

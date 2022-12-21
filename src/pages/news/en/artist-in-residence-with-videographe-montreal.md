@@ -1,5 +1,5 @@
 ---
-image: /img/junscreen.png
+image: /img/junscreen.jpeg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
