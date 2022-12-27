@@ -1,6 +1,5 @@
 ---
-image: >-
-  /img/chronique-d-un-été-montreal-exposition-galerie-art-video-documentaire.jpeg
+image: /img/asdsad.jpg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
