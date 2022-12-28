@@ -8,7 +8,7 @@ text: BIO
 ---
 **Short Biography**
 
-Veronica Mockler is a socially engaged artist based in Tiohtià:ke, Mooniyang, Montréal. She is currently an independent researcher working with Project Someone, the Acts of Listening Lab, and the Centre for Oral History and Digital Storytelling at Concordia University, where she holds a Master of Arts in Fine Arts. Her arts-based research on dialogic processes is rooted in oral history, conceptual art, documentary practice, performance art, digital literacy, video art, and radical popular education. Her collaborative work has taken shape in Canada, Germany, the North of Ireland, Scotland, Uruguay, and the United States.
+Veronica Mockler is an artist and researcher based in Tiohtià:ke / Montréal (Québec, Canada). She is currently working with Project Someone, the Acts of Listening Lab, and the Centre for Oral History and Digital Storytelling at Concordia University, where she holds a Master of Arts in Fine Arts. Her research on dialogic art and participatory practice in institutions highlights working-class intersectional knowledge and is rooted in collaboration, documentary ethics, oral history, radical popular education, video and performance art. Her work has taken shape in Canada, Germany, the North of Ireland, Scotland, Uruguay, and the United States.
 
 [Curriculum Vitae](https://drive.google.com/file/d/1SH0V74RhN7eVJndqJ2CilC2gJHFNaU28/view?usp=sharing)
 
