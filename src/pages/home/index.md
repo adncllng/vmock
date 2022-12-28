@@ -22,7 +22,7 @@ Veronica Mockler is an artist and researcher based in Tiohtià:ke / Montréal (Q
 
 **Artist Statement**
 
-I hold the act of representation socially accountable and thereby dedicate my practice to intersectional working-class struggles. Every day I work to better understand my responsibilities and privileges as a human, settler, woman and artist who wishes to be in solidarity with realities that are different from my own. I could not do my work if weren't for the multifaceted expertise and generosity of the people I collaborate with. Any financial and material compensation that stems from my collaborative work is shared between my collaborators and me through a mutual and informed deliberation process based on each project's specificities.
+I hold the act of representation socially accountable and thereby dedicate my art practice to intersectional working-class struggles. Every day I work to better understand my responsibilities and privileges as a human, settler, woman and artist who wishes to be in solidarity with realities that are different from my own. I could not do my work if weren't for the trust, generosity and multifaceted expertise of the people I collaborate with in each project. Financial and material compensation that stems from my collaborative work is shared between my collaborators and me through a mutual and informed deliberation process based on each project's specificities.
 
 **Recent Publication**
 
