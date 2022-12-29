@@ -3,7 +3,7 @@ image: /img/halka.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
-title: Project SomeoneDocumentary Internship
+title: Project Someone Documentary Internship
 date: 1894-12-28T14:37:32.000Z
 description: >-
   Entering post-production with Montreal youth Hunnayna Hemed, Kendra McDonald,
