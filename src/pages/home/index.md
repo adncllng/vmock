@@ -8,7 +8,7 @@ text: BIO
 ---
 **Short Biography**
 
-Veronica Mockler is an artist and researcher based in Tiohtià:ke / Montréal (Québec, Canada). She is currently working with Project Someone, the Acts of Listening Lab, and the Centre for Oral History and Digital Storytelling at Concordia University, where she holds a Master of Arts in Fine Arts. Her research on dialogic art and participatory practice in institutions highlights working-class intersectional knowledge and is rooted in collaboration, documentary ethics, oral history, radical popular education, video and performance art. Her work has taken shape in Canada, Germany, the North of Ireland, Scotland, Uruguay, and the United States.
+Veronica Mockler is a dialogic artist based in Tiohtià:ke/Montréal (Québec, Canada). Informed by oral history, documentary practice, and popular education, her work treats the experience of talking and listening to other people as art form. Through interview, collective conversation, video performance, and public address, Mockler and her collaborators question who is invited to participate in the institutions of art, knowledge and citizenship. The artist holds a Master of Arts (2022) and Bachelor of Fine Arts (2015) from Concordia University. Her work has taken shape in Canada, Germany, Ireland, Scotland, Uruguay, and the United States. Mockler is currently with Project Someone as a core artist and research affiliate. 
 
 [Curriculum Vitae](https://drive.google.com/file/d/1SH0V74RhN7eVJndqJ2CilC2gJHFNaU28/view?usp=sharing)
 
@@ -19,10 +19,6 @@ Veronica Mockler is an artist and researcher based in Tiohtià:ke / Montréal (Q
 [Centre for Oral History and Digital Storytelling](https://storytelling.concordia.ca/veronica-mockler/)\
 [Womxn Walk the Walk](https://womenwalkmontreal.tumblr.com/)\
 [Visible Art Collective](https://www.youtube.com/watch?v=zChKWbzR0mQ&ab_channel=VeronicaMockler)
-
-**Artist Statement**
-
-I hold the act of representation socially accountable and thereby dedicate my art practice to intersectional working-class struggles. Every day I work to better understand my responsibilities and privileges as a human, settler, woman and artist who wishes to be in solidarity with realities that are different from my own. I could not do my work if weren't for the trust, generosity and multifaceted expertise of the people I collaborate with in each project. Financial and material compensation that stems from my collaborative work is shared between my collaborators and me through a mutual and informed deliberation process based on each project's specificities.
 
 **Recent Publication**
 
