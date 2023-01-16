@@ -7,7 +7,7 @@ title: Project Someone's Newest Addition!
 date: 1899-12-28T14:20:00.000Z
 description: >-
   Happy to be joining the ranks of Project Someone at Concordia University as
-  artist-researcher in Art, Participatory Practice and Documentary
-  Representation.
+  core artist and research affiliate in Dialogic Art, Participatory Practice and
+  Documentary Representation.
 ---
 .
