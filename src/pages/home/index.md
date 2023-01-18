@@ -8,7 +8,7 @@ text: BIO
 ---
 **Short Biography**
 
-Veronica Mockler is a dialogic artist based in Tiohtià:ke/Montréal (Québec, Canada). Informed by oral history, documentary practice, and popular education, her work treats the experience of talking and listening to other people as art form. Mockler's interviews, structured conversations, video performances, and public addresses are politically collaborative and question: Who is invited to participate in the institutions of citizenship, art and knowledge? Mockler holds a Master of Arts (2022) and a Bachelor of Fine Arts (2015) from Concordia University. Her work has taken shape in Canada, Germany, Ireland, Scotland, Uruguay, and the United States. Mockler is currently working as a core artist and research affiliate for Project Someone at Concordia University. 
+Veronica Mockler is a dialogic artist based in Tiohtià:ke/Montréal, Quebec, Canada. Her work, influenced by oral history, documentary practice, and popular education, transforms the act of talking and listening to others into an art form. Through interviews, structured conversations, video performances, and public addresses, Mockler's work is deeply collaborative and raises questions about who is invited to participate in the institutions of citizenship, art, and knowledge. With a Master of Arts degree (2022) and a Bachelor of Fine Arts degree (2015) from Concordia University, her work has been exhibited in Canada, Germany, Ireland, Scotland, Uruguay, and the United States. Currently, she is working as a core artist and research affiliate for Project Someone at Concordia University.. 
 
 [Curriculum Vitae](https://drive.google.com/file/d/16_Is_WsSzIKc0ySMZN4trYiPkUVt2a_e/view?usp=sharing)
 
