@@ -5,7 +5,9 @@ locale: en
 pageKey: page_blogpost
 title: The Third Screen
 date: 1955-02-04T21:11:00.000Z
-description: For a Dialogic and Participatory Oral History
+description: |-
+  For a Dialogic
+  and Participatory Oral History
 ---
 This three-screen video installation is a dialogic study on the listening of four strangers who met in a black box studio to listen to eachother's life experiences. Participatory art practice, post-colonial positioning and oral history's roots in working-class popular education set the stage for an investigative modality that directly includes research participants in the institutional interpretation of their experience. Together with community collaborators Azzouz, Joanna, Kevin and Sheida, I invite viewers to step into this listening mise en abyme and immerse themselves in its meaning.
 
