@@ -4,7 +4,7 @@ templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: Stepping Into Halka
-date: 1953-02-18T15:59:00.000Z
+date: 1953-01-01T15:59:00.000Z
 description: Design and Facilitation of a Youth Documentary Internship
 ---
 "Stepping Into Halka" is a youth-led documentary artwork that stems from a Youth Documentary Internship I established in the fall of 2022 at Project Someone as part of the role I am carving out for myself as a core artist and research affiliate in Dialogic Art, Participatory Practice, and Documentary Representation.
@@ -15,6 +15,6 @@ _Thank you to Dr. Vivek Venkatesh, Director of Project Someone, for his trust an
 
 _This project was supported by "Les Fonds de recherche du Quebec" and the Social Sciences and Humanities Research Council of Canada._
 
-![](/img/halka-doc-couch.jpg)
+![](/img/hunnayna-hemed-image-credit-youth-documentary-interns-.jpg)
 
-__
+![](/img/halka-doc-couch.jpg)
