@@ -1,5 +1,5 @@
 ---
-image: /img/halka.jpg
+image: /img/screen-shot-2022-11-09-at-9.38.00-am.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
