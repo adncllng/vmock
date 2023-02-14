@@ -15,7 +15,11 @@ It then went on to be screened as part of “Bearing Witness” at UnionDocs in 
 
 _Without Azzouz, Joanna, Kevin and Sheida's expertise, generosity, openness and trust, this work would not have been possible._
 
-_Thank you to Alana DeVito, Josue Moncada and Roby Provost-Blanchard for their precious technical help._  
+_Thank you to Alana DeVito, Josue Moncada and Roby Provost-Blanchard for their precious technical support._
+
+_Thank you to Dr. Luis Sotelo Castro, Canada's Research Chair in Oral History Performance for your financial support in the production of this work._ 
+
+_Thank you to Dr. Vivek Venkatesh at Project Someone, UNESCO co-Chair in Prevention of Radicalisation and Violent Extremism for your financial support in the dissemination of this work._ 
 
 ![](/img/screen-shot-2021-11-07-at-6.50.53-pm.jpeg)
 
