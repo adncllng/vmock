@@ -1,5 +1,5 @@
 ---
-image: /img/takeover_01.jpg
+image: /img/dfsd.jpg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
