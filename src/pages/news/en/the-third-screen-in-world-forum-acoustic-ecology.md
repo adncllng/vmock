@@ -7,8 +7,8 @@ title: World Forum Acoustic Ecology
 date: 1600-03-13T14:09:32.000Z
 description: >-
   The Third Screen is opening in Atlantic Centre for the Arts in WFAE on March
-  24, 2023 in Florida. To support the dialogic approach evident the video
-  installation, WFAE has agreed to sponsor 17 y-o Montrealer Bénéwendé Segueda's
-  participation who will join Keynote Amanda Gutierrez on stage.
+  24 in Florida. To support the dialogic approach evident in my video
+  installation, WFAE has agreed to sponsor 17 y-o Bénéwendé Segueda from
+  Montreal to join Keynote Amanda Gutierrez on stage.
 ---
 .
