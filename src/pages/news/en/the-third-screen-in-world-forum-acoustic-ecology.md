@@ -3,7 +3,7 @@ image: /img/02.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
-title: Video Installation in Listening Pasts/Listening Futures
+title: Video Installation in WFAE
 date: 1600-03-13T14:09:32.000Z
 description: >-
   The Third Screen is opening in Atlantic Centre for the Arts as part of the
