@@ -7,7 +7,7 @@ title: The Third Screen
 date: 1955-02-04T21:11:00.000Z
 description: 'For a Dialogic and Participatory Oral History: Listening to a Stranger'
 ---
-This three-screen video installation is a dialogic study on the listening of four strangers who met in a black box studio to listen to eachother's life experiences. Participatory art practice, post-colonial positioning and oral history's roots in working-class popular education set the stage for an investigative modality that directly includes research participants in the institutional interpretation of their experience. Together with community collaborators Azzouz, Joanna, Kevin and Sheida, I invite viewers to step into this listening mise en abyme and immerse themselves in its meaning.
+This three-screen video installation is a dialogic study on the listening of four strangers who met in a black box studio to listen to eachother's life experiences. Participatory art practice, decolonial positioning and oral history's roots in working-class popular education set the stage for an investigative modality that directly includes research participants in the institutional interpretation of their experience. Together with community collaborators Azzouz, Joanna, Kevin and Sheida, I invite viewers to step into this listening mise en abyme and immerse themselves in its meaning.
 
 This work was presented as part of my Master of Arts in Fine Arts thesis and was unveiled to the general public in December 2021. The exhibition was hosted by the Centre for Oral History and Digital Storytelling and the Acts of Listening Lab.
 
