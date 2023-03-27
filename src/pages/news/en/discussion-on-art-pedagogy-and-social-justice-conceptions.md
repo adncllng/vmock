@@ -1,5 +1,5 @@
 ---
-image: /img/arte_panel.jpeg
+image: /img/arte_seminar.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
