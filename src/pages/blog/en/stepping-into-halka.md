@@ -5,7 +5,7 @@ locale: en
 pageKey: page_blogpost
 title: Stepping Into Halka
 date: 1954-01-01T15:59:00.000Z
-description: Establishing a Youth Documentary Internship with Project Someone.
+description: 'Arts-based internship for documentary positioning and critical inclusion. '
 ---
 "Stepping Into Halka" is a youth-led documentary artwork that stems from a Youth Documentary Internship I established in the fall of 2022 with Project Someone as part of my role as a core artist and research affiliate in Dialogic Art, Participatory Practice, and Documentary Representation.
 
