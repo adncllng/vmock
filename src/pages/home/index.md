@@ -8,9 +8,7 @@ text: BIO
 ---
 **Short Biography**
 
-Canadian artist Veronica Mockler (M.A. Fine Arts; BFA) researches, creates, and facilitates participatory dialogue-based projects that transform the act of speaking and listening to others into art form. Politically collaborative, her work takes on various shapes, including private interviews, public addresses, video performances, and conversation scores. Her pieces have unfolded within diverse settings, spanning from curated art spaces to official governmental bodies, as well as academic institutions and community organizations.
-
-Mockler, informed by working-class oral history, documentary tradition, and radical popular education, raises questions about who can not only speak but also be heard within the institutions of art, citizenship, and knowledge.
+Canadian artist Veronica Mockler (M.A. Fine Arts; BFA) researches, creates, and facilitates participatory dialogue-based projects that transform the act of speaking and listening to others into art form. Politically collaborative, her work takes on various shapes, including private interviews, public addresses, video performances, and conversation scores. Her pieces have unfolded within diverse settings, spanning from curated art spaces to official governmental bodies, as well as academic institutions and community organizations. Mockler's practice, informed by working-class oral history, documentary tradition, and radical popular education, raises questions about who can not only speak but also be heard within the institutions of art, citizenship, and knowledge.
 
 The artist is currently working as a core research affiliate at Concordia University with UNESCO-PREV co-chair Dr. Vivek Venkatesh. 
 
