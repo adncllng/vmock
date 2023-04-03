@@ -1,5 +1,5 @@
 ---
-image: /img/conv.jpg
+image: /img/square-fit_202343152917615.jpeg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
