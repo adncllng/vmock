@@ -8,23 +8,21 @@ text: BIO
 ---
 **Short Biography**
 
-Canadian artist Veronica Mockler (M.A. Fine Arts; BFA) researches, creates, and facilitates participatory dialogue-based projects that transform the act of speaking and listening to others into art form. Politically collaborative, her work takes on various shapes, including private interviews, public addresses, video performances, and conversation scores. Her pieces have unfolded within diverse settings, spanning from curated art spaces to official governmental bodies, as well as academic institutions and community organizations. Mockler's practice, informed by working-class oral history, documentary tradition, and radical popular education, raises questions about who can not only speak but also be heard within the institutions of art, citizenship, and knowledge.
+Canadian artist Veronica Mockler (M.A. Fine Arts; BFA) is a researcher, creator and facilitator of participatory dialogue-based projects that transform the act of speaking and listening to others into art form. Politically collaborative, her work takes on various shapes, including private interviews, public addresses, video performances, and conversation scores. Her pieces have unfolded within diverse settings, spanning from curated art spaces to official governmental bodies, as well as academic institutions and community organizations. Mockler's practice, informed by working-class oral history, documentary tradition, and radical popular education, raises questions about who can not only speak but also be heard within the institutions of art, citizenship, and knowledge.
 
 The artist is currently working as a core research affiliate at Concordia University with UNESCO-PREV co-chair Dr. Vivek Venkatesh. 
 
 [Curriculum Vitae](https://drive.google.com/file/d/16_Is_WsSzIKc0ySMZN4trYiPkUVt2a_e/view?usp=sharing)
 
 **Affiliation and Collectives**\
-\
-[UNESCO Chair in the Prevention of Radicalization and Violent Extremism](https://chaireunesco-prev.ca/en/about/team/)\
-[Project Someone's Innovative Social Pedagogy](https://www.concordia.ca/cunews/artsci/learning-performance/2022/11/22/project-someone-s-veronica-mockler-travels-to-quebec-city-to-exp.html?c=/artsci/news)\
-[Landscape of Hate](https://www.concordia.ca/cuevents/offices/provost/fourth-space/programming/2022/08/08/Landscape-of-hate.html?c=%2Fnext-gen%2F4th-space%2Fthemes%2F4th-space-virtual)\
-[Landscape of Hope](https://www.concordia.ca/cunews/artsci/learning-performance/2023/02/15/landscape-of-hate-releases-video-from-artist-residency.html?c=/artsci/news)\
 [Acts of Listening Lab](https://www.concordia.ca/cuevents/finearts/listening/2021/04/14/i_can-t_stand_the_idea_of_putting_words.html?c=/finearts/research/labs/acts-of-listening/news)\
 [Centre for Oral History and Digital Storytelling](https://storytelling.concordia.ca/veronica-mockler/)\
 [Womxn Walk the Walk](https://womenwalkmontreal.tumblr.com/)\
-[Visible Art Collective](https://www.youtube.com/watch?v=zChKWbzR0mQ&ab_channel=VeronicaMockler)
-
+[Visible Art Collective](https://www.youtube.com/watch?v=zChKWbzR0mQ&ab_channel=VeronicaMockler)\
+[Project Someone's Innovative Social Pedagogy](https://www.concordia.ca/cunews/artsci/learning-performance/2022/11/22/project-someone-s-veronica-mockler-travels-to-quebec-city-to-exp.html?c=/artsci/news)\
+[UNESCO Chair in the Prevention of Radicalization and Violent Extremism](https://chaireunesco-prev.ca/en/about/team/)\
+[Landscape of Hate and Hope](https://www.concordia.ca/cunews/artsci/learning-performance/2023/02/15/landscape-of-hate-releases-video-from-artist-residency.html?c=/artsci/news)\
+****\
 **Distribution**
 
 [Groupe Intervention Vidéo (GIV)](https://givideo.org/1/)\
