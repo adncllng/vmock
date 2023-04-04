@@ -8,7 +8,9 @@ text: BIO
 ---
 **Short Biography**
 
-Canadian artist Veronica Mockler is a researcher, creator and facilitator of participatory dialogue-based projects that transform the act of listening to others into art form. Politically collaborative, her work takes on various shapes, including private interviews, public addresses, video performances, and conversation scores. Her pieces have unfolded within diverse settings, spanning from curated art spaces to official governmental bodies, as well as academic institutions and community organizations. Mockler's practice, informed by oral history, documentary tradition, and radical working class popular education, raises questions about who can speak but also be heard within the institutions of art, citizenship, and knowledge.
+Canadian artist Veronica Mockler is a researcher, creator and facilitator of participatory dialogue-based projects that transform the act of listening to others into art form. Politically collaborative, her work takes on various shapes, including private interviews, public addresses, video performances, and conversation scores. Her pieces have unfolded within diverse settings, spanning from curated art spaces to official governmental bodies, as well as academic institutions and community organizations. 
+
+Mockler's practice is informed by oral history, documentary tradition, and radical working class popular education, and raises questions about who can speak but also be heard within the institutions of art, citizenship, and knowledge.
 
 The artist is currently working as a core research affiliate at Concordia University with UNESCO-PREV co-chair Dr. Vivek Venkatesh. 
 
@@ -26,13 +28,14 @@ The artist is currently working as a core research affiliate at Concordia Univer
 
 **Recent Publication**
 
-[Mockler, Veronica “Home Rule”, Cigale Journal, no. 3 “Sovereignties”, 2022, pp. 84–91.](https://cigale-cigale.ca/)\
-\
+[Mockler, Veronica “Home Rule”, Cigale Journal, no. 3 “Sovereignties”, 2022, pp. 84–91.](https://cigale-cigale.ca/)
+
 [Independent Women's Cinema: An interview with Canadian artist Veronica Mockler | issuu.com/women-cinemakers/docs/vol.23/98](https://www.academia.edu/41923020/Independent_Womens_Cinema_An_interview_with_Canadian_artist_Veronica_Mockler_issuu_com_women_cinemakers_docs_vol_23_98?source=swp_share)
 
 **Distribution**
 
-[Groupe Intervention Vidéo (GIV)](https://givideo.org/1/)\
+[Groupe Intervention Vidéo (GIV)](https://givideo.org/1/)
+
 [Vidéographe](https://www.videographe.org/)
 
 **Recent Media Coverage**
