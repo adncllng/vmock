@@ -14,8 +14,6 @@ Mockler's practice is informed by oral history, documentary tradition, and radic
 
 The artist is currently working as a core research affiliate at Concordia University with UNESCO-PREV co-chair Dr. Vivek Venkatesh. 
 
-[Curriculum Vitae](https://drive.google.com/file/d/16_Is_WsSzIKc0ySMZN4trYiPkUVt2a_e/view?usp=sharing)
-
 **Affiliation and Collectives**\
 \
 [Acts of Listening Lab](https://www.concordia.ca/cuevents/finearts/listening/2021/04/14/i_can-t_stand_the_idea_of_putting_words.html?c=/finearts/research/labs/acts-of-listening/news)\
