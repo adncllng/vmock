@@ -3,10 +3,11 @@ image: /img/aalabtts.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
-title: Next week on the Acts of Listening Lab
-date: 1597-03-13T14:09:32.000Z
+title: 'The Third Screen presented in the Acts of Listening '
+date: 1597-03-14T02:09:32.000Z
 description: >-
-  Thanks to Project Someone, the Acts of Listening Lab and the Centre for Oral
-  History and Digital Storytelling for the invitation and support.
+  "This immersive installation serves as a call to action for a more dialogic
+  approach to art and knowledge-making." — Acts of Listening Lab, Concordia
+  University
 ---
 .
