@@ -4,10 +4,10 @@ templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: The Third Screen
-date: 1955-02-04T21:11:00.000Z
+date: 1953-02-04T21:11:00.000Z
 description: >-
-  For a Dialogic and Participatory Research Representation: Listening to a
-  Stranger as Beginning
+  For a Dialogic and Participatory Research Representation: Strangers listening
+  to each other as beginning.
 ---
 Informed by decoloniality, working-class oral history, and popular education, this immersive installation serves as a call to action for a more dialogic approach to art and knowledge-making.
 
