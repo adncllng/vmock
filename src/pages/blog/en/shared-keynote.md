@@ -24,4 +24,4 @@ The audio and video documentation of both the "Shared Keynote" and the subsequen
 
 I would like to thank Les Offices jeunesse internationaux du Québec for their financial support. This investigation and work would not have been made possible without the support of the UNESCO Chair in Prevention of Radicalization and Violent Extremism, co-chaired by Dr. Vivek Venkatesh via Project Someone.
 
-![](/img/quadra.jpeg)
+![](/img/untitled-11-×-24-in-18-×-11-in-.jpeg)
