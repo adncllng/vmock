@@ -4,7 +4,7 @@ templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: A Shared Keynote
-date: 1400-05-04T20:21:32.000Z
+date: 1955-05-04T19:04:00.000Z
 description: >-
   A collaborative intergenerational inaugural speech at the World Forum for
   Acoustic Ecology
