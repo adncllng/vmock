@@ -1,5 +1,5 @@
 ---
-image: /img/02_vm.jpg
+image: /img/screen-shot-2023-04-13-at-2.46.34-pm.jpeg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
@@ -29,8 +29,16 @@ _Thank you to Dr. Luis Sotelo Castro, Canada's Research Chair in Oral History Pe
 
 _Thank you to Dr. Vivek Venkatesh at Project Someone, UNESCO co-Chair in Prevention of Radicalisation and Violent Extremism for your financial support in the dissemination of this work._ 
 
-![](/img/screen-shot-2022-01-25-at-12.12.38-pm.jpeg)
+![](/img/image-poster-seluna.jpeg)
+
+![](/img/02_vm.jpg)
 
 ![](/img/screen-shot-2021-11-08-at-5.56.40-pm.jpeg)
 
 ![](/img/person_in_common_veronica_mockler_event_green_in.jpeg)
+
+![](/img/square-fit_202362817125474.jpeg)
+
+![](/img/wffeae.jpeg)
+
+![](/img/unnun.jpg)
