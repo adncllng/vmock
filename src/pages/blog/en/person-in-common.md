@@ -4,7 +4,7 @@ templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: The Third Screen
-date: 1953-02-04T21:11:00.000Z
+date: 1955-02-04T21:11:00.000Z
 description: >-
   For a Dialogic and Participatory Research Representation: Strangers listening
   to each other as beginning.
