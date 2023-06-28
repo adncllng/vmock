@@ -23,3 +23,9 @@ _À l'image: Takeover_ is a participatory art series in which, over two years, a
 _The artist thanks Amanda Maxwell at Desta Black Community Network, as well as Ashley Montgomery and Vivek Venkatesh at Project Someone, Concordia University for their generous collaboration._ 
 
 _This project is supported by the Canada Council for the Arts, and the Ville de Montréal and the Gouvernement du Québec in the context of the "Entente sur le développement culturel de Montréal"._
+
+__
+
+# [dazibao.art/a-l-image-takeover](dazibao.art/a-l-image-takeover)
+
+![](/img/screen-shot-2023-06-28-at-6.18.21-pm.jpeg)
