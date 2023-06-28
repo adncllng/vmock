@@ -7,7 +7,7 @@ title: A Shared Keynote
 date: 1955-05-04T19:04:00.000Z
 description: >-
   A collaborative intergenerational inaugural speech at the World Forum for
-  Acoustic Ecology
+  Acoustic Ecology.
 ---
 From March 23 to 26, 2023, 17-year-old Bénéwendé Ségueda, soundwalk artist Amanda Gutierrez, and myself traveled to Florida, USA, to participate in the World Forum for Acoustic Ecology at the Atlantic Center for the Arts. Over the course of the two months leading up to the Forum, Amanda and I brought together our respective artistic practices to design and facilitate a series of five after-school workshops at the Center for the Study of Learning and Performance at Concordia University with our teenage counterpart, Bénéwendé. During these workshops, Bénéwendé was introduced to the history and practice of acoustic ecology as well as to what Amanda and I conjointly perceive to be at stake when engaging in the act of listening from an intersectional positioning.
 
