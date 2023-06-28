@@ -4,7 +4,7 @@ templateKey: blog-post
 locale: en
 pageKey: page_blogpost
 title: 'À l''image: Takeover'
-date: 1951-01-18T15:59:00.000Z
+date: 1940-01-18T15:59:00.000Z
 description: >-
   Two-year-long takeover of Dazibao Contemporary Art's exhibition outreach by 7
   young women.
