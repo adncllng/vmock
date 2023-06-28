@@ -33,4 +33,6 @@ _This project was supported by "Les Fonds de recherche du Quebec" and the Social
 
 ![](/img/halka-doc-stairs.jpg)
 
+![](/img/poster-sih_vf.jpg)
+
 ![](/img/img_20230624_181308_264-copy.jpg)
