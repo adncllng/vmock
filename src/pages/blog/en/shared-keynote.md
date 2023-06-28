@@ -23,3 +23,5 @@ Following the "Shared Keynote", the three of us held a group conversation with c
 The audio and video documentation of both the "Shared Keynote" and the subsequent conversation are being articulated into an iterative media artwork that will be presented in various artistic and academic spaces as a tool for the discussion and implementation of more responsive, inclusive, participatory, and representative dialogic practice within these very institutions.
 
 I would like to thank Les Offices jeunesse internationaux du Québec for their financial support. This investigation and work would not have been made possible without the support of the UNESCO Chair in Prevention of Radicalization and Violent Extremism, co-chaired by Dr. Vivek Venkatesh via Project Someone.
+
+![](/img/quadra.jpeg)
