@@ -6,7 +6,7 @@ pageKey: page_blogpost
 title: The Third Screen
 date: 1955-02-04T21:11:00.000Z
 description: >-
-  For a Dialogic Research Representation: Strangers listening to each other as
+  For Dialogic Research and Representation: Strangers listening to each other as
   beginning.
 ---
 Informed by decoloniality, working-class oral history, and popular education, this immersive installation serves as a call to action for a more dialogic approach to art and knowledge-making.
