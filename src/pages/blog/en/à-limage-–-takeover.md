@@ -6,8 +6,8 @@ pageKey: page_blogpost
 title: 'À l''image: Takeover'
 date: 1940-01-18T15:59:00.000Z
 description: >-
-  Two-year-long takeover of Dazibao Contemporary Art's exhibition outreach with
-  7 young women.
+  Two-year-long takeover of Dazibao Contemporary Art's exhibition community
+  outreach program.
 ---
 # [CLICK INDIVIDUALLY ON NUMBERS 1, 2, 3 AND 4 TO EXPLORE THIS YEAR'S TAKEOVERS.](https://en.dazibao.art/a-l-image-takeover)
 
