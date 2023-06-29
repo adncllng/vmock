@@ -1,5 +1,5 @@
 ---
-image: /img/vmockler_01.jpeg
+image: /img/dasz.jpeg
 templateKey: blog-post
 locale: en
 pageKey: page_blogpost
