@@ -5,9 +5,9 @@ locale: en
 pageKey: page_blogpost
 title: Stepping Into Halka
 date: 1954-01-01T15:59:00.000Z
-description: >-
-  A participative documentary essay as gateway to undermine institutional
-  gatekeeping.
+description: >
+  A collaborative documentary essay testing the institutional inclusion of youth
+  in academia and art.
 ---
 "Stepping Into Halka" follows the experiences of Hunnayna Hemed, Kaymarie Sutherland, and Kendra McDonald, three young women, as they document the work (and world) of Halka, a multimedia performance collective composed of well-established academic researchers, university professors, world-famous metal musicians, touring djs, and contemporary artists. The work spans over a year and offers the three girls’ unique perspective into Halka's latest creative manifestation, which included a two-night public performance in Montreal and the recording of an album. Standing on the outside looking in (with a camera) becomes an interesting intersectional positioning for Hunnayna, Kaymarie and Kendra as they explore the very ethics of their inclusion into the inner workings of academia, research, artistic production and performance. Follow them as they navigate not only the ethics of representing others, but also themselves.
 
