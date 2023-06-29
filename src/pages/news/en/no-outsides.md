@@ -1,9 +1,11 @@
 ---
-image: /img/1_nooutsides_poster351_page-0001-1152x1536.jpeg
+image: /img/sdasd.jpg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
-title: No Outsides
+title: >-
+  NO OUTSIDES: Underground Arts as a Catalyst for Pluralism in an Era of
+  Polarization
 date: 1595-06-29T15:18:32.000Z
 description: >-
   Thrilled to be joining artist and thinkers Jessie Beier, José Cortés, and
