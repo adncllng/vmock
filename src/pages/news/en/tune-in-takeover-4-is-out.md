@@ -8,7 +8,7 @@ date: 1592-06-29T15:18:32.000Z
 description: >-
   For their last Takeover of the season, Destiny, Isha, Mei, Sanaa, Sasha,
   Shayah, and Talayah, along with artist Veronica Mockler, discuss stereotypes,
-  colonialism, and the multiple traits that make up one's identity as 'THEY
-  SPILL THA TEA'.
+  colonialism, and the intersection of material experiences as 'THEY SPILL THE
+  TEA'.
 ---
 .
