@@ -8,9 +8,8 @@ title: >-
   Polarization
 date: 1595-06-29T15:18:32.000Z
 description: >-
-  Thrilled to be joining artist and thinkers Jessie Beier, José Cortés, and
+  Thrilled to be joining artists and thinkers Jessie Beier, José Cortés, and
   Jason Wallin on this panel organized by the Graduate Summer Institute to
-  discuss the contemporary work of underground art form in our polarized
-  society.
+  discuss the state of subversive art forms in our polarized society.
 ---
 .
