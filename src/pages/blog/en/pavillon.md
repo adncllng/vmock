@@ -5,7 +5,7 @@ locale: en
 pageKey: page_blogpost
 title: Pavillon
 date: 1960-01-01T18:00:00.000Z
-description: Community-based voicings and media performances by eleven Franco-Manitobans.
+description: Community-based voicings and media performances with eleven Franco-Manitobans.
 ---
 In Winnipeg, eleven established and newly arrived Franco-Manitobans participated in a series of workshops that were developed and facilitated by myself in collaboration with pedagogue Yves Amyot from _Centre Turbine_ (Montreal, QC). I was invited as an artist-in-residence at the Maison des Artistes Visuels to conduct a series of workshops with members of the French-speaking community of Winnipeg. During the workshops, participants and I talked about our personal experience and identity as francophones. Looking at 'la francophonie' through the lens of conflict, de/colonialism, migration, family and culture, I collected different types of media, audio-visual and performative content that features the life-chapters and convictions of each participant. 
 
