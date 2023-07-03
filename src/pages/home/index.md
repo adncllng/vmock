@@ -22,8 +22,9 @@ The artist is currently working as a core research artist at Concordia Universit
 [Landscape of Hate and Hope](https://www.concordia.ca/cunews/artsci/learning-performance/2023/02/15/landscape-of-hate-releases-video-from-artist-residency.html?c=/artsci/news)\
 [Women Walk the Walk](https://womenwalkmontreal.tumblr.com/)
 
-**Recent Publication**\
-****[Mockler, Veronica “Home Rule”, Cigale Journal, no. 3 “Sovereignties”, 2022, pp. 84–91.](https://cigale-cigale.ca/)
+**Recent Publication**
+
+[Mockler, Veronica “Home Rule”, Cigale Journal, no. 3 “Sovereignties”, 2022, pp. 84–91.](https://cigale-cigale.ca/)
 
 **Distribution**
 
