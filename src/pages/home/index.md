@@ -14,7 +14,7 @@ The artist is currently working as a core research artist at Concordia Universit
 \
 **Affiliation and Collectives**
 
-****[Project Someone (UNESCO-PREV Chair)](https://www.concordia.ca/cunews/main/stories/2023/06/14/concordia-artist-collaborates-with-black-youth-at-dazibao-gallery.html)\
+[Project Someone (UNESCO-PREV Chair)](https://www.concordia.ca/cunews/main/stories/2023/06/14/concordia-artist-collaborates-with-black-youth-at-dazibao-gallery.html)\
 [Acts of Listening Lab](https://www.concordia.ca/cuevents/finearts/listening/2021/04/14/i_can-t_stand_the_idea_of_putting_words.html?c=/finearts/research/labs/acts-of-listening/news)\
 [Centre for Oral History and Digital Storytelling](https://storytelling.concordia.ca/veronica-mockler/)\
 [Visible Art Collective](https://www.youtube.com/watch?v=zChKWbzR0mQ&ab_channel=VeronicaMockler)\
@@ -22,13 +22,12 @@ The artist is currently working as a core research artist at Concordia Universit
 [Landscape of Hate and Hope](https://www.concordia.ca/cunews/artsci/learning-performance/2023/02/15/landscape-of-hate-releases-video-from-artist-residency.html?c=/artsci/news)\
 [Women Walk the Walk](https://womenwalkmontreal.tumblr.com/)
 
-**Recent Publication**
-
+**Recent Publication**\
 ****[Mockler, Veronica “Home Rule”, Cigale Journal, no. 3 “Sovereignties”, 2022, pp. 84–91.](https://cigale-cigale.ca/)
 
 **Distribution**
 
-****[Groupe Intervention Vidéo (GIV)](https://givideo.org/1/)\
+[Groupe Intervention Vidéo (GIV)](https://givideo.org/1/)\
 [Vidéographe](https://www.videographe.org/)
 
 **Recent Media Coverage**
