@@ -6,15 +6,15 @@ seo_desc: Biography
 title: Bio
 text: BIO
 ---
-**Short Biography**\
-\
+**Short Biography**
+
 Veronica Mockler (b. 1991) is an artist and researcher of participatory dialogue that transform the act of listening to others into art form. Politically collaborative, her work takes on various shapes, including private interviews, public addresses, media performances, and listening scores. Her pieces have unfolded within diverse settings, spanning from curated art spaces to official governmental bodies, as well as academic institutions and community organizations. Mockler's practice is informed by oral history, documentary tradition, and radical working class education, and raises questions about who can participate in the institutions of citizenship, art and knowledge. 
 
 The artist is currently working as a core research artist at Concordia University with Project Someone as part of the UNESCO Chair in the Prevention of Radicalization and Violent Extremism. The arts-based research she carries out for the chair focuses on the challenge of institutional inclusion and working-class solidarity amid ecological crisis polarization.\
 \
-**Affiliation and Collectives**\
-\
-[Project Someone (UNESCO-PREV Chair)](https://www.concordia.ca/cunews/main/stories/2023/06/14/concordia-artist-collaborates-with-black-youth-at-dazibao-gallery.html)\
+**Affiliation and Collectives**
+
+****[Project Someone (UNESCO-PREV Chair)](https://www.concordia.ca/cunews/main/stories/2023/06/14/concordia-artist-collaborates-with-black-youth-at-dazibao-gallery.html)\
 [Acts of Listening Lab](https://www.concordia.ca/cuevents/finearts/listening/2021/04/14/i_can-t_stand_the_idea_of_putting_words.html?c=/finearts/research/labs/acts-of-listening/news)\
 [Centre for Oral History and Digital Storytelling](https://storytelling.concordia.ca/veronica-mockler/)\
 [Visible Art Collective](https://www.youtube.com/watch?v=zChKWbzR0mQ&ab_channel=VeronicaMockler)\
@@ -24,11 +24,11 @@ The artist is currently working as a core research artist at Concordia Universit
 
 **Recent Publication**
 
-[Mockler, Veronica “Home Rule”, Cigale Journal, no. 3 “Sovereignties”, 2022, pp. 84–91.](https://cigale-cigale.ca/)
+****[Mockler, Veronica “Home Rule”, Cigale Journal, no. 3 “Sovereignties”, 2022, pp. 84–91.](https://cigale-cigale.ca/)
 
 **Distribution**
 
-[Groupe Intervention Vidéo (GIV)](https://givideo.org/1/)\
+****[Groupe Intervention Vidéo (GIV)](https://givideo.org/1/)\
 [Vidéographe](https://www.videographe.org/)
 
 **Recent Media Coverage**
