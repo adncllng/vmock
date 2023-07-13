@@ -8,9 +8,10 @@ text: BIO
 ---
 **Short Biography**
 
-Veronica Mockler (b. 1991) is an artist and researcher of participatory dialogue that transform the act of listening to others into art form. Politically collaborative, her work takes on various shapes, including private interviews, public addresses, media performances, and listening scores. Her pieces have unfolded within diverse settings, spanning from curated art spaces to official governmental bodies, as well as academic institutions and community organizations. Mockler's practice is informed by oral history, documentary tradition, and radical working class education, and raises questions about who can participate in the institutions of citizenship, art and knowledge. 
+Veronica Mockler is an artist and researcher of participatory dialogue that transforms the act of listening to others into art form. Politically collaborative, her work takes on various shapes, including private interviews, public addresses, new media performances, and listening scores. Her pieces have unfolded within diverse settings, spanning from curated art spaces to official governmental bodies, as well as academic institutions and community organizations. Mockler's practice is informed by oral history, documentary tradition, and radical working class education, and raises questions about who can participate in the institutions of citizenship, art and knowledge.
 
-The artist is currently working as a core research artist at Concordia University with Project Someone as part of the UNESCO Chair in the Prevention of Radicalization and Violent Extremism. The arts-based research she carries out for the chair focuses on the challenge of institutional inclusion and working-class solidarity amid ecological crisis polarization.\
+The artist is currently working as a research associate at Concordia University with Project Someone in the Centre for the Study of Learning and Performance, as part of the UNESCO Chair in the Prevention of Radicalization and Violent Extremism. The participatory arts-based research focuses on the challenge of institutional inclusion and working-class solidarity amid ecological crisis polarization.
+
 \
 **Affiliation and Collectives**
 
