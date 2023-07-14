@@ -9,7 +9,7 @@ description: >-
   Collective exploring intersectional feminist listening and walking in public
   space.
 ---
-Womxn Walk the Walk is a collective of artists, researchers and community members who explore the intersectional experience of female identity in public space through group walks and storytelling in Montreal. Co-founded in the fall of 2019, the collective today consists of four core members (Amanda Gutierrez, Florencia Sosa Rey, Joanna Guillaume and Veronica Mockler) who collaborate with female-identifying community participants from various backgrounds to share and recognize stories of intersectional womxnhood through storytelling, oral history, performance, visual and sound art, new media, mapping and documentary. For more information on their work, visit _[womenwalkmontreal.tumblr.com](https://womenwalkmontreal.tumblr.com/)_.
+Womxn Walk the Walk is a collective of artists, researchers and community members who explore the intersectional experience of female identity in public space through group walks and storytelling in Montreal. Co-founded in the fall of 2019, the collective today consists of four core members (Amanda Gutierrez, Florencia Sosa Rey, Joanna Guillaume and Veronica Mockler) who collaborate with female-identifying community participants from various backgrounds to share and recognize stories of intersectional feminism through storytelling, oral history, performance, visual and sound art, new media, mapping and documentary.
 
 _Womxn Walk the Walk is the sister initiative of Brooklyn League of Women Walkers, co-founded by Amanda Gutierrez._ 
 
