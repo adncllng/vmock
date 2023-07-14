@@ -9,12 +9,9 @@ description: >-
   Two-year-long takeover of Dazibao Contemporary Art's exhibition community
   outreach program.
 ---
-# [CLICK INDIVIDUALLY ON NUMBERS 1, 2, 3 AND 4 TO EXPLORE THIS YEAR'S TAKEOVERS.](https://en.dazibao.art/a-l-image-takeover)
+🔗 First 4 Takeovers out of 8 available here: <https://en.dazibao.art/a-l-image-takeover>
 
-## Four more Takeovers are to come next year as part of Dazibao Contemporary Art's 2023-24 exhibition programming.\
-[🔗 Read full feature article on the _À l'image: Takeover_ series here!](https://www.concordia.ca/cunews/main/stories/2023/06/14/concordia-artist-collaborates-with-black-youth-at-dazibao-gallery.html)
-
-## 
+🔗 Full feature article on the _À l'image: Takeover_ series: [https://www.concordia.ca/cunews/main/stories/artist-collaborates.html ](https://www.concordia.ca/cunews/main/stories/2023/06/14/concordia-artist-collaborates-with-black-youth-at-dazibao-gallery.html)
 
 _À l'image: Takeover_ is a participatory art series in which, over two years, a group of young Montrealers intervenes and responds to Dazibao’s exhibition programming, collaborating with each other and their mentor, artist Veronica Mockler. Exploring various embodied and digital art practices, the youth develop a critical dialogue around our exhibitions, which among other things manifests online on our website over the course of the series. Conceived and led by Mockler, this work aims to invite the situated perspective of youth on a range of topics related to each exhibition such as futurity, mobility, labor, environmental crisis, anticolonialism, and posthumanism. Secondly, it aims to give youth professional agency in the arts, in the realization, representation and communication of their ideas. Seven young women between the ages of 13 and 21 answered to the invitation posed by À l'image: Takeover thanks to the support and promotion of the project by Black community mobilizers in Montreal’s Little Burgundy neighborhood.
 
