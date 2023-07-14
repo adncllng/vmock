@@ -1,5 +1,5 @@
 ---
-image: /img/screen-shot-2023-07-01-at-3.48.34-pm.jpeg
+image: /img/ctvv.jpeg
 templateKey: news-post
 locale: en
 pageKey: page_newspost
